@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+@font-face { 
+    font-family: 'sitelen pona pona';
+    src: url('https://jackhumbert.github.io/sitelen-pona-pona/fonts/sitelen-pona-pona.otf');
+    font-weight: 400;
+}
+
+.spp {
+    font-family: var(--selected-font);
+    text-rendering: optimizeLegibility;
+}
