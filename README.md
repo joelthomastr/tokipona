@@ -7,3 +7,5 @@ mi lukin e sitelen pona pona la ona li pona tawa mi. taso mi alasa e nasin pi ke
 ![sitelen pona pona luka wan](/tokipona/sppl-v1.png)
 
 <b>test. is this bold despite markdown?</b>
+
+<div class="spp">toki pona</div>
