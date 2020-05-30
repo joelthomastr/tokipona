@@ -1,4 +1,4 @@
-[sitelen Inli](https://joelthomastr.github.io/tokipona) - <div class="spp"><a href=https://joelthomastr.github.io/tokipona/READMEspp.md>sitelen pona pona</a></div> - [English](https://joelthomastr.github.io/tokipona/READMEen.md)
+[sitelen Inli](https://joelthomastr.github.io/tokipona) | <span class="spp"><a href="https://joelthomastr.github.io/tokipona/READMEspp.md">sitelen pona pona</a></span> | [English](https://joelthomastr.github.io/tokipona/READMEen.md)
 
 Hi there!
 
