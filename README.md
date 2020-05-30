@@ -12,6 +12,6 @@ mi lukin e sitelen pona pona la ona li pona tawa mi. taso mi alasa e nasin pi ke
 
 <b>test. is this bold despite markdown?</b>
 
-<div class="spp">mi wile e lukin e ni: mi kepeken e h2 la seme li lon?</div></h2>
+<h2><div class="spp">mi wile e lukin e ni: mi kepeken e h2 la seme li lon?</div></h2>
 taso tenpo ni la mi pana e sitelen div li lon insa sitelen h2
-<div class="spp">toki pona</div>
+<div class="spp">mi pakala e lawa mi!</div>
