@@ -9,7 +9,7 @@ ni li lipu mi sin. ijo pi lon anpa li suli ala. mi wile pona e ona. taso tenpo t
 
 <div class="spp">mi wile kepeken e lipu ni tawa ni: mi sitelen e ijo lili kepeken toki pona</div>
 
-<div class="spp">ni li lipu pi jan Telakoman</div>
+<span class="spp">ni li lipu pi jan</span> Telakoman
 
 # sitelen pona pona luka
 
