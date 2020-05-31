@@ -1,7 +1,7 @@
 [sitelen Inli](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_si) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_spp) | [English](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_en)
 
 # "Why do you use English like a crazy person?"
-`On 2020-05-31 I changed this page. I did not make changes after that.`
+> On 2020-05-31 I changed this page. I did not make changes after that.
 
 My mother tongue is English. I know how to use it well. But on these pages I want to do something different. I want to give people a look at this: What happens when we use Toki Pona for everything?
 
