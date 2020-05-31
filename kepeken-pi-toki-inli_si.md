@@ -1,6 +1,6 @@
 [sitelen Inli](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_si) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_spp) | [English](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_en)
 
-# "sina li kepeken e toki Inli sama jan nasa tan seme?"
+# "sina kepeken e toki Inli sama jan nasa tan seme?"
 > 2020-05-31 la mi ante e lipu ni. tenpo kama ona la mi ante ala.
 
 toki mama mi li toki Inli. mi sona e nasin pona pi kepeken toki Inli. taso lipu mute ni la mi wile pali e ijo ante. mi wile e pana lukin e ni tawa jan ale: mi mute kepeken e toki pona tawa ale la seme li lon?
