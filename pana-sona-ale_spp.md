@@ -1,6 +1,6 @@
 [sitelen Inli](https://joelthomastr.github.io/tokipona/pana-sona-ale_si) | <span class="spp"><a href="https://joelthomastr.github.io/tokipona/pana-sona-ale_spp">sitelen pona pona</a></span> | [English](https://joelthomastr.github.io/tokipona/pana-sona-ale_en)
 
-[<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona) > <span class="spp">lipu ni</span>
+[<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/READMEspp) > <span class="spp">lipu ni</span>
 
 # <span class="spp">mi mute li ken pana sona e ale kepeken toki pona!</span>
 2020-05-31<span class="spp">mi ante e lipu ni. tenpo kama ona la mi ante ala.</span>
@@ -19,5 +19,5 @@
 
 <span class="spp">jan mute li kepeken e nasin pi jan</span>Peman<span class="spp">kepeken toki</span>inli<span class="spp">anu toki ante tan mama.</span>   <span class="spp">ni li pona.</span>  <span class="spp">taso jan li kepeken nasin ni kepeken toki pona la ni li pona mute! tan seme? tan ni: sina kepeken toki pona la sina wile toki insa mute e ni: sona seme li lon insa toki mi?</span>   <span class="spp">sina kepeken toki tan mama la ken la sina sona ala e ni. taso sina kepeken toki pona la sina wile sona e ni. tan ni nasin jan</span>Peman<span class="spp">kepeken toki pona la ni li pona mute lon poka nasin jan</span>Peman<span class="spp">kepeken toki tan mama.</span>
 
-## <span class="spp">taso tan seme jan mute li toki e ni: sina ken ala toki e ale kepeken toki pona?</span> 
+## <span class="spp">taso tan seme jan mute li toki e ni: sina ken ala toki e ale kepeken toki pona?</span>
 <span class="spp">nasin pi pana sona ale kepeken toki pona</span>

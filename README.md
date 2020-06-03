@@ -1,26 +1,13 @@
-[sitelen Inli](https://joelthomastr.github.io/tokipona) | <span class="spp"><a href="https://joelthomastr.github.io/tokipona/READMEspp">sitelen pona pona</a></span> | [English](https://joelthomastr.github.io/tokipona/READMEen)
+[sitelen Inli](https://joelthomastr.github.io/tokipona) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/READMEspp) | [English](https://joelthomastr.github.io/tokipona/READMEen)
 
-[tomo](https://joelthomastr.github.io/tokipona) > lipu ni
+o pona! ni li lipu mi tawa ni: mi sitelen e ijo kepeken toki pona. mi wile kama sona e toki pona li musi li pana e musi e sona tawa ale!
 
-o pona!
+- mi pali e [sitelen pona pona luka](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_si). kepeken ona la sina ken sitelen e sitelen pona pona kepeken palisa sitelen kepeken tenpo lili. (ken la ni lon, mi wile e ni!)
+- sina ken toki e ni tawa mi: ["sina kepeken e toki Inli sama jan nasa tan seme?"](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_si)
 
-ni li lipu mi sin. ijo pi lon anpa li suli ala. mi wile pona e ona. taso tenpo tawa la mi pali e ni.
+ijo ante mute li lon lawa mi, ona li pini la mi pana e ona tawa sina.
 
----
+sina wile toki tawa mi la sina ken kepeken nasin ni:
+u/joelthomastr, Dragoman#5929
 
-
-<div class="spp">mi wile kepeken e lipu ni tawa ni: mi sitelen e ijo lili kepeken toki pona</div>
-
-<span class="spp">ni li lipu pi jan</span> Telakoman
-
-# sitelen pona pona luka
-
-mi lukin e sitelen pona pona la ona li pona tawa mi. taso mi alasa e nasin pi kepeken e ona kepeken tenpo lili. tan ni mi pali e sitelen pona pona luka:
-
-![sitelen pona pona luka wan](https://joelthomastr.github.io/tokipona/sppl-v1.png)
-
-<b>test. is this bold despite markdown?</b>
-
-<h2><div class="spp">mi wile e lukin e ni: mi kepeken e h2 la seme li lon?</div></h2>
-taso tenpo ni la mi pana e sitelen div li lon insa sitelen h2
-<div class="spp">mi pakala e lawa mi!</div>
+> 2020-06-02 la mi ante e lipu ni. tenpo kama ona la mi ante ala.
