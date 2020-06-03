@@ -1,6 +1,6 @@
 [sitelen Inli](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_si) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_spp) | [English](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_en)
 
-[Home](https://joelthomastr.github.io/tokipona) > This Page
+[Home](https://joelthomastr.github.io/tokipona/READMEen) > This Page
 
 # "Why do you use English like a crazy person?"
 > On 2020-05-31 I changed this page. I did not make changes after that.
