@@ -1,4 +1,6 @@
-<[sitelen Inli](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_si) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_spp) | [English](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_en)
+[sitelen Inli](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_si) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_spp) | [English](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_en)
+
+[<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/READMEspp) > <span class="spp">lipu ni</span>
 
 # "<span class="spp">sina kepeken e toki</span>Inli<span class="spp">sama jan nasa tan seme?</span>"
 > 2020-05-31<span class="spp">la mi ante e lipu ni. tenpo kama ona la mi ante ala.</span>
