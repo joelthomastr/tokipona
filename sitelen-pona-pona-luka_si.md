@@ -1,6 +1,6 @@
 [sitelen Inli](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_si) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_spp) | [English](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_en)
 
-[tomo](https://joelthomastr.github.io/tokipona/READMEsi) > lipu ni
+[tomo](https://joelthomastr.github.io/tokipona/README) > lipu ni
 
 # sitelen pona pona luka
 

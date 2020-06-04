@@ -1,6 +1,6 @@
 [sitelen Inli](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_si) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_spp) | [English](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_en)
 
-[Home](https://joelthomastr.github.io/tokipona) > This Page
+[Home](https://joelthomastr.github.io/tokipona/READMEen) > This Page
 
 # Sitelen Pona Pona Luka
 > I changed this page on 2020-06-02. I did not make changes after that
