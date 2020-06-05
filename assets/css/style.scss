@@ -3,9 +3,15 @@
 
 @import "{{ site.theme }}";
 
-@font-face { 
+@font-face {
     font-family: 'sitelen pona pona';
-    src: url("https://jackhumbert.github.io/sitelen-pona-pona/fonts/sitelen-pona-pona.otf");
+    src: url("https://joelthomastr.github.io/tokipona/sitelen-pona-pona.otf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'emojionecolor';
+    src: url("https://joelthomastr.github.io/tokipona/EmojiOneColor.otf");
     font-weight: 400;
 }
 
@@ -13,4 +19,8 @@
     font-family: 'sitelen pona pona';
     text-rendering: optimizeLegibility;
     font-size: 1.39em;
+}
+
+.sp {
+    font-family: 'emojionecolor';
 }
