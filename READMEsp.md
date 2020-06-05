@@ -4,6 +4,8 @@ o pona! ni li lipu mi tawa ni: mi sitelen e ijo kepeken toki pona. mi wile kama 
 
 - mi pali e [sitelen pona pona luka](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_si). kepeken ona la sina ken sitelen e sitelen pona pona kepeken palisa sitelen kepeken tenpo lili. (ken la ni lon, mi wile e ni!)
 - <span class="sp">&#x1f449;&#x1f4aa;&#x1f5e3;&#x23e9;&#xfe0f;&#x1f447;&#x21aa;&#xfe0f;&#x1f448;&#x2797;&#xfe0f;</span>[<span class="sp">&#x1f449;&#x1f527;&#x23e9;&#xfe0f;&#x1f5e3;Inli&#x2696;&#xfe0f;&#x1f464;&#x1f300;&#x21a9;&#xfe0f;&#x2753;&#xfe0f;</span>](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_si)
+- &#x1f449;&#x1f4aa;&#x1f5e3;&#x23e9;&#xfe0f;&#x1f447;&#x21aa;&#xfe0f;&#x1f448;&#x2797;&#xfe0f;[&#x1f449;&#x1f527;&#x23e9;&#xfe0f;&#x1f5e3;Inli&#x2696;&#xfe0f;&#x1f464;&#x1f300;&#x21a9;&#xfe0f;&#x2753;&#xfe0f;](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_si)
+- <i class="twa twa-backhand-index-pointing-right"></i><i class="twa twa-flexed-biceps"></i><i class="twa twa-speaking-head"></i><i class="twa twa-fast-forward-button"></i><i class="twa twa-backhand-index-pointing-down"></i><i class="twa twa-left-arrow-curving-right"></i><i class="twa twa-backhand-index-pointing-left"></i><i class="twa twa-division-sign"></i><i class="twa twa-backhand-index-pointing-right"></i><i class="twa twa-wrench"></i><i class="twa twa-fast-forward-button"></i><i class="twa twa-speaking-head"></i>Inli<i class="twa twa-balance-scale"></i><i class="twa twa-bust-in-silhouette"></i><i class="twa twa-cyclone"></i><i class="twa twa-right-arrow-curving-left"></i><i class="twa twa-question-mark"></i>
 
 ijo ante mute li lon lawa mi, ona li pini la mi pana e ona tawa sina.
 
