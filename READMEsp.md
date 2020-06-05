@@ -9,6 +9,8 @@ ijo ante mute li lon lawa mi, ona li pini la mi pana e ona tawa sina.
 
 &#x1f5e3;&#x1f4a7;
 
+<i class="twa twa-exclamation-mark"></i>
+
 
 sina wile toki tawa mi la sina ken kepeken nasin ni:
 u/joelthomastr, Dragoman#5929
