@@ -10,8 +10,8 @@
 }
 
 @font-face {
-    font-family: 'emojionecolor';
-    src: url("https://joelthomastr.github.io/tokipona/EmojiOneColor.otf");
+    font-family: 'linja pona';
+    src: url("https://joelthomastr.github.io/tokipona/linja-pona.otf");
     font-weight: 400;
 }
 
@@ -21,8 +21,10 @@
     font-size: 1.39em;
 }
 
-.sp {
-    font-family: 'emojionecolor';
+.lp {
+    font-family: 'linja pona';
+    text-rendering: optimizeLegibility;
+    font-size: 1.39em;
 }
 
 .twa {
