@@ -1,4 +1,4 @@
-[sitelen Inli](https://joelthomastr.github.io/tokipona) | [<span class="lp">linja pona</span>](https://joelthomastr.github.io/tokipona/READMElp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/READMEspp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/READMEse) | [English](https://joelthomastr.github.io/tokipona/READMEen)
+[sitelen Inli](https://joelthomastr.github.io/tokipona) | [<span class="lp">linja-pona </span>](https://joelthomastr.github.io/tokipona/READMElp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/READMEspp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/READMEse) | [English](https://joelthomastr.github.io/tokipona/READMEen)
 
 Be well! This is my page for this: I write something using Toki Pona. I want to learn Toki Pona, have fun, give fun and knowledge to all!
 
