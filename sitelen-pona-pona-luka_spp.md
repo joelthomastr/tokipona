@@ -38,6 +38,6 @@
 
 ![<span class="spp">sitelen pona pona luka nanpa tu</span>](https://joelthomastr.github.io/tokipona/sppl-v2-basic.jpg)
 
-<span class="spp">ken la mi ante e sitelen mi lon tenpo ante. taso ijo suli li lon la mi wile pali e ni. ken la sina kepeken e sitelen mi la sina lukin e ijo ike. ni la o toki tawa mi.</span> [<span class="spp">lipu tomo</span>](https://joelthomastr.github.io/tokipona) <span class="spp">la mi pana e nasin toki tawa sina.</span>
+<span class="spp">ken la mi ante e sitelen mi lon tenpo ante. taso ijo suli li lon la mi wile pali e ni. ken la sina kepeken e sitelen mi la sina lukin e ijo ike. ni la o toki tawa mi.</span> [<span class="spp">lipu tomo</span>](https://joelthomastr.github.io/tokipona/READMEspp) <span class="spp">la mi pana e nasin toki tawa sina.</span>
 
 <span class="spp">o pona!</span>
