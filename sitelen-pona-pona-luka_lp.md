@@ -1,12 +1,12 @@
-[sitelen Inli](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_si) | [<span class="lp">linja pona</span>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_lp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_spp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_se) | [English](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_en)
+[sitelen Inli](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_si) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_spp) | [English](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_en)
 
-[<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/README) > <span class="spp">lipu ni</span>
+[<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/READMEspp) > <span class="spp">lipu ni</span>
 
 # <span class="spp">sitelen pona pona luka</span>
 
-> 2020-06-02 <span class="spp">la mi ante e lipu ni. tenpo kama ona la mi ante ala.</span>
+> 2020-06-02<span class="spp">la mi ante e lipu ni. tenpo kama ona la mi ante ala.</span>
 
-[<span class="spp">sitelen pona pona</span>](https://jackhumbert.github.io/sitelen-pona-pona</span>/) <span class="spp">li sitelen ante lili tan</span> [<span class="spp">sitelen pona</span>](http://tokipona.net/tp/janpije/hieroglyphs.php). <span class="spp">taso ona li pona mute tawa mi.</span>
+<span class="spp">[sitelen pona pona](https://jackhumbert.github.io/sitelen-pona-pona/) li sitelen ante lili tan [sitelen pona](http://tokipona.net/tp/janpije/hieroglyphs.php). taso ona li pona mute tawa mi.</span>
 
 <span class="spp">taso mi wile sitelen kepeken wawa lili kepeken tenpo lili tan ni: mi wile sitelen ale tan lawa mi kepeken toki pona. mi wile kepeken e toki pona lon tenpo suno ale.</span>
 
@@ -15,7 +15,7 @@
 <span class="spp">mi pali e ni kepeken nasin ni: mi lukin e ijo suli lon insa ijo sitelen ale. mi pali e kulupu mute tan sitelen ale. tenpo kama la mi ante e sitelen ale tawa ni:</span>
 - <span class="spp">mi kepeken linja wan tawa sitelen wan</span>
 - <span class="spp">mi sitelen kepeken tenpo lili la luka mi li pilin ike ala</span>
-- <span class="spp">mi sitelen kepeken tenpo lili la mi toki ala e ni: "sitelen ni li seme? mi sona ala."</span>
+- <span class="spp">mi sitelen kepeken tenpo lili la mi toki ala e ni:</span> <span class="spp">"sitelen ni li seme? mi sona ala."</span>
 
 ![<span class="spp">sitelen pona pona luka nanpa tu</span>](https://joelthomastr.github.io/tokipona/sppl-v1.png)
 
@@ -38,6 +38,6 @@
 
 ![<span class="spp">sitelen pona pona luka nanpa tu</span>](https://joelthomastr.github.io/tokipona/sppl-v2-basic.jpg)
 
-<span class="spp">ken la mi ante e sitelen mi lon tenpo ante. taso ijo suli li lon la mi wile pali e ni. ken la sina kepeken e sitelen mi la sina lukin e ijo ike. ni la o toki tawa mi.</span> [<span class="spp">lipu tomo</span>](https://joelthomastr.github.io/tokipona) <span class="spp">la mi pana e nasin toki tawa sina.</span>
+<span class="spp">ken la mi ante e sitelen mi lon tenpo ante. taso ijo suli li lon la mi wile pali e ni. ken la sina kepeken e sitelen mi la sina lukin e ijo ike. ni la o toki tawa mi.  [lipu tomo](https://joelthomastr.github.io/tokipona/READMEspp) la mi pana e nasin toki tawa sina.</span>
 
 <span class="spp">o pona!</span>
