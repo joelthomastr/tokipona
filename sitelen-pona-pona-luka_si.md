@@ -1,6 +1,6 @@
 [sitelen Inli](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_si) | [<span class="lp">linja pona</span>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_lp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_spp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_se) | [English](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_en)
 
-[tomo](https://joelthomastr.github.io/tokipona/README) > lipu ni
+[tomo](https://joelthomastr.github.io/tokipona/) > lipu ni
 
 # sitelen pona pona luka
 
