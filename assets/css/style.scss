@@ -1,11 +1,9 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+$font-size: 130%;
 
-html {
-  font-size: 130%;
-}
+@import "{{ site.theme }}";
 
 @font-face {
     font-family: 'sitelen pona pona';
