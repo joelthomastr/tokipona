@@ -1,7 +1,9 @@
 ---
 ---
 
-$font-size: 130%;
+html {
+  font-size: 125%;
+}
 
 @import "{{ site.theme }}";
 
