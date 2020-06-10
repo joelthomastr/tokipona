@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+html {
+  font-size: 130%;
+}
+
 @font-face {
     font-family: 'sitelen pona pona';
     src: url("https://joelthomastr.github.io/tokipona/sitelen-pona-pona.otf");
