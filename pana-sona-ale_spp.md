@@ -13,6 +13,11 @@
 - [<span class="spp">nasin pi pana sona e ale kepeken toki pona</span>](#ijo4)
 - [<span class="spp">toki pini</span>](#ijo5)
 
+<!-- LikeBtn.com BEGIN -->
+<span class="likebtn-wrapper" data-theme="gray" data-i18n_like="pona" data-identifier="pana-sona-ale_spp" data-share_size="large" data-i18n_dislike="ni li ike tawa mi" data-i18n_like_tooltip="lipu ni li pona tawa mi" data-i18n_dislike_tooltip="lipu ni li ike tawa mi" data-i18n_unlike_tooltip="lipu ni li pona ala tawa mi" data-i18n_undislike_tooltip="lipu ni li ike ala tawa mi" data-i18n_share_text="o pana e lipu ni tawa jan ante!" data-i18n_popup_close="o weka" data-i18n_popup_text="o pona!"></span>
+<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
+<!-- LikeBtn.com END -->
+
 <a name="ijo1"></a>
 ## <span class="spp">kepeken pi toki pona li pona tan seme?</span>
 <span class="spp">toki pona li toki pali. toki pali li seme? sina sona ala e toki pali tan mama sina. jan li pali e toki pali tan lawa ona.</span>

@@ -21,9 +21,9 @@ There are many made languages. But Toki Pona is a different made language. Why i
 
 Sonja Lang made Toki Pona. She wrote a [page](http://tokipona.net/tp/janpije/whytokipona.php) for this knowledge demand: Why is it good to use Toki Pona? In this page Sonja Lang gives many good things of Toki Pona. One thing is this: When a person uses Toki Pona he must know this: What is there inside what he says? If he does not know this he cannot use Toki Pona.
 
-I say this: This speech is the situation. When a person uses a parent language his speech is good for him from this: He comes to have the thing of his will. At that time another person knows this: What does he say inside? But possibly the user person of a parent language does not know this: What knowledge is there inside his speech?
+I say this: This speech is the situation. When a person uses a parent speech his speech is good for him from this: He comes to have the thing of his will. At that time another person knows this: What does he say inside? But possibly the user person of a parent speech does not know this: What knowledge is there inside his speech?
 
-With parent language why is this the situation? With a parent language many names are there. With many things two names are there toward the same thing. But possibly the user person of parent language does not know this. At one time he says something using one name. At a coming time he says the same thing using a different name. But he says this inside: "There are two names. This being so, two things are there." But one thing is there really.
+With parent speech why is this the situation? With a parent speech many names are there. With many things two names are there toward the same thing. But possibly the user person of parent speech does not know this. At one time he says something using one name. At a coming time he says the same thing using a different name. But he says this inside: "There are two names. This being so, two things are there." But one thing is there really.
 
 Having many names is bad, because of what? This is bad because of many things. I give two things from these many things.
 
@@ -60,9 +60,9 @@ This being so, a person can give heavy knowledge using Toki Pona. But many peopl
 
 Possibly they say this because of this:
 
-When a person wants to speak using Toki Pona he has an inside speech of a parent language. Possibly he hunts for one name or group of names of Toki Pona toward one name of a parent language. In many groups of Toki Pona I see this: A person says like this to a knowledge person of Toki Pona: "When I want to say this using Toki Pona I must use which name?"
+When a person wants to speak using Toki Pona he has an inside speech of a parent speech. Possibly he hunts for one name or group of names of Toki Pona toward one name of a parent speech. In many groups of Toki Pona I see this: A person says like this to a knowledge person of Toki Pona: "When I want to say this using Toki Pona I must use which name?"
 
-But with Toki Pona only one name is there for many names of a parent language. When a person uses this name of Toki Pona another person cannot know this: This name is toward what thing?
+But with Toki Pona only one name is there for many names of a parent speech. When a person uses this name of Toki Pona another person cannot know this: This name is toward what thing?
 
 Possibly this is the underthing of this speech: A person cannot give heavy knowledge using Toki Pona.
 
@@ -100,7 +100,7 @@ In the coming time, give knowledge of one small thing. In the coming time, give 
 
 When I say something using a parent speech I can use its name. But with Toki Pona I must give a new name group to it. Possibly a person looking only knows the official Toki Pona. I want to write toward a person like this. This being so, I must give knowledge of the new name group of my speech toward them.
 
-The end of this is this: I write many names. When I use a parent language I use few names. But with Toki Pona I must write many names. This is not crazy looking because of this: This is the way of Toki Pona.
+The end of this is this: I write many names. When I use a parent speech I use few names. But with Toki Pona I must write many names. This is not crazy looking because of this: This is the way of Toki Pona.
 
 Names of parent speeches number what? All parent speeches are different. But many persons of English use this amount of different names: Two hundred times a hundred names. This being so, one name in a parent speech can give much knowledge. This being so, you can give knowledge using few names.
 
