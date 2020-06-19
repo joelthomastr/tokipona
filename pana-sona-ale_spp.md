@@ -1,6 +1,6 @@
 [sitelen Inli](https://joelthomastr.github.io/tokipona/pana-sona-ale_si) | [<span class="lp">linja-pona </span>](https://joelthomastr.github.io/tokipona/pana-sona-ale_lp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/pana-sona-ale_spp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/pana-sona-ale_se) | [English](https://joelthomastr.github.io/tokipona/pana-sona-ale_en)
 
-<a name="lawalipu"></a</span>>
+<a name="lawalipu"></a>
 [<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/READMEspp)&nbsp;> <span class="spp">lipu ni</span>
 
 # <span class="spp">mi en sina ken pana sona e ale kepeken toki pona!</span>
@@ -13,7 +13,7 @@
 - [<span class="spp">nasin pi pana sona e ale kepeken toki pona</span>](#ijo4)
 - [<span class="spp">toki pini</span>](#ijo5)
 
-<a name="ijo1"></a</span>>
+<a name="ijo1"></a>
 ## <span class="spp">kepeken pi toki pona li pona tan seme?</span>
 <span class="spp">toki pona li toki pali. toki pali li seme? sina sona ala e toki pali tan mama sina. jan li pali e toki pali tan lawa ona.</span>
 
@@ -37,7 +37,7 @@
 
 [<span class="spp">lawa pi lipu ni</span>](#lawalipu)
 
-<a name="ijo2"></a</span>>
+<a name="ijo2"></a>
 ## <span class="spp">jan mute li toki e ni: jan li ken ala toki e ale kepeken toki pona</span>
 
 [<span class="spp">lipu</span>](http://tokipona.net/tp/janpije/whytokipona.php) <span class="spp">pi jan Sonja la ona li toki e ni: ijo suli mute li lon sama ni: jan li ken ala pana e sona ona kepeken toki pona. jan Lope li</span> [<span class="spp">toki sama ona</span>](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jan-<span class="spp">Lope</span>/Toki_Pona_lessons_English/gh-pages/toki-pona-lessons_en/index.html#SECTION00210000000000000000).
@@ -52,7 +52,7 @@
 
 [<span class="spp">lawa pi lipu ni</span>](#lawalipu)
 
-<a name="ijo3"></a</span>>
+<a name="ijo3"></a>
 ## <span class="spp">jan mute li toki e ni tan seme?</span>
 <span class="spp">kepeken toki pona la jan li ken ala ken toki e sona lili? ona li ken. ona li ken ala ken pana e linja tan sona lili wan tawa sona lili ante? ona li ken. ona li ken ala ken pali e kulupu pi sona lili mute kepeken nasin ni? ona li ken.</span>
 
@@ -76,7 +76,7 @@
 
 [<span class="spp">lawa pi lipu ni</span>](#lawalipu)
 
-<a name="ijo4"></a</span>>
+<a name="ijo4"></a>
 ## <span class="spp">nasin pi pana sona e ale kepeken toki pona</span>
 <span class="spp">mi toki e ni: mi en sina ken toki li ken pana sona e ale kepeken toki pona. taso mi en sina wile kepeken e nasin pona tawa ni.</span>
 
@@ -118,7 +118,7 @@
 
 [<span class="spp">lawa pi lipu ni</span>](#lawalipu)
 
-<a name="ijo5"></a</span>>
+<a name="ijo5"></a>
 ## <span class="spp">toki pini</span>
 
 <span class="spp">kepeken nasin ni la mi toki e ni: mi en sina ken pana e sona ale kepeken toki pona.</span>
