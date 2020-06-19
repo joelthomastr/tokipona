@@ -1,4 +1,4 @@
-[sitelen Inli](https://joelthomastr.github.io/tokipona) | [<span class="lp">linja-pona </span>](https://joelthomastr.github.io/tokipona/READMElp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/READMEspp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/READMEse) | [English](https://joelthomastr.github.io/tokipona/READMEen)
+[sitelen Inli](https://joelthomastr.github.io/tokipona/READMEsi) | [<span class="lp">linja-pona </span>](https://joelthomastr.github.io/tokipona/READMElp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/READMEspp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/READMEse) | [English](https://joelthomastr.github.io/tokipona/READMEen)
 
 o pona! ni li lipu mi tawa ni: mi sitelen e ijo kepeken toki pona. mi wile kama sona e toki pona li musi li pana e musi e sona tawa ale!
 
@@ -22,12 +22,12 @@ u/joelthomastr, Dragoman#5929
   method="POST"
 >
   <label>
-    <span class="lp">sina-wile pana e lipu [_esun_mute_esun_li] tawa-mi la o kepeken e ilo-ni:<br>nimi poki [_esun_mute_esun_li] sina:</span>
+    sina-wile pana e lipu E-mail tawa-mi la o kepeken e ilo-ni:<br>nimi poki E-mail sina:<br>
     <input type="text" name="_replyto">
   </label>
   <label>
-    <span class="lp">toki-sina</span>:<br>
+    toki sina:<br>
     <textarea name="message"></textarea>
   </label>
-
+<br>
   <button type="submit"><span class="lp">o pana!</span></button>
