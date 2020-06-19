@@ -2,6 +2,7 @@
 
 <span class="spp">o pona! ni li lipu mi tawa ni: mi sitelen e ijo kepeken toki pona. mi wile kama sona e toki pona li musi li pana e musi e sona tawa ale!</span>
 
+- (<span class="spp">sin</span>) <span class="spp">mi toki e ni:</span> [<span class="spp">mi en sina ken pana sona e ale kepeken toki pona!</span>](https://joelthomastr.github.io/tokipona/pana-sona-ale_spp)
 - <span class="spp">mi pali e</span> [<span class="spp">sitelen pona pona luka</span>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_spp). <span class="spp">kepeken ona la sina ken sitelen e sitelen pona pona kepeken palisa sitelen kepeken tenpo lili.</span> (<span class="spp">ken la ni lon, mi wile e ni!</span>)
 - <span class="spp">sina ken toki e ni tawa mi:</span> [<span class="spp">"sina kepeken e toki Inli sama jan nasa tan seme?"</span>](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_spp)
 
