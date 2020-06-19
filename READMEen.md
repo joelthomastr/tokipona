@@ -24,6 +24,6 @@ u/joelthomastr, Dragoman#5929
     <textarea name="message"></textarea>
   </label>
 <br>
-  <button type="submit">give!</button>
+  <button type="submit">Give!</button>
 
 > I changed this page on 2020-06-19. I did not make changes after that
