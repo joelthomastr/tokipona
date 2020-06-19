@@ -1,6 +1,6 @@
 [sitelen Inli](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_si) | [<span class="lp">linja-pona </span>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_lp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_spp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_se) | [English](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_en)
 
-[tomo](https://joelthomastr.github.io/tokipona/) > lipu ni
+[tomo](https://joelthomastr.github.io/tokipona/READMEsi) > lipu ni
 
 # sitelen pona pona luka
 
@@ -41,3 +41,8 @@ lon anpa ni la mi pana e sitelen lukin. sina ken lukin e sitelen ale pi sitelen 
 ken la mi ante e sitelen mi lon tenpo ante. taso ijo suli li lon la mi wile pali e ni. ken la sina kepeken e sitelen mi la sina lukin e ijo ike. ni la o toki tawa mi. [lipu tomo](https://joelthomastr.github.io/tokipona) la mi pana e nasin toki tawa sina.
 
 o pona!
+
+<!-- LikeBtn.com BEGIN -->
+<span class="likebtn-wrapper" data-theme="gray" data-i18n_like="pona" data-identifier="sitelen-pona-pona-luka_si" data-share_size="large" data-i18n_dislike="ni li ike tawa mi" data-i18n_like_tooltip="lipu ni li pona tawa mi" data-i18n_dislike_tooltip="lipu ni li ike tawa mi" data-i18n_unlike_tooltip="lipu ni li pona ala tawa mi" data-i18n_undislike_tooltip="lipu ni li ike ala tawa mi" data-i18n_share_text="o pana e lipu ni tawa jan ante!" data-i18n_popup_close="o weka" data-i18n_popup_text="o pona!"></span>
+<script>(function(d,e,s){if(d.getElementById("likebtn_wjs"))return;a=d.createElement(e);m=d.getElementsByTagName(e)[0];a.async=1;a.id="likebtn_wjs";a.src=s;m.parentNode.insertBefore(a, m)})(document,"script","//w.likebtn.com/js/w/widget.js");</script>
+<!-- LikeBtn.com END -->
