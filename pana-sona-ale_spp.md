@@ -1,7 +1,7 @@
 [sitelen Inli](https://joelthomastr.github.io/tokipona/pana-sona-ale_si) | [<span class="lp">linja-pona </span>](https://joelthomastr.github.io/tokipona/pana-sona-ale_lp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/pana-sona-ale_spp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/pana-sona-ale_se) | [English](https://joelthomastr.github.io/tokipona/pana-sona-ale_en)
 
 <a name="lawalipu"></a</span>>
-[<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/README_spp)&nbsp;> <span class="spp">lipu ni</span>
+[<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/READMEspp)&nbsp;> <span class="spp">lipu ni</span>
 
 # <span class="spp">mi en sina ken pana sona e ale kepeken toki pona!</span>
 
@@ -135,7 +135,7 @@
 
 [<span class="spp">lawa pi lipu ni</span>](#lawalipu)
 
-[<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/READMEsi)
+[<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/READMEspp)
 
 > 2020-06-19 <span class="spp">la mi ante e lipu ni. tenpo kama ona la mi ante ala.</span>
 

@@ -1,7 +1,7 @@
 [sitelen Inli](https://joelthomastr.github.io/tokipona/pana-sona-ale_si) | [<span class="lp">linja-pona </span>](https://joelthomastr.github.io/tokipona/pana-sona-ale_lp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/pana-sona-ale_spp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/pana-sona-ale_se) | [English](https://joelthomastr.github.io/tokipona/pana-sona-ale_en)
 
 <a name="lawalipu"></a>
-[<span style="background-color:#574500;"><i class="twa twa-house"></i></span>](https://joelthomastr.github.io/tokipona/README_se)&nbsp;> <i class="twa twa-page-facing-up"></i><i class="twa twa-backhand-index-pointing-down"></i>
+[<span style="background-color:#574500;"><i class="twa twa-house"></i></span>](https://joelthomastr.github.io/tokipona/READMEse)&nbsp;> <i class="twa twa-page-facing-up"></i><i class="twa twa-backhand-index-pointing-down"></i>
 
 # <i class="twa twa-backhand-index-pointing-left"></i><i class="twa twa-plus-sign"></i><i class="twa twa-backhand-index-pointing-right"></i><i class="twa twa-flexed-biceps"></i><i class="twa twa-outbox-tray"></i><i class="twa twa-brain"></i><i class="twa twa-fast-forward-button"></i><i class="twa twa-infinity"></i><i class="twa twa-wrench"></i><i class="twa twa-speaking-head"></i><i class="twa twa-thumbs-up"></i>!
 
@@ -135,7 +135,7 @@
 
 [<span style="background-color:#574500;"><i class="twa twa-face-without-mouth"></i><i class="twa twa-stop-button"></i><i class="twa twa-page-facing-up"></i><i class="twa twa-backhand-index-pointing-down"></i></span>](#lawalipu)
 
-[<span style="background-color:#574500;"><i class="twa twa-house"></i></span>](https://joelthomastr.github.io/tokipona/READMEsi)
+[<span style="background-color:#574500;"><i class="twa twa-house"></i></span>](https://joelthomastr.github.io/tokipona/READMEse)
 
 > 2020-06-19 <i class="twa twa-upwards-button"></i><i class="twa twa-backhand-index-pointing-left"></i><i class="twa twa-shuffle-tracks-button"></i><i class="twa twa-fast-forward-button"></i><i class="twa twa-page-facing-up"></i><i class="twa twa-backhand-index-pointing-down"></i><i class="twa twa-minus-sign"></i> <i class="twa twa-alarm-clock"></i><i class="twa twa-person-walking"></i><i class="twa twa-backhand-index-pointing-up"></i><i class="twa twa-upwards-button"></i><i class="twa twa-backhand-index-pointing-left"></i><i class="twa twa-shuffle-tracks-button"></i><i class="twa twa-cross-mark"></i><i class="twa twa-minus-sign"></i>
 

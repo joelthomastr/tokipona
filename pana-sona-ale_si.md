@@ -1,7 +1,7 @@
 [sitelen Inli](https://joelthomastr.github.io/tokipona/pana-sona-ale_si) | [<span class="lp">linja-pona </span>](https://joelthomastr.github.io/tokipona/pana-sona-ale_lp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/pana-sona-ale_spp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/pana-sona-ale_se) | [English](https://joelthomastr.github.io/tokipona/pana-sona-ale_en)
 
 <a name="lawalipu"></a>
-[tomo](https://joelthomastr.github.io/tokipona/README_si)&nbsp;> lipu ni
+[tomo](https://joelthomastr.github.io/tokipona/READMEsi)&nbsp;> lipu ni
 
 # mi en sina ken pana sona e ale kepeken toki pona!
 
