@@ -1,6 +1,6 @@
 [sitelen Lasina](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_si) | [<span class="lp">linja-pona </span>](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_lp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_spp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_se) | [English](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_en)
 
-[<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/READMEse) > <span class="spp">lipu ni</span>
+[<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/READMEspp) > <span class="spp">lipu ni</span>
 
 # <span class="spp">"sina kepeken e toki Inli sama jan nasa tan seme?"</span>
 

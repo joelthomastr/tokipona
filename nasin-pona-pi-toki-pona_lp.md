@@ -1,7 +1,7 @@
 [sitelen Lasina](https://joelthomastr.github.io/tokipona/nasin-pona-pi-toki-pona_si) | [<span class="lp">linja-pona </span>](https://joelthomastr.github.io/tokipona/nasin-pona-pi-toki-pona_lp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/nasin-pona-pi-toki-pona_spp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/nasin-pona-pi-toki-pona_se) | [English](https://joelthomastr.github.io/tokipona/nasin-pona-pi-toki-pona_en)
 
 <a name="lawalipu"></a>
-[<span class="lp">tomo </span>](https://joelthomastr.github.io/tokipona/READMEsi)&nbsp;> <span class="lp">lipu-ni </span>
+[<span class="lp">tomo </span>](https://joelthomastr.github.io/tokipona/READMElp)&nbsp;> <span class="lp">lipu-ni </span>
 
 # <span class="lp">nasin pona pi+toki-pona </span>
 
