@@ -1,14 +1,16 @@
-[sitelen Inli](https://joelthomastr.github.io/tokipona/READMEsi) | [<span class="lp">linja-pona </span>](https://joelthomastr.github.io/tokipona/READMElp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/READMEspp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/READMEse) | [English](https://joelthomastr.github.io/tokipona/READMEen)
+[sitelen Lasina](https://joelthomastr.github.io/tokipona/READMEsi) | [<span class="lp">linja-pona </span>](https://joelthomastr.github.io/tokipona/READMElp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/READMEspp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/READMEse) | [English](https://joelthomastr.github.io/tokipona/READMEen)
 
-<span class="lp">o pona! ni li lipu-mi tawa-ni: mi sitelen e ijo kepeken toki-pona. mi-wile kama-sona e toki-pona li musi li pana e musi e sona tawa-ale! </span>
+<span class="lp">o pona! ni li lipu mi tawa ni: mi sitelen e ijo kepeken toki-pona. mi wile kama-sona e toki-pona li musi li pana e musi e sona tawa ale! </span>
 
-- (<span class="lp">sin </span>) <span class="lp">mi-toki e ni: </span> [<span class="lp">mi-en sina-ken pana-sona e ale kepeken toki-pona! </span>](https://joelthomastr.github.io/tokipona/pana-sona-ale_lp)
-- <span class="lp">mi pali e </span> [<span class="lp">sitelen-pona pona luka </span>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_lp). <span class="lp">kepeken ona la sina-ken sitelen e sitelen-pona pona kepeken palisa-sitelen kepeken tenpo-lili. </span> (<span class="lp">ken la ni lon, mi-wile e ni! </span>)
-- <span class="lp">sina-ken toki e ni tawa-mi: </span> [<span class="lp">"sina kepeken e toki [_ilo_nasin_li_ilo] sama jan-nasa tan-seme?" </span>](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_lp)
+- (<span class="lp">sin </span>) <span class="lp">tawa mi la ni li </span> [<span class="lp">nasin pona pi+toki-pona </span>](https://joelthomastr.github.io/tokipona/nasin-pona-pi-toki-pona_lp).
+- <span class="lp">mi toki e ni: </span> [<span class="lp">mi en sina ken pana-sona e ale kepeken toki-pona! </span>](https://joelthomastr.github.io/tokipona/pana-sona-ale_lp)
+- <span class="lp">mi pali e </span> [<span class="lp">sitelen-pona pona luka </span>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_lp). <span class="lp">kepeken ona la sina ken sitelen e sitelen-pona pona kepeken palisa-sitelen kepeken tenpo lili. </span> (<span class="lp">ken la ni lon, mi wile e ni! </span>)
+- <span class="lp">sina ken toki e ni tawa mi: </span> [<span class="lp">"sina kepeken e toki [_ilo_nasin_li_ilo] sama jan-nasa tan seme?" </span>](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_lp)
 
-<span class="lp">ijo-ante mute li lon lawa-mi, ona li pini la mi pana e ona tawa-sina. </span>
+<span class="lp">ijo-ante mute li lon lawa mi, ona li pini la mi pana e ona tawa sina. </span>
 
-> 2020-06-19 <span class="lp">la mi ante e lipu-ni. tenpo-kama ona la mi ante ala. </span>
+> 2020-06-24 <span class="lp">la mi ante e lipu-ni. tenpo-kama ona la mi ante ala. </span>
+
 
 <!-- LikeBtn.com BEGIN -->
 <span class="likebtn-wrapper" data-theme="gray" data-i18n_like="pona" data-identifier="READMElp" data-share_size="large" data-i18n_dislike="ni li ike tawa mi" data-i18n_like_tooltip="lipu ni li pona tawa mi" data-i18n_dislike_tooltip="lipu ni li ike tawa mi" data-i18n_unlike_tooltip="lipu ni li pona ala tawa mi" data-i18n_undislike_tooltip="lipu ni li ike ala tawa mi" data-i18n_share_text="o pana e lipu ni tawa jan ante!" data-i18n_popup_close="o weka" data-i18n_popup_text="o pona!"></span>
