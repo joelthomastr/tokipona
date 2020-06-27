@@ -1,4 +1,4 @@
-[sitelen Lasin](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_si) | [<span class="lp">linja-pona </span>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_lp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_spp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_se) | [English](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_en)
+[sitelen Lasina](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_si) | [<span class="lp">linja-pona </span>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_lp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_spp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_se) | [English](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_en)
 
 [Home](https://joelthomastr.github.io/tokipona/READMEen) > This Page
 

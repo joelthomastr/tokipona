@@ -1,4 +1,4 @@
-[sitelen Lasin](https://joelthomastr.github.io/tokipona/READMEsi) | [<span class="lp">linja-pona </span>](https://joelthomastr.github.io/tokipona/READMElp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/READMEspp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/READMEse) | [English](https://joelthomastr.github.io/tokipona/READMEen)
+[sitelen Lasina](https://joelthomastr.github.io/tokipona/READMEsi) | [<span class="lp">linja-pona </span>](https://joelthomastr.github.io/tokipona/READMElp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/READMEspp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/READMEse) | [English](https://joelthomastr.github.io/tokipona/READMEen)
 
 <span class="lp">o pona! ni li lipu mi tawa ni: mi sitelen e ijo kepeken toki-pona. mi wile kama-sona e toki-pona li musi li pana e musi e sona tawa ale! </span>
 
