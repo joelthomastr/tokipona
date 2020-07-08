@@ -1,15 +1,9 @@
-<div class="spp">mi wile kepeken e lipu ni tawa ni: mi sitelen e ijo lili kepeken toki pona</div>
+# Test! Yeyyy!
 
-<span class="spp">ni li lipu pi jan</span> Telakoman
+<span class="spp">mi kepeken sitelen noka la seme li lon?[^1]</span>
 
-# sitelen pona pona luka
+[^1]: <span class="spp">ni li lon</span>
 
-mi lukin e sitelen pona pona la ona li pona tawa mi. taso mi alasa e nasin pi kepeken e ona kepeken tenpo lili. tan ni mi pali e sitelen pona pona luka:
+<span class="spp">mi wile lukin e ni: mi pana e sitelen pi toki noka lon insa ala la seme li lon?</span>[^2]
 
-![sitelen pona pona luka wan](https://joelthomastr.github.io/tokipona/sppl-v1.png)
-
-<b>test. is this bold despite markdown?</b>
-
-<h2><div class="spp">mi wile e lukin e ni: mi kepeken e h2 la seme li lon?</div></h2>
-taso tenpo ni la mi pana e sitelen div li lon insa sitelen h2
-<div class="spp">mi pakala e lawa mi!</div>
+[^2]: <span class="spp">ni li lon</span>
