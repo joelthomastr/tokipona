@@ -1,3 +1,7 @@
+---
+redirect_from: "READMEsi"
+---
+
 {% include header.md pagename="README" %}
 
 o pona! ni li lipu mi tawa ni: mi sitelen e ijo kepeken toki pona. mi wile kama sona e toki pona li musi li pana e musi e sona tawa ale!

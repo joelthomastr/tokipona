@@ -1,2 +1,5 @@
 theme: jekyll-theme-midnight
 title: lipu pi jan Telakoman
+
+plugins:
+  - jekyll-redirect-from
