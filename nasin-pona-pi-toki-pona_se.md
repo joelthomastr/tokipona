@@ -18,6 +18,6 @@
 
 <p align="right"><i class="twa twa-bust-in-silhouette"></i> <i class="twa twa-input-symbols"></i><i class="twa twa-speaking-head"></i><i class="twa twa-plus-sign"></i><i class="twa twa-page-facing-up"></i><i class="twa twa-bow-and-arrow"></i><i class="twa twa-dashing-away"></i><i class="twa twa-two-hearts"></i><i class="twa twa-family"></i><i class="twa twa-down-arrow"></i><i class="twa twa-motorway"></i><i class="twa twa-input-symbols"></i></p>
 
-{% include ytpyante-pini_se.md date="2020-07-08" %}
+{% include ante-pini_se.md date="2020-07-08" %}
 
 {% include likebtn.md pagename_lang="nasin-pona-pi-toki-pona_se" %}

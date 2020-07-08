@@ -18,6 +18,6 @@
 
 <p align="right"><span class="spp">jan Telakoman</span></p>
 
-{% include <span class="spp">ante-pini_spp.md date="2020-07-08" %}
+{% include ante-pini_spp.md date="2020-07-08" %}
 
 {% include likebtn.md pagename_lang="nasin-pona-pi-toki-pona_spp" %}

@@ -18,6 +18,6 @@
 
 <p align="right"><span class="lp">jan [_toki_en_lipu_alasa_kon_olin_mama_anpa_nasin] </span></p>
 
-{% include <span class="lp">ante-pini_lp.md date="2020-07-08" %}
+{% include ante-pini_lp.md date="2020-07-08" %}
 
 {% include likebtn.md pagename_lang="nasin-pona-pi-toki-pona_lp" %}
