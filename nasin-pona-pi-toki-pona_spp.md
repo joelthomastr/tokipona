@@ -10,7 +10,7 @@
 <span class="spp">o pana pona e sona</span><br>
 <span class="spp">ni taso li wile</span></p>
 
-<p align="center"><span class="spp">sina ante toki la</span><br>
+<p align="center"><span class="spp">sina ante e toki la</span><br>
 <span class="spp">o alasa ala e nimi wan tawa nimi wan</span><br>
 <span class="spp">o alasa ala e nimi lili tawa nimi lili</span><br>
 <span class="spp">o alasa e toki pona tawa wile sina</span><br>
@@ -18,6 +18,6 @@
 
 <p align="right"><span class="spp">jan Telakoman</span></p>
 
-{% include ante-pini_spp.md date="2020-06-24" %}
+{% include <span class="spp">ante-pini_spp.md date="2020-07-08" %}
 
 {% include likebtn.md pagename_lang="nasin-pona-pi-toki-pona_spp" %}

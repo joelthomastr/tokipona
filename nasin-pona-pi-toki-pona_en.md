@@ -18,6 +18,6 @@ This alone is needed</p>
 
 <p align="right">"The Dragoman" (Joel Thomas)</p>
 
-{% include ante-pini_en.md date="2020-06-24" %}
+{% include ante-pini_en.md date="2020-07-08" %}
 
 {% include likebtn.md pagename_lang="nasin-pona-pi-toki-pona_en" %}
