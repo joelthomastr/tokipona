@@ -2,7 +2,7 @@
 
 # Test! Yeyyy!
 
-<span class="spp">mi kepeken sitelen noka la seme li lon?[^ni-li-seme]</span>
+<span class="spp">mi kepeken sitelen noka la <a name="seme-li-lon-mama"></a>[seme li lon](#seme-li-lon)?</span>
 
 [^ni-li-seme]: <span class="spp">ni li lon</span>
 
@@ -10,8 +10,10 @@
 
 [^2]: <span class="spp">ni li lon</span>
 
-<span class="spp">ni li alasa pi sona wawa nanpa luka luka tu tu</span>
+<span class="spp">ni li alasa pi sona wawa nanpa luka luka luka</span>
 
 {% include likebtn.md pagename_lang="sandbox" %}
 
 ----
+
+{% include seme-li-lon_spp.md %}
