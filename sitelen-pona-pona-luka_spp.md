@@ -1,6 +1,6 @@
 {% include header.md pagename="sitelen-pona-pona-luka" %}
 
-[<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/READMEspp) > <span class="spp">lipu ni</span>
+[<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/README_spp) > <span class="spp">lipu ni</span>
 
 # <span class="spp">sitelen pona pona luka</span>
 {% include ante-pini_spp.md date="2020-06-02" %}

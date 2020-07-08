@@ -1,7 +1,7 @@
 {% include header.md pagename="nasin-pona-pi-toki-pona" %}
 
 <a name="lawalipu"></a>
-[home](https://joelthomastr.github.io/tokipona/READMEsi)&nbsp;> this page
+[home](https://joelthomastr.github.io/tokipona/README_si)&nbsp;> this page
 
 # The Good Way of Toki Pona
 

@@ -9,7 +9,7 @@
 
 <span class="lp">ijo-ante mute li lon lawa mi, ona li pini la mi pana e ona tawa sina. </span>
 
-{% include ante-pini_en.md date="2020-06-24" %}
+{% include ante-pini_lp.md date="2020-06-24" %}
 
 {% include likebtn.md pagename_lang="README_lp" %}
 

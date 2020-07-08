@@ -1,7 +1,7 @@
 {% include header.md pagename="pana-sona-ale" %}
 
 <a name="lawa"></a>
-[Home](https://joelthomastr.github.io/tokipona/READMEen)&nbsp;> This Page
+[Home](https://joelthomastr.github.io/tokipona/README_en)&nbsp;> This Page
 
 # You and I can give knowledge of everything using Toki Pona!
 {% include ante-pini_en.md date="2020-06-19" %}
@@ -139,5 +139,3 @@ Be well!
 [top of this page](#lawa)
 
 [tomo](https://joelthomastr.github.io/tokipona/READMEen)
-
-{% include likebtn.md pagename_lang="pana-sona-ale_en" %}

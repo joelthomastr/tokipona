@@ -1,6 +1,6 @@
 {% include header.md pagename="kepeken-pi-toki-inli" %}
 
-[tomo](https://joelthomastr.github.io/tokipona/READMEsi) > lipu ni
+[tomo](https://joelthomastr.github.io/tokipona/README_si) > lipu ni
 
 # "sina kepeken e toki Inli sama jan nasa tan seme?"
 

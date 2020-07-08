@@ -1,7 +1,7 @@
 {% include header.md pagename="nasin-pona-pi-toki-pona" %}
 
 <a name="lawalipu"></a>
-[<span style="background-color:#574500;"><i class="twa twa-house"></i></span>](https://joelthomastr.github.io/tokipona/READMEse)&nbsp;> <i class="twa twa-page-facing-up"></i><i class="twa twa-backhand-index-pointing-down"></i>
+[<span style="background-color:#574500;"><i class="twa twa-house"></i></span>](https://joelthomastr.github.io/tokipona/README_se)&nbsp;> <i class="twa twa-page-facing-up"></i><i class="twa twa-backhand-index-pointing-down"></i>
 
 # <i class="twa twa-motorway"></i><i class="twa twa-thumbs-up"></i><i class="twa twa-stop-button"></i><i class="twa twa-speaking-head"></i><i class="twa twa-thumbs-up"></i>
 

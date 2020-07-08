@@ -1,7 +1,7 @@
 {% include header.md pagename="pana-sona-ale" %}
 
 <a name="lawalipu"></a>
-[tomo](https://joelthomastr.github.io/tokipona/READMEsi)&nbsp;> lipu ni
+[tomo](https://joelthomastr.github.io/tokipona/README_si)&nbsp;> lipu ni
 
 # mi en sina ken pana sona e ale kepeken toki pona!
 {% include ante-pini_si.md date="2020-06-19" %}
@@ -139,5 +139,3 @@ o pona!
 [lawa pi lipu ni](#lawalipu)
 
 [tomo](https://joelthomastr.github.io/tokipona/READMEsi)
-
-{% include likebtn.md pagename_lang="pana-sona-ale_si" %}

@@ -1,6 +1,6 @@
 {% include header.md pagename="sitelen-pona-pona-luka" %}
 
-[Home](https://joelthomastr.github.io/tokipona/READMEen) > This Page
+[Home](https://joelthomastr.github.io/tokipona/README_en) > This Page
 
 # Sitelen Pona Pona Luka
 {% include ante-pini_en.md date="2020-06-02" %}

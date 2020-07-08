@@ -1,7 +1,7 @@
 {% include header.md pagename="nasin-pona-pi-toki-pona" %}
 
 <a name="lawalipu"></a>
-[<span class="lp">tomo </span>](https://joelthomastr.github.io/tokipona/READMElp)&nbsp;> <span class="lp">lipu-ni </span>
+[<span class="lp">tomo </span>](https://joelthomastr.github.io/tokipona/README_lp)&nbsp;> <span class="lp">lipu-ni </span>
 
 # <span class="lp">nasin pona pi+toki-pona </span>
 

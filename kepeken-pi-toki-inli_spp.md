@@ -1,6 +1,6 @@
 {% include header.md pagename="kepeken-pi-toki-inli" %}
 
-[<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/READMEspp) > <span class="spp">lipu ni</span>
+[<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/README_spp) > <span class="spp">lipu ni</span>
 
 # <span class="spp">"sina kepeken e toki Inli sama jan nasa tan seme?"</span>
 

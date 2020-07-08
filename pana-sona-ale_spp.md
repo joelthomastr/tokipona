@@ -1,7 +1,7 @@
 {% include header.md pagename="pana-sona-ale" %}
 
 <a name="lawalipu"></a>
-[<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/READMEspp)&nbsp;> <span class="spp">lipu ni</span>
+[<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/README_spp)&nbsp;> <span class="spp">lipu ni</span>
 
 # <span class="spp">mi en sina ken pana sona e ale kepeken toki pona!</span>
 {% include ante-pini_spp.md date="2020-06-19" %}
@@ -139,5 +139,3 @@
 [<span class="spp">lawa pi lipu ni</span>](#lawalipu)
 
 [<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/READMEspp)
-
-{% include likebtn.md pagename_lang="pana-sona-ale_spp" %}

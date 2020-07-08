@@ -1,6 +1,6 @@
 {% include header.md pagename="sitelen-pona-pona-luka" %}
 
-[<span style="background-color:#574500;"><i class="twa twa-house"></i></span>](https://joelthomastr.github.io/tokipona/READMEse) > <i class="twa twa-page-facing-up"></i><i class="twa twa-backhand-index-pointing-down"></i>
+[<span style="background-color:#574500;"><i class="twa twa-house"></i></span>](https://joelthomastr.github.io/tokipona/README_se) > <i class="twa twa-page-facing-up"></i><i class="twa twa-backhand-index-pointing-down"></i>
 
 # <i class="twa twa-framed-picture"></i><i class="twa twa-thumbs-up"></i><i class="twa twa-thumbs-up"></i><i class="twa twa-raised-hand"></i>
 {% include ante-pini_se.md date="2020-06-02" %}

@@ -1,6 +1,6 @@
 {% include header.md pagename="kepeken-pi-toki-inli" %}
 
-[<span style="background-color:#574500;"><i class="twa twa-house"></i></span>](https://joelthomastr.github.io/tokipona/READMEse) > <i class="twa twa-page-facing-up"></i><i class="twa twa-backhand-index-pointing-down"></i>
+[<span style="background-color:#574500;"><i class="twa twa-house"></i></span>](https://joelthomastr.github.io/tokipona/README_se) > <i class="twa twa-page-facing-up"></i><i class="twa twa-backhand-index-pointing-down"></i>
 
 # "<i class="twa twa-backhand-index-pointing-right"></i><i class="twa twa-wrench"></i><i class="twa twa-fast-forward-button"></i><i class="twa twa-speaking-head"></i> <i class="twa twa-input-symbols"></i><i class="twa twa-gear"></i><i class="twa twa-motorway"></i><i class="twa twa-play-button"></i><i class="twa twa-gear"></i><i class="twa twa-input-symbols"></i> <i class="twa twa-balance-scale"></i><i class="twa twa-bust-in-silhouette"></i><i class="twa twa-cyclone"></i><i class="twa twa-right-arrow-curving-left"></i><i class="twa twa-question-mark"></i>"
 
