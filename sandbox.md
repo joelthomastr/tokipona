@@ -1,3 +1,5 @@
+{% include header.md pagename="sandbox" %}
+
 # Test! Yeyyy!
 
 <span class="spp">mi kepeken sitelen noka la seme li lon?[^ni-li-seme]</span>
@@ -8,10 +10,8 @@
 
 [^2]: <span class="spp">ni li lon</span>
 
+<span class="spp">ni li alasa pi sona wawa nanpa luka luka tu wan</span>
 
-`include header.md pagename="sandbox"`
+{% include likebtn.md pagename_lang="sandbox" %}
 
-{% include header.md pagename="sandbox" %}
-
-
-<span class="spp">ni li alasa pi sona wawa nanpa luka luka tu</span>
+----
