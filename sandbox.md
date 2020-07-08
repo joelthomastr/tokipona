@@ -9,9 +9,9 @@
 [^2]: <span class="spp">ni li lon</span>
 
 
-`include_relative header.md pagename="sandbox"`
+`include header.md pagename="sandbox"`
 
-{% include_relative header.md pagename="sandbox" %}
+{% include header.md pagename="sandbox" %}
 
 
-<span class="spp">ni li alasa pi sona wawa nanpa luka luka wan</span>
+<span class="spp">ni li alasa pi sona wawa nanpa luka luka tu</span>
