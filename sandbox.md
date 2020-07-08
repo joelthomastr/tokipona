@@ -1,7 +1,3 @@
----
-pagename: sandbox
----
-
 # Test! Yeyyy!
 
 <span class="spp">mi kepeken sitelen noka la seme li lon?[^ni-li-seme]</span>
@@ -18,4 +14,4 @@ pagename: sandbox
 {% include_relative header.md pagename="sandbox" %}
 
 
-<span class="spp">ni li alasa pi sona wawa nanpa luka luka</span>
+<span class="spp">ni li alasa pi sona wawa nanpa luka luka wan</span>
