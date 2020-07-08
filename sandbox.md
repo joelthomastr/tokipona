@@ -12,7 +12,6 @@
 
 <span class="spp">ni li alasa pi sona wawa nanpa luka luka luka tu</span>
 
-{% include likebtn.md pagename_lang="sandbox" %}
 
 ----
 

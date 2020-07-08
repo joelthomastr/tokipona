@@ -1,4 +1,4 @@
-[sitelen Lasina](https://joelthomastr.github.io/tokipona/READMEsi) | [<span class="lp">linja-pona </span>](https://joelthomastr.github.io/tokipona/READMElp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/READMEspp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/READMEse) | [English](https://joelthomastr.github.io/tokipona/READMEen)
+{% include header.md pagename="README" %}
 
 Be well! This is my page for this: I write something using Toki Pona. I want to learn Toki Pona, have fun, give fun and knowledge to all!
 
@@ -9,7 +9,7 @@ Be well! This is my page for this: I write something using Toki Pona. I want to 
 
 Many other things are in my head, when they are finished I will give them to you.
 
-> On 2020-06-19 I changed this page. I did not make changes after that
+{% include ante-pini_en.md date="2020-06-24" %}
 
 <!-- LikeBtn.com BEGIN -->
 <span class="likebtn-wrapper" data-theme="gray" data-i18n_like="pona" data-identifier="READMEen" data-share_size="large" data-i18n_dislike="ni li ike tawa mi" data-i18n_like_tooltip="lipu ni li pona tawa mi" data-i18n_dislike_tooltip="lipu ni li ike tawa mi" data-i18n_unlike_tooltip="lipu ni li pona ala tawa mi" data-i18n_undislike_tooltip="lipu ni li ike ala tawa mi" data-i18n_share_text="o pana e lipu ni tawa jan ante!" data-i18n_popup_close="o weka" data-i18n_popup_text="o pona!"></span>

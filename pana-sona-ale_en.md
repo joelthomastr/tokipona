@@ -1,9 +1,10 @@
-[sitelen Lasina](https://joelthomastr.github.io/tokipona/pana-sona-ale_si) | [<span class="lp">linja-pona </span>](https://joelthomastr.github.io/tokipona/pana-sona-ale_lp) | [<span class="spp">sitelen pona pona</span>](https://joelthomastr.github.io/tokipona/pana-sona-ale_spp) | [<i class="twa twa-framed-picture"></i><i class="twa twa-red-heart"></i>](https://joelthomastr.github.io/tokipona/pana-sona-ale_se) | [English](https://joelthomastr.github.io/tokipona/pana-sona-ale_en)
+{% include header.md pagename="pana-sona-ale" %}
 
 <a name="lawa"></a>
 [Home](https://joelthomastr.github.io/tokipona/READMEen)&nbsp;> This Page
 
 # You and I can give knowledge of everything using Toki Pona!
+{% include ante-pini_en.md date="2020-06-19" %}
 
 The heavy things in this page are:
 
@@ -141,8 +142,6 @@ Be well!
 [top of this page](#lawa)
 
 [tomo](https://joelthomastr.github.io/tokipona/READMEen)
-
-> On 2020-06-19 I changed this page. I did not make changes after that
 
 <!-- LikeBtn.com BEGIN -->
 <span class="likebtn-wrapper" data-theme="gray" data-i18n_like="pona" data-identifier="pana-sona-ale_en" data-share_size="large" data-i18n_dislike="ni li ike tawa mi" data-i18n_like_tooltip="lipu ni li pona tawa mi" data-i18n_dislike_tooltip="lipu ni li ike tawa mi" data-i18n_unlike_tooltip="lipu ni li pona ala tawa mi" data-i18n_undislike_tooltip="lipu ni li ike ala tawa mi" data-i18n_share_text="o pana e lipu ni tawa jan ante!" data-i18n_popup_close="o weka" data-i18n_popup_text="o pona!"></span>
