@@ -8,4 +8,12 @@
 
 [^2]: <span class="spp">ni li lon</span>
 
-<span class="spp">ni li alasa pi sona wawa nanpa tu wan</span>
+`{% include header %}`
+{% include header %}
+
+
+`{% include header.md %}`
+{% include header.md %}
+
+
+<span class="spp">ni li alasa pi sona wawa nanpa tu tu</span>
