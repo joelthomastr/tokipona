@@ -13,14 +13,9 @@ pagename: sandbox
 [^2]: <span class="spp">ni li lon</span>
 
 
-`include_relative header.md`
-
-{% include_relative header.md %}
-
-
 `include_relative header.md pagename="sandbox"`
 
 {% include_relative header.md pagename="sandbox" %}
 
 
-<span class="spp">ni li alasa pi sona wawa nanpa luka tu tu</span>
+<span class="spp">ni li alasa pi sona wawa nanpa luka luka</span>
