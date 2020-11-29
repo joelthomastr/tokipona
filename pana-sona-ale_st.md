@@ -6,7 +6,7 @@
 # <span class="st">jan li ken pana e sona ale kepeken tokipona</span>
 {% include ante-pini_st.md date="2020-08-29" %}
 
-{% include jan-pona_st.md name=" <span class="st">jan [KAPU]</span> (Gabriel Mizrahi)" %}
+{% include jan-pona_st.md name=" jan [KAPU] (Gabriel Mizrahi)" %}
 
 <span class="st">mi toki eni lon lipu ni:</span>
 
