@@ -15,6 +15,12 @@
     font-weight: 400;
 }
 
+@font-face {
+    font-family: 'sitelen telo';
+    src: url("https://joelthomastr.github.io/tokipona/sitelen_telo_1.01.otf");
+    font-weight: 400;
+}
+
 body {
   font-size: 120%;
 }
@@ -27,6 +33,12 @@ body {
 
 .lp {
     font-family: 'linja pona';
+    text-rendering: optimizeLegibility;
+    font-size: 1.39em;
+}
+
+.st {
+    font-family: 'sitelen telo';
     text-rendering: optimizeLegibility;
     font-size: 1.39em;
 }
