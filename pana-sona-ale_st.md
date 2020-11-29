@@ -1,7 +1,7 @@
 {% include header.md pagename="pana-sona-ale" %}
 
 <a name="lawalipu"></a>
-[<span class="st">tomo</span>](https://joelthomastr.github.io/tokipona/README)&nbsp;> <span class="st">lipu ni</span>
+[<span class="st">tomo</span>](https://joelthomastr.github.io/tokipona/README_en)&nbsp;> <span class="st">lipu ni</span>
 
 # <span class="st">jan li ken pana e sona ale kepeken tokipona</span>
 {% include ante-pini_st.md date="2020-08-29" %}
