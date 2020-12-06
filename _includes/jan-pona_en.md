@@ -1,1 +1,1 @@
-> I and jan {{ include.name }} bettered this page.
+> I and {{ include.name }} bettered this page.

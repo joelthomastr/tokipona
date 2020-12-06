@@ -59,15 +59,15 @@ taso wile sona ni li lon: jan li ken ala ken toki e ale kepeken toki pona?
 
 jan Sonja en jan Lope li sona pona e toki pona. mi jan sin pi toki pona. taso toki ni li ike tawa mi. toki ni li lon la mi pilin ike. mi wile e ni: toki ni li lon ala. mi pilin e ni tan seme?
 
-toki pona li sama tomo. tomo li jo e lupa kama e lupa lukin e selo poka e selo lawa. taso jan li pali e tomo sin la ona li open e pali ona lon nasin ni: ona li pali e supa kiwen lon ma. ni li wawa e anpa tomo. nanpa wan la jan li pali e supa anpa pona. tenpo kama la ona li pali e selo poka e selo lawa e lupa kama e lupa lukin. supa anpa li awen e ijo ante ale lon tomo.
+toki pona li sama tomo. tomo li jo e lupa kama e lupa lukin e selo poka e selo lawa. taso jan li pali e tomo sin la ona li open e pali ona lon nasin ni: ona li pali e supa kiwen lon ma. ni li wawa e noka tomo. nanpa wan la jan li pali e supa noka pona. tenpo kama la ona li pali e selo poka e selo lawa e lupa kama e lupa lukin. supa noka li awen e ijo ante ale lon tomo.
 
-toki pona li jo e supa anpa sama ni. jan Sonja en jan mute ante pi toki pona li pali e toki pona la ona mute li jo e toki suli. ona mute li pali e toki pona la toki suli ni li pana e nasin tawa ona mute. toki suli ni li pona la toki suli ni li pana e nasin pona. nasin li pona la toki pona li kama pona. mi toki e ni: toki suli ni li sama supa kiwen pi anpa tomo. toki suli ni li supa anpa pi toki pona.
+toki pona li jo e supa noka sama ni. jan Sonja en jan mute ante pi toki pona li pali e toki pona la ona mute li jo e toki suli. ona mute li pali e toki pona la toki suli ni li pana e nasin tawa ona mute. toki suli ni li pona la toki suli ni li pana e nasin pona. nasin li pona la toki pona li kama pona. mi toki e ni: toki suli ni li sama supa kiwen pi noka tomo. toki suli ni li supa noka pi toki pona.
 
-supa anpa pi toki pona li seme? ijo mute li lon supa anpa pi toki pona. ijo wan li ni: sona suli pi lawa jan li suli lukin taso. sona pi suli lukin li suli ala. lon la sona pi suli lukin li kulupu pi sona lili mute.
+supa noka pi toki pona li seme? ijo mute li lon supa noka pi toki pona. ijo wan li ni: sona suli pi lawa jan li suli lukin taso. sona pi suli lukin li suli ala. lon la sona pi suli lukin li kulupu pi sona lili mute.
 
-jan li toki e ni la mi pilin ike: toki pona li ken ala pana e sona ale. mi pilin ike tan ni: toki ni li utala e supa anpa pi toki pona.
+jan li toki e ni la mi pilin ike: toki pona li ken ala pana e sona ale. mi pilin ike tan ni: toki ni li utala e supa noka pi toki pona.
 
-taso jan mute li toki e ni: jan li ken ala pana e sona suli kepeken toki pona. ni li lon la mi pilin e ni: toki pona li pona ala tawa supa anpa ona. taso mi toki e ni: jan li ken pana e sona suli ale kepeken toki pona.
+taso jan mute li toki e ni: jan li ken ala pana e sona suli kepeken toki pona. ni li lon la mi pilin e ni: toki pona li pona ala tawa supa noka ona. taso mi toki e ni: jan li ken pana e sona suli ale kepeken toki pona.
 
 [lawa pi lipu ni](#lawalipu)
 
@@ -85,7 +85,7 @@ taso tenpo mute la ni li lon: jan li kepeken nimi pona lon toki pona la jan ante
 
 pini la jan mute li toki e ni: jan li ken ala pana e sona suli kepeken toki pona. taso mi la toki ni li lon ala.
 
-mi jan pi ante toki. ni li pali mi tawa mani. ni pali e ante toki la mi pali e ni: mi lukin e lipu. mi kama jo e sona pi lipu ni. mi sitelen e sona sama lon toki ante. mi ken pali e ijo sama lon nasin toki uta. mi pali e pali ni lon tenpo mute.
+mi jan pi ante toki. ni li pali mi tawa mani. mi pali e ante toki la mi pali e ni: mi lukin e lipu. mi kama jo e sona pi lipu ni. mi sitelen e sona sama lon toki ante. mi ken pali e ijo sama lon nasin toki uta. mi pali e pali ni lon tenpo mute.
 
 jan pi ante toki li lukin e nimi la ona li wile pana e kon sama lon nasin toki ante. ona li toki e ni: nimi ni li pana e sona seme? taso jan pi ante toki li ken ala pali e ni taso. ante la ona li wile toki e ni: nimi ni li pana e sona seme lon poka pi toki ante ale lon lipu ni?
 
@@ -109,8 +109,7 @@ mi toki e ni: jan li ken pana e sona ale kepeken toki pona. taso jan li wile kep
 
 ### o pana e lawa sina tawa ni taso: jan lukin li kama sona e seme?
 
-pali pi ante toki li nasin seme? jan mute li sona pona ala e pali pi ante toki. jan mute li toki e ni: mi pali pona e ante toki la mi wile kepeken nimi pi mute sama lon toki nanpa tu.
-mi wile kepeken linja toki pi mute sama lon toki nanpa tu. lipu lon toki nanpa wan li kepeken toki lili la lipu lon toki nanpa tu li wile kepeken toki lili sama. lipu lon toki nanpa tu li wile kepeken nimi pi mute sama tawa pana pi sona sama. taso ni li lon ala.
+pali pi ante toki li nasin seme? jan mute li sona pona ala e pali pi ante toki. jan mute li toki e ni: mi pali pona e ante toki la mi wile kepeken nimi pi mute sama lon toki nanpa tu. mi wile kepeken linja toki pi mute sama lon toki nanpa tu. lipu lon toki nanpa wan li kepeken toki lili la lipu lon toki nanpa tu li wile kepeken toki lili sama. lipu lon toki nanpa tu li wile kepeken nimi pi mute sama tawa pana pi sona sama. taso ni li lon ala.
 
 ijo suli li ni taso: jan li lukin e lipu pi toki nanpa wan la ona li sona anu pilin e ijo wan. jan li lukin e lipu lon toki nanpa tu la ona li sona anu pilin e ijo sama anu seme? pali pi ante toki la ni taso li suli. ijo ante li suli ala. mute toki anu mute nimi anu mute pi linja toki li suli ala.
 
