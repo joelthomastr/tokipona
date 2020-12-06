@@ -42,7 +42,7 @@ The second thing is this:
 
 Many times a person knows the speech of a different person in a parent language. But their knowledge is not good. Possibly one word gives big knowledge or much knowledge. Possibly this knowledge is different inside the head of the other person.
 
-When a person uses a big word he can mess up. When the first person says a thing using a big word the second person says this inside their head: I know that big word. But possibly their knowledge of the big word is not like the knowledge of the first person. The second person says this to the first person: I know your speech. But the second person does not know. His knowledge is broken knowledge.
+When a person uses a big word he can mess up. When the first person says a thing using a big word the second person says this inside their head: I know that big word. But possibly their knowledge of the big word is not like the knowledge of the first person. The second person says this to the first person: I know your speech. But the second person does not know. Their knowledge is broken knowledge.
 
 In future time the second person does damage because of this: They use broken knowledge. Their knowledge is broken because of this: When the first person used big words the second person did not know the essence of that big word. But the second person does not know this: Their knowledge is broken because of what?
 
@@ -95,7 +95,7 @@ When two persons communicate the first person uses a word. The second person wan
 
 In Toki Pona this is important knowledge. When a person does not know this important knowledge he can mess up. This is important knowledge because of what? One word of a parent language is like a small container of knowledge things. The quantity of these knowledge things is small. But in Toki Pona one word is like a big container of knowledge things. The quantity of these knowledge things is many.
 
-In parent languages the first person can say little. The second person can know the essence of his speech. But in Toki Pona the first person must say much. If the first person says little, the second person cannot know the essence of his speech.
+In parent languages the first person can say little. The second person can know the essence of their speech. But in Toki Pona the first person must say much. If the first person says little, the second person cannot know the essence of their speech.
 
 [head of this page](#lawa)
 
