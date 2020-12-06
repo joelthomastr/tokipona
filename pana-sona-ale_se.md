@@ -158,6 +158,6 @@
 
 [<span style="background-color:#574500;"><i class="twa twa-face-without-mouth"></i><i class="twa twa-stop-button"></i><i class="twa twa-page-facing-up"></i><i class="twa twa-backhand-index-pointing-down"></i></span>](#lawalipu)
 
-[<span style="background-color:#574500;"><i class="twa twa-house"></i></span>](https://joelthomastr.github.io/tokipona/READMEsi)
+[<span style="background-color:#574500;"><i class="twa twa-house"></i></span>](https://joelthomastr.github.io/tokipona/README_se)
 
 {% include ante-pini_se.md date="2020-11-30" %}

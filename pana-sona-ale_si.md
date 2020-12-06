@@ -158,6 +158,6 @@ sona suli li lon ala. sona pi suli lukin li ni taso: poki suli pi sona lili mute
 
 [lawa pi lipu ni](#lawalipu)
 
-[tomo](https://joelthomastr.github.io/tokipona/READMEsi)
+[tomo](https://joelthomastr.github.io/tokipona/README_si)
 
 {% include ante-pini_si.md date="2020-11-30" %}

@@ -158,6 +158,6 @@ Heavy knowledge does not exist. Heavy looking knowledge is only this: A heavy co
 
 [head of this page](#lawa)
 
-[home](https://joelthomastr.github.io/tokipona/READMEen)
+[home](https://joelthomastr.github.io/tokipona/README_en)
 
 {% include ante-pini_en.md date="2020-12-07" %}

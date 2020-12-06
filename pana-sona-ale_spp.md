@@ -158,6 +158,6 @@
 
 [<span class='spp'>lawa pi lipu ni</span>](#lawalipu)
 
-[<span class='spp'>tomo</span>](https://joelthomastr.github.io/tokipona/READMEsi)
+[<span class='spp'>tomo</span>](https://joelthomastr.github.io/tokipona/README_spp)
 
 {% include ante-pini_spp.md date="2020-11-30" %}
