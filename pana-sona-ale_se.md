@@ -1,6 +1,6 @@
 {% include header.md pagename="pana-sona-ale" %}
 
-<a name="lawalipu'></a>
+<a name="lawalipu"></a>
 [<span style="background-color:#574500;"><i class='twa twa-house'></i></span>](https://joelthomastr.github.io/tokipona/README_se)&nbsp;> <i class='twa twa-page-facing-up'></i><i class='twa twa-backhand-index-pointing-down'></i>
 
 # <i class='twa twa-bust-in-silhouette'></i><i class='twa twa-play-button'></i><i class='twa twa-flexed-biceps'></i><i class='twa twa-outbox-tray'></i><i class='twa twa-fast-forward-button'></i><i class='twa twa-brain'></i><i class='twa twa-infinity'></i><i class='twa twa-wrench'></i><i class='twa twa-speaking-head'></i><i class='twa twa-thumbs-up'></i>
