@@ -1,6 +1,6 @@
 {% include header.md pagename="kepeken-pi-toki-inli" %}
 
-[<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/README_st) > <span class="spp">lipu ni</span>
+[<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/README_spp) > <span class="spp">lipu ni</span>
 
 # <span class="spp">"sina kepeken toki Inli sama jan nasa tan seme?"</span>
 
@@ -12,4 +12,4 @@
 
 {% include ante-pini_st.md date="2020-12-06" %}
 
-{% include likebtn.md pagename_lang="kepeken-pi-toki-inli_st" %}
+{% include likebtn.md pagename_lang="kepeken-pi-toki-inli_spp" %}
