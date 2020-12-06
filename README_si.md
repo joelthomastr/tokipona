@@ -4,16 +4,16 @@ redirect_from: "READMEsi"
 
 {% include header.md pagename="README" %}
 
-o pona! ni li lipu mi tawa ni: mi sitelen e ijo kepeken toki pona. mi wile kama sona e toki pona li musi li pana e musi e sona tawa ale!
+o pona! ni li kulupu lipu mi tawa ni: mi sitelen e ijo kepeken toki pona. mi wile kama sona e toki pona li musi li pana e musi e sona tawa ale!
 
-- (sin) tawa mi la ni li [nasin pona pi toki pona](https://joelthomastr.github.io/tokipona/nasin-pona-pi-toki-pona_si).
-- mi toki e ni: [mi en sina ken pana sona e ale kepeken toki pona!](https://joelthomastr.github.io/tokipona/pana-sona-ale_si)
-- mi pali e [sitelen pona pona luka](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_si). kepeken ona la sina ken sitelen e sitelen pona pona kepeken palisa sitelen kepeken tenpo lili. (ken la ni lon, mi wile e ni!)
-- sina ken toki e ni tawa mi: ["sina kepeken e toki Inli sama jan nasa tan seme?"](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_si)
+- mi sin e lipu ni: [jan li ken pana e sona ale kepeken toki pona](https://joelthomastr.github.io/tokipona/pana-sona-ale_si). tenpo pini mute la mi pali e sijelo nanpa wan pi lipu ni. taso tenpo kama ona la mi lukin e ni: pakala li lon. o pona tawa jan Kapu. ona li pana e sona tawa mi. mi pona e lipu mi la mi kepeken sona ona. mi pana e sijelo sin pi lipu ni tawa sina.
+- mi la ni li [nasin pona pi toki pona](https://joelthomastr.github.io/tokipona/nasin-pona-pi-toki-pona_si).
+- mi pali e [sitelen pona pona luka](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_si). kepeken ona la sina ken sitelen e sitelen pona pona kepeken palisa sitelen kepeken tenpo lili. (ken la ni li lon, mi wile e ni!)
+- sina ken toki e ni tawa mi: ["sina kepeken toki Inli sama jan nasa tan seme?"](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_si)
 
-ijo ante mute li lon lawa mi, ona li pini la mi pana e ona tawa sina.
+ijo ante mute li lon lawa mi, mi pali e ona la mi pana e ona tawa sina lon kulupu lipu ni
 
-{% include ante-pini_si.md date="2020-06-24" %}
+{% include ante-pini_si.md date="2020-12-06" %}
 
 {% include likebtn.md pagename_lang="README_si" %}
 

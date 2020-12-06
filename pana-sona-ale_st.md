@@ -1,12 +1,10 @@
 {% include header.md pagename="pana-sona-ale" %}
 
 <a name="lawalipu"></a>
-[<span class="st">tomo</span>](https://joelthomastr.github.io/tokipona/README_en)&nbsp;> <span class="st">lipu ni</span>
+[<span class="st">tomo</span>](https://joelthomastr.github.io/tokipona/README_st)&nbsp;> <span class="st">lipu ni</span>
 
 # <span class="st">jan li ken pana e sona ale kepeken tokipona</span>
-{% include ante-pini_st.md date="2020-08-29" %}
-
-{% include jan-pona_st.md name=" jan [KAPU] (Gabriel Mizrahi)" %}
+{% include jan-pona_st.md name=" <span class="st">jan [KAPU]</span> (Gabriel Mizrahi)" %}
 
 <span class="st">mi toki eni lon lipu ni:</span>
 
@@ -162,3 +160,5 @@
 [<span class="st">lawa pi lipu ni</span>](#lawalipu)
 
 [<span class="st">tomo</span>](https://joelthomastr.github.io/tokipona/READMEsi)
+
+{% include ante-pini_st.md date="2020-11-30" %}

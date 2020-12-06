@@ -6,7 +6,7 @@
 # <span class="spp">nasin pona pi toki pona</span>
 
 <p align="center"><span class="spp">toki sina</span><br>
-<span class="spp">o utala ala e pu</span><br>
+<span class="spp">o utala ala e nasin pu</span><br>
 <span class="spp">o pana pona e sona</span><br>
 <span class="spp">ni taso li wile</span></p>
 

@@ -6,7 +6,7 @@
 # nasin pona pi toki pona
 
 <p align="center">toki sina<br>
-o utala ala e pu<br>
+o utala ala e nasin pu<br>
 o pana pona e sona<br>
 ni taso li wile</p>
 

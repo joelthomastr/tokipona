@@ -6,7 +6,7 @@
 # <i class="twa twa-motorway"></i><i class="twa twa-thumbs-up"></i><i class="twa twa-stop-button"></i><i class="twa twa-speaking-head"></i><i class="twa twa-thumbs-up"></i>
 
 <p align="center"><i class="twa twa-speaking-head"></i><i class="twa twa-backhand-index-pointing-right"></i><br>
-<i class="twa twa-waving-hand"></i><i class="twa twa-crossed-swords"></i><i class="twa twa-cross-mark"></i><i class="twa twa-fast-forward-button"></i><i class="twa twa-open-book"></i><br>
+<i class="twa twa-waving-hand"></i><i class="twa twa-crossed-swords"></i><i class="twa twa-cross-mark"></i><i class="twa twa-fast-forward-button"></i><i class="twa twa-motorway"></i><i class="twa twa-open-book"></i><br>
 <i class="twa twa-waving-hand"></i><i class="twa twa-outbox-tray"></i><i class="twa twa-thumbs-up"></i><i class="twa twa-fast-forward-button"></i><i class="twa twa-brain"></i><br>
 <i class="twa twa-backhand-index-pointing-down"></i><i class="twa twa-thinking-face"></i><i class="twa twa-play-button"></i><i class="twa twa-thought-balloon"></i></p>
 

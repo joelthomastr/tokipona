@@ -5,16 +5,16 @@
 
 # The Good Way of Toki Pona
 
-<p align="center">Your sayings<br>
-May they not clash with the official Toki Pona rules<br>
-May they give knowledge well<br>
-This alone is needed</p>
+<p align="center">Your speech<br>
+May it not battle with the way of interacting with the official Toki Pona book<br>
+May it give knowledge well<br>
+This only is needed</p>
 
-<p align="center">When you translate<br>
-Do not search for one word for one word<br>
-Do not search for few words for few words<br>
-Search for good speech for your need<br>
-This alone is needed</p>
+<p align="center">When you change the language<br>
+Do not hunt one word for one word<br>
+Do not hunt a few words for a few words<br>
+Hunt good speech for your need<br>
+This only is needed</p>
 
 <p align="right">"The Dragoman" (Joel Thomas)</p>
 

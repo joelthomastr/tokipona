@@ -3,28 +3,33 @@
 <a name="lawa"></a>
 [Home](https://joelthomastr.github.io/tokipona/README_en)&nbsp;> This Page
 
-# You and I can give knowledge of everything using Toki Pona!
+# A person can give all knowledge with Toki Pona
 {% include ante-pini_en.md date="2020-06-19" %}
 
-The heavy things in this page are:
+{% include jan-pona_en.md name="Gabriel Mizrahi (jan Kapu)" %}
 
-- [Why is it good to use Toki Pona?](#ijo1)
-- [Many people say this: A person cannot give knowledge of everything using Toki Pona](#ijo2)
-- [Many people say this because of what?](#ijo3)
-- [The way of giving knowledge of everything using Toki Pona](#ijo4)
-- [End speech](#ijo5)
+
+In this document I talk about these things:
+- [When a person uses Toki Pona this is good for them because of what?](#ijo1)
+- [Many people say this: A person cannot say everything with Toki Pona](#ijo2)
+- [This talk is real or what?](#ijo3)
+- [The give method of big knowledge with Toki Pona](#ijo4)
+- [End talk](#ijo5)
 
 {% include likebtn.md pagename_lang="pana-sona-ale_en" %}
 
 <a name="ijo1"></a>
-## Why is it good to use Toki Pona?
-Toki Pona is a made language. What is a made language? You do not know a made language from your parent. A person makes a made language from his head.
 
-There are many made languages. But Toki Pona is a different made language. Why is Toki Pona different? Why is using Toki Pona good for a person?
+## When a person uses Toki Pona this is good for them because of what?
+Toki Pona is a new speak. What is a new speak? A new speak or a made speak is this: A person makes a new speak with their head. A person does not know a made speak from their parent.
 
-Sonja Lang made Toki Pona. She wrote a [page](http://tokipona.net/tp/janpije/whytokipona.php) for this knowledge demand: Why is it good to use Toki Pona? In this page Sonja Lang gives many good things of Toki Pona. One thing is this: When a person uses Toki Pona he must know this: What is there inside what he says? If he does not know this he cannot use Toki Pona.
+Many new speaks are existing. But Toki Pona is not the same as other new speaks. This is because of what? In other, when a person uses Toki Pona this is good for them because of what?
 
-I say this: This speech is the situation. When a person uses a parent speech his speech is good for him from this: He comes to have the thing of his will. At that time another person knows this: What does he say inside? But possibly the user person of a parent speech does not know this: What knowledge is there inside his speech?
+In much time ago, Sonja talked about this in a [document](http://tokipona.net/tp/janpije/whytokipona.php): Why is Toki Pona good? In this document Sonja Lang talks about many good things of Toki Pona. One thing of many good things is this: When a person should use Toki Pona he should know this: What is in his talk? If a person does not know this he cannot talk with Toki Pona.
+
+I feel this: The talk of Sonja is existing. In parent speak this talk does not exist. When a person uses parent speak possibly they do not know this: What knowledge is inside his talk?
+
+: He comes to have the thing of his will. At that time another person knows this: What does he say inside? But possibly the user person of a parent speech does not know this: What knowledge is there inside his speech?
 
 With parent speech why is this the situation? With a parent speech many names are there. With many things two names are there toward the same thing. But possibly the user person of parent speech does not know this. At one time he says something using one name. At a coming time he says the same thing using a different name. But he says this inside: "There are two names. This being so, two things are there." But one thing is there really.
 
