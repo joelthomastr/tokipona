@@ -1,7 +1,3 @@
----
-redirect_from: "READMEsi"
----
-
 {% include header.md pagename="README" %}
 
 <span class="lp">o pona! ni li kulupu lipu mi tawa ni: mi sitelen e ijo kepeken toki-pona. mi wile kama sona e toki-pona li musi li pana e musi e sona tawa ale! </span>

@@ -1,7 +1,3 @@
----
-redirect_from: "READMEsi"
----
-
 {% include header.md pagename="README" %}
 
 <i class="twa twa-waving-hand"></i><i class="twa twa-thumbs-up"></i>! <i class="twa twa-backhand-index-pointing-down"></i><i class="twa twa-play-button"></i><i class="twa twa-busts-in-silhouette"></i><i class="twa twa-page-facing-up"></i><i class="twa twa-backhand-index-pointing-left"></i><i class="twa twa-left-arrow-curving-right"></i><i class="twa twa-backhand-index-pointing-down"></i><i class="twa twa-division-sign"></i> <i class="twa twa-backhand-index-pointing-left"></i><i class="twa twa-framed-picture"></i><i class="twa twa-fast-forward-button"></i><i class="twa twa-spiral-shell"></i><i class="twa twa-wrench"></i><i class="twa twa-speaking-head"></i><i class="twa twa-thumbs-up"></i><i class="twa twa-minus-sign"></i> <i class="twa twa-backhand-index-pointing-left"></i><i class="twa twa-thought-balloon"></i><i class="twa twa-person-walking"></i><i class="twa twa-brain"></i><i class="twa twa-fast-forward-button"></i><i class="twa twa-speaking-head"></i><i class="twa twa-thumbs-up"></i><i class="twa twa-play-button"></i><i class="twa twa-grinning-face-with-big-eyes"></i><i class="twa twa-play-button"></i><i class="twa twa-outbox-tray"></i><i class="twa twa-fast-forward-button"></i><i class="twa twa-grinning-face-with-big-eyes"></i><i class="twa twa-fast-forward-button"></i><i class="twa twa-brain"></i><i class="twa twa-left-arrow-curving-right"></i><i class="twa twa-infinity"></i>!
