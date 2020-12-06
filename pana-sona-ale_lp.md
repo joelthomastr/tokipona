@@ -4,7 +4,7 @@
 [<span class="lp">tomo </span>](https://joelthomastr.github.io/tokipona/README_lp)&nbsp;> <span class="lp">lipu ni </span>
 
 # <span class="lp">jan li ken pana e sona ale kepeken toki-pona </span>
-{% include jan-pona_lp.md name=" <span class="lp">jan [_kule_ale_pona_uta] </span> (Gabriel Mizrahi)" %}
+{% include jan-pona_lp.md name=" <span class='lp'>jan [_kule_ale_pona_uta] </span> (Gabriel Mizrahi)" %}
 
 <span class="lp">mi toki e ni lon lipu ni: </span>
 

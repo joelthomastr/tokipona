@@ -4,7 +4,7 @@
 [<span style="background-color:#574500;"><i class="twa twa-house"></i></span>](https://joelthomastr.github.io/tokipona/README_se)&nbsp;> <i class="twa twa-page-facing-up"></i><i class="twa twa-backhand-index-pointing-down"></i>
 
 # <i class="twa twa-bust-in-silhouette"></i><i class="twa twa-play-button"></i><i class="twa twa-flexed-biceps"></i><i class="twa twa-outbox-tray"></i><i class="twa twa-fast-forward-button"></i><i class="twa twa-brain"></i><i class="twa twa-infinity"></i><i class="twa twa-wrench"></i><i class="twa twa-speaking-head"></i><i class="twa twa-thumbs-up"></i>
-{% include jan-pona_se.md name=" <i class="twa twa-bust-in-silhouette"></i> <i class="twa twa-input-symbols"></i><i class="twa twa-rainbow"></i><i class="twa twa-infinity"></i><i class="twa twa-thumbs-up"></i><i class="twa twa-mouth"></i><i class="twa twa-input-symbols"></i> (Gabriel Mizrahi)" %}
+{% include jan-pona_se.md name=" <i class='twa twa-bust-in-silhouette'></i> <i class='twa twa-input-symbols'></i><i class='twa twa-rainbow'></i><i class='twa twa-infinity'></i><i class='twa twa-thumbs-up'></i><i class='twa twa-mouth'></i><i class='twa twa-input-symbols'></i> (Gabriel Mizrahi)" %}
 
 <i class="twa twa-backhand-index-pointing-left"></i><i class="twa twa-speaking-head"></i><i class="twa twa-fast-forward-button"></i><i class="twa twa-backhand-index-pointing-down"></i><i class="twa twa-round-pushpin"></i><i class="twa twa-page-facing-up"></i><i class="twa twa-backhand-index-pointing-down"></i><i class="twa twa-division-sign"></i>
 

@@ -4,7 +4,7 @@
 [<span class="spp">tomo</span>](https://joelthomastr.github.io/tokipona/README_spp)&nbsp;> <span class="spp">lipu ni</span>
 
 # <span class="spp">jan li ken pana e sona ale kepeken toki pona</span>
-{% include jan-pona_spp.md name=" <span class="spp">jan Kapu</span> (Gabriel Mizrahi)" %}
+{% include jan-pona_spp.md name=" <span class='spp'>jan Kapu</span> (Gabriel Mizrahi)" %}
 
 <span class="spp">mi toki e ni lon lipu ni:</span>
 
