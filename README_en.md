@@ -9,7 +9,7 @@ Be well! This is my group of documents for this: I write something using Toki Po
 
 Many other things are in my head, when I make them I give them to you in this group of documents.
 
-{% include ante-pini_en.md date="2020-06-24" %}
+{% include ante-pini_en.md date="2020-12-06" %}
 
 {% include likebtn.md pagename_lang="README_en" %}
 
