@@ -36,13 +36,13 @@ Parent languages have many words for the same essence. That is bad because of wh
 
 The first thing is this:
 
-When a person knows little about the essence of words he can mess up. A person must know this: What exists? What does not exist? But when a person knows little about the essence of words he cannot do good toward himself or other persons.
+When a person knows little about the essence of words they can mess up. A person must know this: What exists? What does not exist? But when a person knows little about the essence of words they cannot do good toward himself or other persons.
 
 The second thing is this:
 
 Many times a person knows the speech of a different person in a parent language. But their knowledge is not good. Possibly one word gives big knowledge or much knowledge. Possibly this knowledge is different inside the head of the other person.
 
-When a person uses a big word he can mess up. When the first person says a thing using a big word the second person says this inside their head: I know that big word. But possibly their knowledge of the big word is not like the knowledge of the first person. The second person says this to the first person: I know your speech. But the second person does not know. Their knowledge is broken knowledge.
+When a person uses a big word they can mess up. When the first person says a thing using a big word the second person says this inside their head: I know that big word. But possibly their knowledge of the big word is not like the knowledge of the first person. The second person says this to the first person: I know your speech. But the second person does not know. Their knowledge is broken knowledge.
 
 In future time the second person does damage because of this: They use broken knowledge. Their knowledge is broken because of this: When the first person used big words the second person did not know the essence of that big word. But the second person does not know this: Their knowledge is broken because of what?
 
@@ -89,11 +89,11 @@ I am a person of language change. This is my work for money. When I do language 
 
 When a person of language change sees a word, they must give the same essence in the other language way. They say this: This word gives what knowledge? But the person of language change cannot do only that. Differently they must say this: This word gives what knowledge next to the other speech in this document?
 
-A word is like a container of many knowledge things. When a person talks he uses words. When a person uses one word he wants to give one knowledge thing. But he wants to give only one knowledge thing from inside the container. At one time he he gives one knowledge thing from inside the container. At a different time he gives a different knowledge thing from inside the container.
+A word is like a container of many knowledge things. When a person talks they use words. When a person uses one word they want to give one knowledge thing. But they want to give only one knowledge thing from inside the container. At one time they give one knowledge thing from inside the container. At a different time they give a different knowledge thing from inside the container.
 
 When two persons communicate the first person uses a word. The second person wants to know this: The first person wants to give which knowledge thing from inside this word's container? The second person can know that using what method? The second person sees all the speech of the first person. The first person does not communicate using one word. They use many words in their speech. When the second person looks at all the speech of the first person they can know this: The first person gives which knowledge thing from inside the word's container?
 
-In Toki Pona this is important knowledge. When a person does not know this important knowledge he can mess up. This is important knowledge because of what? One word of a parent language is like a small container of knowledge things. The quantity of these knowledge things is small. But in Toki Pona one word is like a big container of knowledge things. The quantity of these knowledge things is many.
+In Toki Pona this is important knowledge. When a person does not know this important knowledge they can mess up. This is important knowledge because of what? One word of a parent language is like a small container of knowledge things. The quantity of these knowledge things is small. But in Toki Pona one word is like a big container of knowledge things. The quantity of these knowledge things is many.
 
 In parent languages the first person can say little. The second person can know the essence of their speech. But in Toki Pona the first person must say much. If the first person says little, the second person cannot know the essence of their speech.
 
