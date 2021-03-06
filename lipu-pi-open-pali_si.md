@@ -1,61 +1,59 @@
 {% include header.md pagename="lipu-pi-open-pali" %}
 
-<span class="si">
-
-[tomo](https://joelthomastr.github.io/tokipona/README_si)&nbsp;&nbsp;>&nbsp;&nbsp;lipu ni
-
-# toki lawa
-
-ni li lipu mi tawa ni: mi wile sitelen e lipu sin la mi kepeken lipu ni. mi open e pali mi tawa lipu sin la mi kepeken lipu ni. ni la mi pana e nimi ni tawa ona: lipu pi open pali.
-
-open la mi kepeken lipu pi open pali lon nasin ni: lipu ni li lipu mama. mi wile ala ante e lipu mama. ni la mi kepeken ilo pi pali sama. ilo ni li lukin e lipu mama li pali e lipu sin sama lipu mama. ni la mi kepeken ala lipu mama, mi kepeken lipu sin.
-
-## nasin pali kepeken pi lipu pi open pali
-
-nanpa wan la o sitelen e lipu sin mi lon lipu pi open pali.
-
-nanpa tu la o pana e lipu pi open pali tawa ilo pi ante nasin. ilo ni li lukin e lipu pi open pali li pali e lipu pini lon nasin sitelen ale pi kulupu lipu pi jan Telakoman. ilo pi ante nasin li pali e lipu pini tawa:
-- sitelen Lasina
-- sitelen pona
-- sitelen pona pona
-- sitelen telo
-- sitelen pilin
-
-## ijo suli pi lipu pi open pali
-
-### nanpa wan
-
-lipu pi open pali la mi kepeken ala poki nimi pi sitelen pona tawa nimi. mi kepeken sitelen suli lon sitelen Lasina. ni li tan ni: mi wile sitelen kepeken tenpo lili. poki nimi li wile e tenpo mute. ilo pi ante nasin li ante e nimi lon sitelen Lasina tawa poki nimi pona.
-
-taso tawa ni la mi kepeken lipu lili pi nimi ni:<span class="sidef">_tpforeignwords.txt.</span> ilo pi ante nasin li lukin e lipu ni li kepeken sona ni tawa poki nimi. mi kepeken nimi sin la mi wile sitelen e ni lon lipu lili.
-
-### nanpa tu
-tenpo ale la o kepeken sitelen pi kama mute (<span class="sidef"> </span>) tawa pi suli. ni li tan ni: sitelen pi kama lili (<span class="sidef">-</span>) li wile tawa ijo ante mute lon kulupu lipu mi.
-
-### nanpa tu wan
-o kepeken sitelen ilo pona tawa ilo pi ante nasin.
-
-- lawa la o pana e sitelen <span class="sidef">\<span class="lp"\></span>. noka la o pana e sitelen <span class="sidef">\</span></span>. ilo pi ante nasin li ante e sitelen <span class="lpdef">lp</span> lon lipu ale pi nasin sitelen ante. o kepeken ala <span class="sidef">div</span>. ni li pakala e lipu.
-- sina wile kepeken sitelen Lasina la o kepeken sitelen ni: <span class="sidef">\<div class="sidef"\><\/span></span>
-- sina ken pana e nimi wawa lon lipu. (nimi wawa li ni: kule ona li ante. nimi jan li lukin e ona la ona li sona e ni tan kule ona: ona li luka e ona la ona li ken lukin e lipu ante. ona li lukin e ona la ilo li open e lipu pi nimi wawa.) sina pana e nimi wawa tawa lipu lon kulupu lipu ni la o kepeken sitelen ni lon pini ona: <span class="sidef">_si</span>. ilo pi ante nasin li ante e ona tawa sitelen lili pi nasin sitelen pi lipu pini.
 
 
-## sona pona
+<span class="si">[tomo](https://joelthomastr.github.io/tokipona/README_si)&nbsp;&nbsp;>&nbsp;&nbsp;lipu ni</span>
 
-sitelen lili pi nasin sitelen ale li ni:
+# <span class="si">toki lawa</span>
 
-| nasin sitelen | sitelen lili |
+<span class="si">ni li lipu mi tawa ni: mi wile sitelen e lipu sin la mi kepeken lipu ni. mi open e pali mi tawa lipu sin la mi kepeken lipu ni. ni la mi pana e nimi ni tawa ona: lipu pi open pali.</span>
+
+<span class="si">open la mi kepeken lipu pi open pali lon nasin ni: lipu ni li lipu mama. mi wile ala ante e lipu mama. ni la mi kepeken ilo pi pali sama. ilo ni li lukin e lipu mama li pali e lipu sin sama lipu mama. ni la mi kepeken ala lipu mama, mi kepeken lipu sin.</span>
+
+## <span class="si">nasin pali kepeken pi lipu pi open pali</span>
+
+<span class="si">nanpa wan la o sitelen e lipu sin mi lon lipu pi open pali.</span>
+
+<span class="si">nanpa tu la o pana e lipu pi open pali tawa ilo pi ante nasin. ilo ni li lukin e lipu pi open pali li pali e lipu pini lon nasin sitelen ale pi kulupu lipu pi jan Telakoman. ilo pi ante nasin li pali e lipu pini tawa:</span>
+- <span class="si">sitelen Lasina</span>
+- <span class="si">sitelen pona</span>
+- <span class="si">sitelen pona pona</span>
+- <span class="si">sitelen telo</span>
+- <span class="si">sitelen pilin</span>
+
+## <span class="si">ijo suli pi lipu pi open pali</span>
+
+### <span class="si">nanpa wan</span>
+
+<span class="si">lipu pi open pali la mi kepeken ala poki nimi pi sitelen pona tawa nimi. mi kepeken sitelen suli lon sitelen Lasina. ni li tan ni: mi wile sitelen kepeken tenpo lili. poki nimi li wile e tenpo mute. ilo pi ante nasin li ante e nimi lon sitelen Lasina tawa poki nimi pona.</span>
+
+<span class="si">taso tawa ni la mi kepeken lipu lili pi nimi ni:<span class="sidef">_tpforeignwords.txt.</span> ilo pi ante nasin li lukin e lipu ni li kepeken sona ni tawa poki nimi. mi kepeken nimi sin la mi wile sitelen e ni lon lipu lili.</span>
+
+### <span class="si">nanpa tu</span>
+<span class="si">tenpo ale la o kepeken sitelen pi kama mute (<span class="sidef"> </span>) tawa pi suli. ni li tan ni: sitelen pi kama lili (<span class="sidef">-</span>) li wile tawa ijo ante mute lon kulupu lipu mi.</span>
+
+### <span class="si">nanpa tu wan</span>
+<span class="si">o kepeken sitelen ilo pona tawa ilo pi ante nasin.</span>
+
+- <span class="si">lawa la o pana e sitelen <span class="sidef">\<span class="si"\></span>. noka la o pana e sitelen <span class="sidef">\</span></span>. ilo pi ante nasin li ante e sitelen <span class="lpdef">lp</span> lon lipu ale pi nasin sitelen ante. o kepeken ala <span class="sidef">div</span>. ni li pakala e lipu.</span>
+- <span class="si">sina wile kepeken sitelen Lasina la o kepeken sitelen ni: <span class="sidef">\<div class="sidef"\><\/span></span></span>
+- <span class="si">sina ken pana e nimi wawa lon lipu. (nimi wawa li ni: kule ona li ante. nimi jan li lukin e ona la ona li sona e ni tan kule ona: ona li luka e ona la ona li ken lukin e lipu ante. ona li lukin e ona la ilo li open e lipu pi nimi wawa.) sina pana e nimi wawa tawa lipu lon kulupu lipu ni la o kepeken sitelen ni lon pini ona: <span class="sidef">_si</span>. ilo pi ante nasin li ante e ona tawa sitelen lili pi nasin sitelen pi lipu pini.</span>
+
+
+## <span class="si">sona pona</span>
+
+<span class="si">sitelen lili pi nasin sitelen ale li ni:</span>
+
+| <span class="si">nasin sitelen</span> | <span class="si">sitelen lili</span> |
 | ----- | ----- |
-| sitelen Lasina | <span class="sidef">si</span> |
-| sitelen pona | <span class="sidef">lp</span> |
-| sitelen pona pona | <span class="sidef">spp</span> |
-| sitelen telo | <span class="sidef">st</span> |
-| sitelen pilin | <span class="sidef">se</span> |
+| <span class="si">sitelen Lasina</span> | <span class="si"><span class="sidef">si</span></span> |
+| <span class="si">sitelen pona</span> | <span class="si"><span class="sidef">lp</span></span> |
+| <span class="si">sitelen pona pona</span> | <span class="si"><span class="sidef">spp</span></span> |
+| <span class="si">sitelen telo</span> | <span class="si"><span class="sidef">st</span></span> |
+| <span class="si">sitelen pilin</span> | <span class="si"><span class="sidef">se</span></span> |
 
-sitelen lili ale ni li nasa lili. ni li tan ni: tenpo pini mute la mi open e kulupu lipu mi la mi kepeken nimi ante tawa nasin sitelen ale ni. tenpo ona la mi kepeken sitelen open pi nimi ni. taso tenpo kama ona la mi kama sona e ni: sona mi pi nimi mute li pakala. tenpo ni la mi kepeken nimi pona tawa nasin sitelen ale. taso mi ken ala ante e sitelen lili lon kulupu lipu mi kepeken wawa lili.
+<span class="si">sitelen lili ale ni li nasa lili. ni li tan ni: tenpo pini mute la mi open e kulupu lipu mi la mi kepeken nimi ante tawa nasin sitelen ale ni. tenpo ona la mi kepeken sitelen open pi nimi ni. taso tenpo kama ona la mi kama sona e ni: sona mi pi nimi mute li pakala. tenpo ni la mi kepeken nimi pona tawa nasin sitelen ale. taso mi ken ala ante e sitelen lili lon kulupu lipu mi kepeken wawa lili.</span>
 
 {% include ante-pini_si.md date="2021-03-06" %}
-
-</span>
 
 {% include likebtn.md pagename_lang="lipu-pi-open-pali_si" %}

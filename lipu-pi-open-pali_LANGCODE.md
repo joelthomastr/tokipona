@@ -56,6 +56,4 @@ sitelen+lili ale ni li nasa lili. ni li tan ni: tenpo+pini mute la mi open e kul
 
 {% include ante-pini_LANGCODE.md date="2021-03-06" %}
 
-</span>
-
 {% include likebtn.md pagename_lang="lipu-pi-open-pali_LANGCODE" %}
