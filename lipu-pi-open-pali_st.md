@@ -35,9 +35,9 @@
 ### <span class="st">nanpa tuwan</span>
 <span class="st">o kepeken sitelen ilo pona tawa ilo pi ante nasin.</span>
 
-- <span class="st">lawa la o pana e sitelen <span class="stdef">\<span class="st"\></span>. noka la o pana e sitelen <span class="stdef">\</span></span>. ilo pi ante nasin li ante e sitelen <span class="lpdef">lp</span> lon lipu ale pi nasin sitelen ante. o kepeken ala <span class="stdef">div</span>. ni li pakala e lipu.</span>
-- <span class="st">sina wile kepeken sitelen LASINA la o kepeken sitelen ni: <span class="stdef">`<div class="lpdef"\></span>`</span></span>
-- <span class="st">sina ken pana e nimi wawa lon lipu. (nimi wawa li ni: kule ona li ante. nimi jan li lukin e ona la ona li sona eni tan kule ona: ona li luka e ona la ona li ken lukin e lipu ante. ona li lukin e ona la ilo li open e lipu pi nimi wawa.) sina pana e nimi wawa tawa lipu lon kulupu lipu ni la o kepeken sitelen ni lon pini ona: <span class="stdef">_st</span>. ilo pi ante nasin li ante e ona tawa sitelen lili pi nasin sitelen pi lipu pini.</span>
+- <span class="st">lawa la o pana e sitelen <span class="stdef">\<span class="st"\></span>. noka la o pana e sitelen <span class="stdef">\</span></span>. ilo pi ante nasin li ante e sitelen <span class="stdef">lp</span> lon lipu ale pi nasin sitelen ante. o kepeken ala <span class="stdef">div</span>. ni li pakala e lipu.</span>
+- <span class="st">sina wile kepeken sitelen LASINA la o kepeken sitelen ni: <span class="stdef">\<span class="lpdef">\</span></span></span>
+- <span class="st">sina ken pana e nimi wawa lon lipu. (nimi wawa li ni: kule ona li ante. nimi jan li lukin e ona la ona li sona eni tan kule ona: ona li luka e ona la ona li ken lukin e lipu ante. ona li lukin e ona la ilo li open e lipu pi nimi wawa.) sina pana e nimi wawa tawa lipu lon kulupu lipu ni la o kepeken sitelen ni lon pini ona: <span class="stdef">_LANGCODE</span>. ilo pi ante nasin li ante e ona tawa sitelen lili pi nasin sitelen pi lipu pini.</span>
 
 
 ## <span class="st">sona pona</span>

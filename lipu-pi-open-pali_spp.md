@@ -35,9 +35,9 @@
 ### <span class="spp">nanpa tu wan</span>
 <span class="spp">o kepeken sitelen ilo pona tawa ilo pi ante nasin.</span>
 
-- <span class="spp">lawa la o pana e sitelen <span class="sppdef">\<span class="spp"\></span>. noka la o pana e sitelen <span class="sppdef">\</span></span>. ilo pi ante nasin li ante e sitelen <span class="lpdef">lp</span> lon lipu ale pi nasin sitelen ante. o kepeken ala <span class="sppdef">div</span>. ni li pakala e lipu.</span>
-- <span class="spp">sina wile kepeken sitelen LASINA la o kepeken sitelen ni: <span class="sppdef">`<div class="lpdef"\></span>`</span></span>
-- <span class="spp">sina ken pana e nimi wawa lon lipu. (nimi wawa li ni: kule ona li ante. nimi jan li lukin e ona la ona li sona e ni tan kule ona: ona li luka e ona la ona li ken lukin e lipu ante. ona li lukin e ona la ilo li open e lipu pi nimi wawa.) sina pana e nimi wawa tawa lipu lon kulupu lipu ni la o kepeken sitelen ni lon pini ona: <span class="sppdef">_spp</span>. ilo pi ante nasin li ante e ona tawa sitelen lili pi nasin sitelen pi lipu pini.</span>
+- <span class="spp">lawa la o pana e sitelen <span class="sppdef">\<span class="spp"\></span>. noka la o pana e sitelen <span class="sppdef">\</span></span>. ilo pi ante nasin li ante e sitelen <span class="sppdef">lp</span> lon lipu ale pi nasin sitelen ante. o kepeken ala <span class="sppdef">div</span>. ni li pakala e lipu.</span>
+- <span class="spp">sina wile kepeken sitelen LASINA la o kepeken sitelen ni: <span class="sppdef">\<span class="lpdef">\</span></span></span>
+- <span class="spp">sina ken pana e nimi wawa lon lipu. (nimi wawa li ni: kule ona li ante. nimi jan li lukin e ona la ona li sona e ni tan kule ona: ona li luka e ona la ona li ken lukin e lipu ante. ona li lukin e ona la ilo li open e lipu pi nimi wawa.) sina pana e nimi wawa tawa lipu lon kulupu lipu ni la o kepeken sitelen ni lon pini ona: <span class="sppdef">_LANGCODE</span>. ilo pi ante nasin li ante e ona tawa sitelen lili pi nasin sitelen pi lipu pini.</span>
 
 
 ## <span class="spp">sona pona</span>

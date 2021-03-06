@@ -35,9 +35,9 @@
 ### <span class="si">nanpa tu wan</span>
 <span class="si">o kepeken sitelen ilo pona tawa ilo pi ante nasin.</span>
 
-- <span class="si">lawa la o pana e sitelen <span class="sidef">\<span class="si"\></span>. noka la o pana e sitelen <span class="sidef">\</span></span>. ilo pi ante nasin li ante e sitelen <span class="lpdef">lp</span> lon lipu ale pi nasin sitelen ante. o kepeken ala <span class="sidef">div</span>. ni li pakala e lipu.</span>
-- <span class="si">sina wile kepeken sitelen Lasina la o kepeken sitelen ni: <span class="sidef">`<div class="lpdef"\></span>`</span></span>
-- <span class="si">sina ken pana e nimi wawa lon lipu. (nimi wawa li ni: kule ona li ante. nimi jan li lukin e ona la ona li sona e ni tan kule ona: ona li luka e ona la ona li ken lukin e lipu ante. ona li lukin e ona la ilo li open e lipu pi nimi wawa.) sina pana e nimi wawa tawa lipu lon kulupu lipu ni la o kepeken sitelen ni lon pini ona: <span class="sidef">_si</span>. ilo pi ante nasin li ante e ona tawa sitelen lili pi nasin sitelen pi lipu pini.</span>
+- <span class="si">lawa la o pana e sitelen <span class="sidef">\<span class="si"\></span>. noka la o pana e sitelen <span class="sidef">\</span></span>. ilo pi ante nasin li ante e sitelen <span class="sidef">lp</span> lon lipu ale pi nasin sitelen ante. o kepeken ala <span class="sidef">div</span>. ni li pakala e lipu.</span>
+- <span class="si">sina wile kepeken sitelen Lasina la o kepeken sitelen ni: <span class="sidef">\<span class="lpdef">\</span></span></span>
+- <span class="si">sina ken pana e nimi wawa lon lipu. (nimi wawa li ni: kule ona li ante. nimi jan li lukin e ona la ona li sona e ni tan kule ona: ona li luka e ona la ona li ken lukin e lipu ante. ona li lukin e ona la ilo li open e lipu pi nimi wawa.) sina pana e nimi wawa tawa lipu lon kulupu lipu ni la o kepeken sitelen ni lon pini ona: <span class="sidef">_LANGCODE</span>. ilo pi ante nasin li ante e ona tawa sitelen lili pi nasin sitelen pi lipu pini.</span>
 
 
 ## <span class="si">sona pona</span>
