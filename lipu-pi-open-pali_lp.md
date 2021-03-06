@@ -1,6 +1,6 @@
 {% include header.md pagename="lipu-pi-open-pali" %}
 
-<div class="lp">
+<span class="lp">
 
 [tomo](https://joelthomastr.github.io/tokipona/README_lp)&nbsp;&nbsp;>&nbsp;&nbsp;lipu ni
 
@@ -35,7 +35,7 @@ tenpo ale la o kepeken sitelen pi++kama mute (<span class="lpdef">+</span>) tawa
 ### nanpa tu wan
 o kepeken sitelen+ilo pona tawa ilo pi++ante nasin.
 
-- lawa la o pana e sitelen <span class="lpdef">\<div class="lp"\></span>. noka la o pana e sitelen <span class="lpdef">\</div></span>. ilo pi++ante nasin li ante e sitelen <span class="\lpdef">lp</span> lon lipu ale pi+++nasin sitelen ante.
+- lawa la o pana e sitelen <span class="lpdef">\<span class="lp"\></span>. noka la o pana e sitelen <span class="lpdef">\</span></span>. ilo pi++ante nasin li ante e sitelen <span class="\lpdef">lp</span> lon lipu ale pi+++nasin sitelen ante. o kepeken ala <span class="lpdef">div</span>. ni li pakala e lipu.
 - sina wile kepeken sitelen [_luka_awen_sitelen_insa_ni_awen] la o kepeken sitelen ni: <span class="lpdef">\<div class="lpdef"\><\/span></span>
 - sina ken pana e nimi+wawa lon lipu. (nimi+wawa li ni: kule ona li ante. nimi jan li lukin e ona la ona li sona e ni tan kule ona: ona li luka e ona la ona li ken lukin e lipu+ante. ona li lukin e ona la ilo li open e lipu pi+nimi+wawa.) sina pana e nimi+wawa tawa lipu lon kulupu lipu ni la o kepeken sitelen ni lon pini ona: <span class="lpdef">_lp</span>. ilo pi++ante nasin li ante e ona tawa sitelen+lili pi++nasin sitelen pi+lipu+pini.
 
@@ -56,6 +56,6 @@ sitelen+lili ale ni li nasa lili. ni li tan ni: tenpo+pini mute la mi open e kul
 
 {% include ante-pini_lp.md date="2021-03-06" %}
 
-</div>
+</span>
 
 {% include likebtn.md pagename_lang="lipu-pi-open-pali_lp" %}
