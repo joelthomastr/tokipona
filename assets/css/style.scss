@@ -25,11 +25,23 @@ body {
   font-size: 120%;
 }
 
+.endef {
+}
+
+.sidef {
+}
+
 .spp {
     font-family: 'sitelen pona pona';
     text-rendering: optimizeLegibility;
     font-size: 1.39em;
 }
+
+.sppdef {
+   font-family: sans-serif;
+   font-size: 0.8em;
+}
+
 
 .lp {
     font-family: 'linja pona';
@@ -37,11 +49,27 @@ body {
     font-size: 1.39em;
 }
 
+.lpdef {
+   font-family: sans-serif;
+   font-size: 0.9em;
+}
+
 .st {
     font-family: 'sitelen telo';
     text-rendering: optimizeLegibility;
     font-size: 1.39em;
 }
+
+.stdef {
+   font-family: sans-serif;
+   font-size: 0.8em;
+}
+
+.sedef {
+   font-family: sans-serif;
+   font-size: 0.8em;
+}
+
 
 .twa {
     display: inline-block;
