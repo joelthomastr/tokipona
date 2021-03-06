@@ -1,6 +1,6 @@
 {% include header.md pagename="lipu-pi-open-pali" %}
 
-<div class="lp">
+<span class="lp">
 
 [tomo](https://joelthomastr.github.io/tokipona/README_LANGCODE)&nbsp;&nbsp;>&nbsp;&nbsp;lipu ni
 
@@ -56,6 +56,6 @@ sitelen+lili ale ni li nasa lili. ni li tan ni: tenpo+pini mute la mi open e kul
 
 {% include ante-pini_LANGCODE.md date="2021-03-06" %}
 
-</div>
+</span>
 
 {% include likebtn.md pagename_lang="lipu-pi-open-pali_LANGCODE" %}
