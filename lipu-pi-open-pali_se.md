@@ -1,6 +1,6 @@
 {% include header.md pagename="lipu-pi-open-pali" %}
 
-<span class="lp">
+<span class="se">
 
 [<span style="background-color:#574500;"><i class='twa twa-house'></i></span>](https://joelthomastr.github.io/tokipona/README_se)&nbsp;&nbsp;>&nbsp;&nbsp;<i class='twa twa-page-facing-up'></i><i class='twa twa-backhand-index-pointing-down'></i>
 

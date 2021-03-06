@@ -1,6 +1,6 @@
 {% include header.md pagename="lipu-pi-open-pali" %}
 
-<span class="lp">
+<span class="st">
 
 [tomo](https://joelthomastr.github.io/tokipona/README_st)&nbsp;&nbsp;>&nbsp;&nbsp;lipu ni
 
