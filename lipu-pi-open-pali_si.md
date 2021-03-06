@@ -10,7 +10,7 @@
 
 <span class="si">open la mi kepeken lipu pi open pali lon nasin ni: lipu ni li lipu mama. mi wile ala ante e lipu mama. ni la mi kepeken ilo pi pali sama. ilo ni li lukin e lipu mama li pali e lipu sin sama lipu mama. ni la mi kepeken ala lipu mama, mi kepeken lipu sin.</span>
 
-## <span class="si">nasin pali kepeken pi lipu pi open pali</span>
+## <span class="si">nasin pali kepeken lipu pi open pali</span>
 
 <span class="si">nanpa wan la o sitelen e lipu sin mi lon lipu pi open pali.</span>
 
@@ -36,7 +36,7 @@
 <span class="si">o kepeken sitelen ilo pona tawa ilo pi ante nasin.</span>
 
 - <span class="si">lawa la o pana e sitelen <span class="sidef">\<span class="si"\></span>. noka la o pana e sitelen <span class="sidef">\</span></span>. ilo pi ante nasin li ante e sitelen <span class="lpdef">lp</span> lon lipu ale pi nasin sitelen ante. o kepeken ala <span class="sidef">div</span>. ni li pakala e lipu.</span>
-- <span class="si">sina wile kepeken sitelen Lasina la o kepeken sitelen ni: <span class="sidef">\<div class="sidef"\><\/span></span></span>
+- <span class="si">sina wile kepeken sitelen Lasina la o kepeken sitelen ni: <span class="sidef">`<div class="lpdef"\></span>`</span></span>
 - <span class="si">sina ken pana e nimi wawa lon lipu. (nimi wawa li ni: kule ona li ante. nimi jan li lukin e ona la ona li sona e ni tan kule ona: ona li luka e ona la ona li ken lukin e lipu ante. ona li lukin e ona la ilo li open e lipu pi nimi wawa.) sina pana e nimi wawa tawa lipu lon kulupu lipu ni la o kepeken sitelen ni lon pini ona: <span class="sidef">_si</span>. ilo pi ante nasin li ante e ona tawa sitelen lili pi nasin sitelen pi lipu pini.</span>
 
 
