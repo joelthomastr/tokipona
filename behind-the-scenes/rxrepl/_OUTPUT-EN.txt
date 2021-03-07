@@ -1,0 +1,35 @@
+{% include header.md pagename="README" %}
+
+
+
+<span class="en">o pona! ni li kulupu lipu mi tawa ni: mi sitelen e ijo kepeken toki+pona. mi wile kama sona e toki+pona li musi li pana e musi e sona tawa ale!</span>
+
+# <span class="en">seme li sin?</span>
+
+- <span class="en">2021-01-07: [toki+pona li sama ala sitelen Sonko](https://joelthomastr.github.io/tokipona/sitelen-sonko_en).</span>
+
+# <span class="en">toki+insa mi</span>
+
+- <span class="en">[jan li ken pana e sona ale kepeken toki+pona](https://joelthomastr.github.io/tokipona/pana-sona-ale_en)</span>
+- <span class="en">[nasin pona pi+toki+pona](https://joelthomastr.github.io/tokipona/nasin-pona-pi-toki-pona_en)</span>
+
+## <span class="en">lon lipu+tenpo</span>
+
+<span class="en">mi jan+pali sitelen lon kulupu pi+[lipu+tenpo](https://liputenpo.org/). mi pana e lipu+lili tawa ona. lipu+lili mi li lon lipu+tenpo sin la mi pana e lipu+lili mi lon kulupu lipu ni.</span>
+
+- <span class="en">[toki+pona li sama ala sitelen Sonko](https://joelthomastr.github.io/tokipona/sitelen-sonko_en)</span>
+
+# <span class="en">nasin pali mi</span>
+
+- <span class="en">mi pali e [sitelen+pona+pona luka](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_en). kepeken ona la sina ken sitelen e sitelen+pona+pona kepeken palisa-sitelen kepeken tenpo+lili</span>
+
+- <span class="en">sina ken toki e ni tawa mi:  ["sina kepeken toki Inli sama jan+nasa tan seme"](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_en)</span>
+
+{% include ante-pini_en.md date="2021-01-07" %}
+
+{% include likebtn.md pagename_lang="README_en" %}
+
+<span class="en">sina wile toki tawa mi la sina ken kepeken nasin ni:</span>
+- <span class="en">ilo Wesi: <span class="lpdef">u/joelthomastr</span></span>
+- <span class="en">ilo Siko: <span class="lpdef">Dragoman#5929</span></span>
+- <span class="en">poki pi+lipu+toki E-mail: <span class="lpdef">jantelakoman@gmail.com</span></span>

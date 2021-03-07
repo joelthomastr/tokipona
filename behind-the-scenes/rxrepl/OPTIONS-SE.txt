@@ -1,0 +1,25 @@
+-s[_----- Edit span tag -----_] -r[]
+-s~span class="lp"~ -r~span class="se"~
+-s[_----- Delete all + signs -----_] -r[]
+-s~\\\+~ -r~escapedplussign~
+-s~\+\+\+~ -r~ ~
+-s~\+\+~ -r~ ~
+-s~\+~ -r~ ~
+-s~escapedplussign~ -r~+~
+-s[_----- replace _LANGCODE -----_] -r[]
+-s~_\\LANGCODE~ -r~escapelangcode~
+-s~_LANGCODE~ -r~_se~
+-s~escapelangcode~ -r~_LANGCODE~
+-s[_----- remove tags in urls -----_] -r[]
+-s~ztpz-ytpy~ -r~-~
+-s~([a-zA-Z0-9])-ytpy~ -r~\1-~
+-s~ztpz-([a-zA-Z0-9])~ -r~-\1~
+-s[_----- remove tags between span tags -----_] -r[]
+-s~(lpdef[^\\n]*?|\G[^\\n]*?)(ytpy|ztpz)(?=[^\\n]*?\/span)~ -r~\1~
+-s[_----- edit default tags -----_] -r[]
+-s~\\lpdef~ -r~escapedef~
+-s~lpdef~ -r~sedef~
+-s~escapedef~ -r~lpdef~
+-s[_----- underline links -----_] -r[]
+-s~\x5B~ -r~\x5B<span style=\x22background-color:\x23574500\x3B\x22>~
+-s~\x5D~ -r ~</span>\x5D~

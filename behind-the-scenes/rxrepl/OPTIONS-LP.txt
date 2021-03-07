@@ -1,0 +1,9 @@
+-s[_----- replace _LANGCODE -----_] -r[]
+-s~_\\LANGCODE~ -r~escapelangcode~
+-s~_LANGCODE~ -r~_lp~
+-s~escapelangcode~ -r~_LANGCODE~
+-s[_----- edit tags -----_] -r[]
+-s~\\lpdef~ -r~lpdef~
+-s[_----- remove question marks -----_] -r[]
+-s~\? ~ -r~. ~
+-s~\?\r\n~ -r~\r\n~

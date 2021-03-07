@@ -1,0 +1,10 @@
+-s[_----- Edit span tag -----_] -r[]
+-s~span class="lp"~ -r~span class="en"~
+-s[_----- replace _LANGCODE -----_] -r[]
+-s~_\\LANGCODE~ -r~escapelangcode~
+-s~_LANGCODE~ -r~_en~
+-s~escapelangcode~ -r~_LANGCODE~
+-s[_----- edit tags -----_] -r[]
+-s~\\lpdef~ -r~escapedef~
+-s~lpdef~ -r~endef~
+-s~escapedef~ -r~lpdef~

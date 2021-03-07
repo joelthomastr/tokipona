@@ -1,0 +1,12 @@
+Atom,anu taso ona mute,ATOM
+E-mail,esun mute esun li,EMAIL
+Inli,ilo nasin li ilo,INLI
+Kapu,kule ale pona uta,KAPU
+Lasina,luka awen sitelen insa ni awen,LASINA
+Peman,pi en ma ante ni,PEMAN
+Sonko,sona o ni kon o,SONKO
+Sonja,sona open nasin jan ale,SONJA
+Telakoman,toki en lipu alasa kon olin mama anpa nasin,TELAKOMAN
+Lope,lawa open pana e,LOPE
+Siko,sitelen ilo kon o,SIKO
+Wesi,wile e sona ijo,WESI

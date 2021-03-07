@@ -1,0 +1,16 @@
+-s[_----- Edit span tag -----_] -r[]
+-s~span class="lp"~ -r~span class="si"~
+-s[_----- Delete all + signs -----_] -r[]
+-s~\\\+~ -r~escapedplussign~
+-s~\+\+\+~ -r~ ~
+-s~\+\+~ -r~ ~
+-s~\+~ -r~ ~
+-s~escapedplussign~ -r~+~
+-s[_----- replace _LANGCODE -----_] -r[]
+-s~_\\LANGCODE~ -r~escapelangcode~
+-s~_LANGCODE~ -r~_si~
+-s~escapelangcode~ -r~_LANGCODE~
+-s[_----- edit default tags -----_] -r[]
+-s~\\lpdef~ -r~escapedef~
+-s~lpdef~ -r~sidef~
+-s~escapedef~ -r~lpdef~

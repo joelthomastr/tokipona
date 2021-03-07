@@ -1,0 +1,24 @@
+-s[_----- Edit div tag -----_] -r[]
+-s~span class="lp"~ -r~span class="st"~
+-s[_----- Handle special glyphs -----_] -r[]
+-s~toki\+pona~ -r~tokipona~
+-s~\ba a a\b~ -r~aaa~
+-s~\btu wan\b~ -r~tuwan~
+-s~\btu tu\b~ -r~tutu~
+-s~\be ni\b~ -r~eni~
+-s~\beni:~ -r~eni :~
+-s~tawa mi~ -r~tawami~
+-s[_----- Delete all + signs -----_] -r[]
+-s~\\\+~ -r~escapedplussign~
+-s~\+\+\+~ -r~ ~
+-s~\+\+~ -r~ ~
+-s~\+~ -r~ ~
+-s~escapedplussign~ -r~+~
+-s[_----- replace _LANGCODE -----_] -r[]
+-s~_\\LANGCODE~ -r~escapelangcode~
+-s~_LANGCODE~ -r~_st~
+-s~escapelangcode~ -r~_LANGCODE~
+-s[_----- edit default tags -----_] -r[]
+-s~\\lpdef~ -r~escapedef~
+-s~lpdef~ -r~stdef~
+-s~escapedef~ -r~lpdef~
