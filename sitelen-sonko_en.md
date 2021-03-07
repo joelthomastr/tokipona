@@ -20,6 +20,6 @@
 
 <span class="en">Chinese writing is not bad and is a good method because of many things. But sound writing like Latin writing has a different power. Toki Pona has a different power like this. At a different time I want to talk about this.</span>
 
-{% include ante-pini_si.md date="2021-03-07" %}
+{% include ante-pini_en.md date="2021-03-07" %}
 
 {% include likebtn.md pagename_lang="sitelen-sonko_en" %}
