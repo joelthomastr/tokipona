@@ -27,7 +27,7 @@
 
 - <span class="lp">sina ken toki e ni tawa mi:  ["sina kepeken toki [_ilo_nasin_li_ilo] sama jan+nasa tan seme"](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_lp)</span>
 
-{% include ante-pini_lp.md date="2021-01-07" %}
+{% include ante-pini_lp.md date="2021-01-10" %}
 
 {% include likebtn.md pagename_lang="README_lp" %}
 

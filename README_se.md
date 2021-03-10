@@ -27,7 +27,7 @@
 
 - <span class="se"><i class='twa twa-backhand-index-pointing-right'></i><i class='twa twa-flexed-biceps'></i><i class='twa twa-speaking-head'></i><i class='twa twa-fast-forward-button'></i><i class='twa twa-backhand-index-pointing-down'></i><i class='twa twa-left-arrow-curving-right'></i><i class='twa twa-backhand-index-pointing-left'></i><i class="twa twa-division-sign"></i>  [<span style="background-color:#574500;">"<i class='twa twa-backhand-index-pointing-right'></i><i class='twa twa-wrench'></i><i class='twa twa-speaking-head'></i><i class='twa twa-input-symbols'></i><i class='twa twa-gear'></i><i class='twa twa-motorway'></i><i class='twa twa-play-button'></i><i class='twa twa-gear'></i><i class='twa twa-input-symbols'></i><i class='twa twa-balance-scale'></i><i class='twa twa-bust-in-silhouette'></i><i class='twa twa-cyclone'></i><i class='twa twa-right-arrow-curving-left'></i><i class='twa twa-question-mark'></i>"</span>](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_se)</span>
 
-{% include ante-pini_se.md date="2021-01-07" %}
+{% include ante-pini_se.md date="2021-01-10" %}
 
 {% include likebtn.md pagename_lang="README_se" %}
 

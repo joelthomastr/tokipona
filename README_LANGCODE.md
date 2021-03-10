@@ -27,7 +27,7 @@ mi jan+pali sitelen lon kulupu pi+[lipu+tenpo](https://liputenpo.org/). mi pana 
 
 - sina ken toki e ni tawa mi:  ["sina kepeken toki INLI sama jan+nasa tan seme"](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_LANGCODE)
 
-{% include ante-pini_LANGCODE.md date="2021-01-07" %}
+{% include ante-pini_LANGCODE.md date="2021-01-10" %}
 
 {% include likebtn.md pagename_lang="README_LANGCODE" %}
 

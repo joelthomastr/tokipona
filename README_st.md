@@ -27,7 +27,7 @@
 
 - <span class="st">sina ken toki eni tawami:  ["sina kepeken toki INLI sama jan nasa tan seme"](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_st)</span>
 
-{% include ante-pini_st.md date="2021-01-07" %}
+{% include ante-pini_st.md date="2021-01-10" %}
 
 {% include likebtn.md pagename_lang="README_st" %}
 
