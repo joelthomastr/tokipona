@@ -6,8 +6,8 @@
 
 # <span class="st">seme li sin?</span>
 
-- <span class="st">2021-01-10: [ma pi nimi pona](https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona-1_st)</span>
-- <span class="st">2021-01-07: [tokipona li sama ala sitelen SONKO](https://joelthomastr.github.io/tokipona/sitelen-sonko_st)</span>
+- <span class="st"><span class="stdef">2021-01-10</span>: [ma pi nimi pona](https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona-1_st)</span>
+- <span class="st"><span class="stdef">2021-01-07</span>: [tokipona li sama ala sitelen SONKO](https://joelthomastr.github.io/tokipona/sitelen-sonko_st)</span>
 
 # <span class="st">toki insa mi</span>
 

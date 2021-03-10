@@ -6,8 +6,8 @@
 
 # <span class="lp">seme li sin</span>
 
-- <span class="lp">2021-01-10: [ma pi+nimi+pona](https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona-1_lp)</span>
-- <span class="lp">2021-01-07: [toki+pona li sama ala sitelen [_sona_o_ni_kon_o]](https://joelthomastr.github.io/tokipona/sitelen-sonko_lp)</span>
+- <span class="lp"><span class="lpdef">2021-01-10</span>: [ma pi+nimi+pona](https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona-1_lp)</span>
+- <span class="lp"><span class="lpdef">2021-01-07</span>: [toki+pona li sama ala sitelen [_sona_o_ni_kon_o]](https://joelthomastr.github.io/tokipona/sitelen-sonko_lp)</span>
 
 # <span class="lp">toki+insa mi</span>
 

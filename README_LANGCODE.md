@@ -6,8 +6,8 @@ o pona! ni li kulupu lipu mi tawa ni: mi sitelen e ijo kepeken toki+pona. mi wil
 
 # seme li sin?
 
-- 2021-01-10: [ma pi+nimi+pona](https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona-1_LANGCODE)
-- 2021-01-07: [toki+pona li sama ala sitelen SONKO](https://joelthomastr.github.io/tokipona/sitelen-sonko_LANGCODE)
+- <span class="lpdef">2021-01-10</span>: [ma pi+nimi+pona](https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona-1_LANGCODE)
+- <span class="lpdef">2021-01-07</span>: [toki+pona li sama ala sitelen SONKO](https://joelthomastr.github.io/tokipona/sitelen-sonko_LANGCODE)
 
 # toki+insa mi
 
