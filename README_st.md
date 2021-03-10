@@ -6,7 +6,8 @@
 
 # <span class="st">seme li sin?</span>
 
-- <span class="st">2021-01-07: [tokipona li sama ala sitelen SONKO](https://joelthomastr.github.io/tokipona/sitelen-sonko_st).</span>
+- <span class="st">2021-01-10: [ma pi nimi pona](https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona-1_st)</span>
+- <span class="st">2021-01-07: [tokipona li sama ala sitelen SONKO](https://joelthomastr.github.io/tokipona/sitelen-sonko_st)</span>
 
 # <span class="st">toki insa mi</span>
 
@@ -18,10 +19,11 @@
 <span class="st">mi jan pali sitelen lon kulupu pi [lipu tenpo](https://liputenpo.org/). mi pana e lipu lili tawa ona. lipu lili mi li lon lipu tenpo sin la mi pana e lipu lili mi lon kulupu lipu ni.</span>
 
 - <span class="st">[tokipona li sama ala sitelen SONKO](https://joelthomastr.github.io/tokipona/sitelen-sonko_st)</span>
+- <span class="st">[ma pi nimi pona](https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona-1_st)</span>
 
 # <span class="st">nasin pali mi</span>
 
-- <span class="st">mi pali e [sitelen pona pona luka](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_st). kepeken ona la sina ken sitelen e sitelen pona pona kepeken palisa-sitelen kepeken tenpo lili</span>
+- <span class="st">mi pali e [sitelen pona pona luka](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_st). kepeken ona la sina ken sitelen e sitelen pona pona kepeken palisa sitelen kepeken tenpo lili.</span>
 
 - <span class="st">sina ken toki eni tawami:  ["sina kepeken toki INLI sama jan nasa tan seme"](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_st)</span>
 

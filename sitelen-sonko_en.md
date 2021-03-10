@@ -2,7 +2,7 @@
 
 
 
-<span class="en">[tomo](https://joelthomastr.github.io/tokipona/README_en)&nbsp;&nbsp;>&nbsp;&nbsp;lipu ni</span>
+<span class="en">[home](https://joelthomastr.github.io/tokipona/README_en)&nbsp;&nbsp;>&nbsp;&nbsp;this page</span>
 
 # <span class="en">Toki Pona is not like Chinese writing</span>
 
