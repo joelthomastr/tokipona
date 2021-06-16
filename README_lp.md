@@ -2,23 +2,25 @@
 
 
 
-<span class="lp">o pona! ni li kulupu lipu mi tawa ni: mi sitelen e ijo kepeken toki+pona. mi wile kama sona e toki+pona li musi li pana e musi e sona tawa ale!</span>
+<span class="lp">o pona! ni li kulupu lipu mi tawa ni: mi sitelen e ijo kepeken toki-pona. mi wile kama sona e toki-pona li musi li pana e musi e sona tawa ale!</span>
 
 # <span class="lp">seme li sin</span>
 
-- <span class="lp"><span class="lpdef">2021-01-10</span>: [ma pi+nimi+pona](https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona-1_lp)</span>
-- <span class="lp"><span class="lpdef">2021-01-07</span>: [toki+pona li sama ala sitelen [_sona_o_ni_kon_o]](https://joelthomastr.github.io/tokipona/sitelen-sonko_lp)</span>
+- <span class="lp"><span class="lpdef">2021-06-16</span>: [wawa+ante pi+toki-pona](https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_lp)</span>
 
 # <span class="lp">toki+insa mi</span>
 
-- <span class="lp">[jan li ken pana e sona ale kepeken toki+pona](https://joelthomastr.github.io/tokipona/pana-sona-ale_lp)</span>
-- <span class="lp">[nasin pona pi+toki+pona](https://joelthomastr.github.io/tokipona/nasin-pona-pi-toki-pona_lp)</span>
+- <span class="lp">[jan li ken pana e sona ale kepeken toki-pona](https://joelthomastr.github.io/tokipona/pana-sona-ale_lp)</span>
+- <span class="lp">[nasin pona pi+toki-pona](https://joelthomastr.github.io/tokipona/nasin-pona-pi-toki-pona_lp)</span>
 
 ## <span class="lp">lon lipu+tenpo</span>
 
 <span class="lp">mi jan+pali sitelen lon kulupu pi+[lipu+tenpo](https://liputenpo.org/). mi pana e lipu+lili tawa ona. lipu+lili mi li lon lipu+tenpo sin la mi pana e lipu+lili mi lon kulupu lipu ni.</span>
 
-- <span class="lp">[toki+pona li sama ala sitelen [_sona_o_ni_kon_o]](https://joelthomastr.github.io/tokipona/sitelen-sonko_lp)</span>
+- <span class="lp">[toki-pona li sama ala sitelen [_sona_o_ni_kon_o]](https://joelthomastr.github.io/tokipona/sitelen-sonko_lp)</span>
+- <span class="lp">[wawa+ante pi+toki-pona](https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_lp)</span>
+
+
 - <span class="lp">[ma pi+nimi+pona](https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona-1_lp)</span>
 
 # <span class="lp">nasin pali mi</span>

@@ -6,8 +6,7 @@
 
 # <span class="en">What is new?</span>
 
-- <span class="en">2021-01-10: [The Land of Good Words](https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona-1_en)</span>
-- <span class="en">2021-01-07: [Toki Pona is not like Chinese writing](https://joelthomastr.github.io/tokipona/sitelen-sonko_en)</span>
+- <span class="en">2021-06-16: [The Different Power of Toki Pona](https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_en)</span>
 
 # <span class="en">My inside thinking</span>
 
@@ -19,6 +18,9 @@
 <span class="en">I am a writer at [lipu tenpo](https://liputenpo.org/). I give small documents to it. When my small document is in a new lipu tenpo I give my small document to this group of documents.</span>
 
 - <span class="en">[Toki Pona is not like Chinese writing](https://joelthomastr.github.io/tokipona/sitelen-sonko_en)</span>
+- <span class="en">2021-06-16: [The Different Power of Toki Pona](https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_en)</span>
+
+
 - <span class="en">[The Land of Good Words](https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona-1_en)</span>
 
 # <span class="en">My way of working</span>

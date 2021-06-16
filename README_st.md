@@ -6,8 +6,7 @@
 
 # <span class="st">seme li sin?</span>
 
-- <span class="st"><span class="stdef">2021-01-10</span>: [ma pi nimi pona](https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona-1_st)</span>
-- <span class="st"><span class="stdef">2021-01-07</span>: [tokipona li sama ala sitelen SONKO](https://joelthomastr.github.io/tokipona/sitelen-sonko_st)</span>
+- <span class="st"><span class="stdef">2021-06-16</span>: [wawa ante pi tokipona](https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_st)</span>
 
 # <span class="st">toki insa mi</span>
 
@@ -19,6 +18,9 @@
 <span class="st">mi jan pali sitelen lon kulupu pi [lipu tenpo](https://liputenpo.org/). mi pana e lipu lili tawa ona. lipu lili mi li lon lipu tenpo sin la mi pana e lipu lili mi lon kulupu lipu ni.</span>
 
 - <span class="st">[tokipona li sama ala sitelen SONKO](https://joelthomastr.github.io/tokipona/sitelen-sonko_st)</span>
+- <span class="st">[wawa ante pi tokipona](https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_st)</span>
+
+
 - <span class="st">[ma pi nimi pona](https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona-1_st)</span>
 
 # <span class="st">nasin pali mi</span>
