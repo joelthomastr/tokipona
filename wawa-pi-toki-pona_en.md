@@ -6,11 +6,11 @@
 
 # <span class="en">The Different Power of Toki Pona</span>
 
-> <span class="en">I gave this page in [lipu tenpo nanpa mun](https://liputenpo.org/lipu-tenpo-nanpa-mun/)</span>
+> <span class="en">I gave this page in [lipu tenpo nanpa pan](https://liputenpo.org/lipu-tenpo-nanpa-pan/)</span>
 
 <span class="en">In a lipu tenpo of past time I said this: Toki Pona is not like Chinese writing. In this document I say a different thing.</span>
 
-<span class="en">In [lipu tenpo nanpa mun](https://liputenpo.org/lipu-tenpo-nanpa-mun/) I say this: Toki Pona is not like Chinese writing and is like Latin writring. That is because of this: Toki Pona does not have a word for all things of a person's head. If a person wants to say heavy knowledge using Toki Pona they must use groups of words.</span>
+<span class="en">In [lipu tenpo nanpa mun](https://liputenpo.org/lipu-tenpo-nanpa-mun/) I say this: Toki Pona is not like Chinese writing and is like Latin writing. That is because of this: Toki Pona does not have a word for all things of a person's head. If a person wants to say heavy knowledge using Toki Pona they must use groups of words.</span>
 
 <span class="en">Chinese writing has many good things. But Latin writing has many other good things and a different power. Other languages than Toki Pona are good. They all are like Chinese writing. But only Toki Pona is like Latin writing and has a different power like Latin writing. What is this power?</span>
 
