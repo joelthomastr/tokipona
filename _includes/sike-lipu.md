@@ -1,1 +1,1 @@
-<div style="background:white"><iframe style="width: 100%; height: 3rem; border: none" src="https://sike-lipu.ralismark.xyz/embed/janTelakoman"></iframe><div>
+<iframe style="width: 100%; height: 1.3rem; border: none; filter: invert(1)" src="https://sike-lipu.ralismark.xyz/embed/janTelakoman"></iframe>
