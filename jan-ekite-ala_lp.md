@@ -12,6 +12,8 @@
 
 <span class="lp">ni la mi pali e sitelen+tawa pi++nimi ni: nasin pi+sitelen+ma pi+jan [_e_ken_ilo_tawa_e] ala. ni li sona pi++suli mute tawa mi! taso sina lukin e sitelen+tawa ni la sina lukin e ni: jan li ken pana e sona+suli kepeken toki-pona.</span>
 
+<span class="lp">sina wile la sina ken lukin e sitelen+toki lon toki [_ilo_nasin_li_ilo] anu toki-pona. sina wile e sitelen+toki lon toki-pona la o ante e ona tawa "toki [_ilo_nasin_li_ilo] pi+ma [_kasi_alasa_nasin_awen_telo_a]."</span>
+
 <span class="lp">mi wile e ni: sina lukin e sitelen+tawa mi la sina musi. lukin pona!</span>
 
 {% include jan-ekite-ala-sitelen-tawa.md %}

@@ -12,6 +12,8 @@
 
 <span class="spp">ni la mi pali e sitelen tawa pi nimi ni: nasin pi sitelen ma pi jan EKITE ala. ni li sona pi suli mute tawa mi! taso sina lukin e sitelen tawa ni la sina lukin e ni: jan li ken pana e sona suli kepeken toki pona.</span>
 
+<span class="spp">sina wile la sina ken lukin e sitelen toki lon toki INLI anu toki pona. sina wile e sitelen toki lon toki pona la o ante e ona tawa "toki INLI pi ma KANATA."</span>
+
 <span class="spp">mi wile e ni: sina lukin e sitelen tawa mi la sina musi. lukin pona!</span>
 
 {% include jan-ekite-ala-sitelen-tawa.md %}
