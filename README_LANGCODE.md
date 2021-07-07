@@ -37,3 +37,5 @@ sina wile toki tawa mi la sina ken kepeken nasin ni:
 - ilo WESI: <span class="lpdef">u/joelthomastr</span>
 - ilo SIKO: <span class="lpdef">Dragoman#5929</span>
 - poki pi+lipu+toki EMAIL: <span class="lpdef">jantelakoman@gmail.com</span>
+
+{% include sike-lipu.md %}

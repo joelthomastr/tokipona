@@ -37,3 +37,5 @@
 - <span class="en">Reddit: <span class="endef">u/joelthomastr</span></span>
 - <span class="en">Discord: <span class="endef">Dragoman#5929</span></span>
 - <span class="en">E-mail: <span class="endef">jantelakoman@gmail.com</span></span>
+
+{% include sike-lipu.md %}

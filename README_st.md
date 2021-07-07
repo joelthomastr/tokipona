@@ -37,3 +37,5 @@
 - <span class="st">ilo WESI: <span class="stdef">u/joelthomastr</span></span>
 - <span class="st">ilo SIKO: <span class="stdef">Dragoman#5929</span></span>
 - <span class="st">poki pi lipu toki EMAIL: <span class="stdef">jantelakoman@gmail.com</span></span>
+
+{% include sike-lipu.md %}

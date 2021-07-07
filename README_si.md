@@ -37,3 +37,5 @@
 - <span class="si">ilo Wesi: <span class="sidef">u/joelthomastr</span></span>
 - <span class="si">ilo Siko: <span class="sidef">Dragoman#5929</span></span>
 - <span class="si">poki pi lipu toki E-mail: <span class="sidef">jantelakoman@gmail.com</span></span>
+
+{% include sike-lipu.md %}

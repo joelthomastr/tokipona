@@ -37,3 +37,5 @@
 - <span class="lp">ilo [_wile_e_sona_ijo]: <span class="lpdef">u/joelthomastr</span></span>
 - <span class="lp">ilo [_sitelen_ilo_kon_o]: <span class="lpdef">Dragoman#5929</span></span>
 - <span class="lp">poki pi+lipu+toki [_esun_mute_esun_li]: <span class="lpdef">jantelakoman@gmail.com</span></span>
+
+{% include sike-lipu.md %}
