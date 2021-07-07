@@ -6,12 +6,17 @@
 
 # <span class="st">seme li sin?</span>
 
+- <span class="st"><span class="stdef">2021-07-07</span>: [nasin pi sitelen ma pi jan EKITE ala](https://joelthomastr.github.io/tokipona/jan-ekite-ala_st)</span>
 - <span class="st"><span class="stdef">2021-06-16</span>: [wawa ante pi tokipona](https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_st)</span>
 
 # <span class="st">toki insa mi</span>
 
 - <span class="st">[jan li ken pana e sona ale kepeken tokipona](https://joelthomastr.github.io/tokipona/pana-sona-ale_st)</span>
 - <span class="st">[nasin pona pi tokipona](https://joelthomastr.github.io/tokipona/nasin-pona-pi-toki-pona_st)</span>
+
+## <span class="st">pana sona</span>
+
+- <span class="st">[nasin pi sitelen ma pi jan EKITE ala](https://joelthomastr.github.io/tokipona/jan-ekite-ala_st)</span>
 
 ## <span class="st">lon lipu tenpo</span>
 
@@ -29,7 +34,7 @@
 
 - <span class="st">sina ken toki eni tawami:  ["sina kepeken toki INLI sama jan nasa tan seme"](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_st)</span>
 
-{% include ante-pini_st.md date="2021-01-10" %}
+{% include ante-pini_st.md date="2021-07-07" %}
 
 {% include likebtn.md pagename_lang="README_st" %}
 

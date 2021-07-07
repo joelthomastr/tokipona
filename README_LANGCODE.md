@@ -6,12 +6,17 @@ o pona! ni li kulupu lipu mi tawa ni: mi sitelen e ijo kepeken toki+pona. mi wil
 
 # seme li sin?
 
+- <span class="lpdef">2021-07-07</span>: [nasin pi+sitelen+ma pi+jan EKITE ala](https://joelthomastr.github.io/tokipona/jan-ekite-ala_LANGCODE)
 - <span class="lpdef">2021-06-16</span>: [wawa+ante pi+toki+pona](https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_LANGCODE)
 
 # toki+insa mi
 
 - [jan li ken pana e sona ale kepeken toki+pona](https://joelthomastr.github.io/tokipona/pana-sona-ale_LANGCODE)
 - [nasin pona pi+toki+pona](https://joelthomastr.github.io/tokipona/nasin-pona-pi-toki-pona_LANGCODE)
+
+## pana sona
+
+- [nasin pi+sitelen+ma pi+jan EKITE ala](https://joelthomastr.github.io/tokipona/jan-ekite-ala_LANGCODE)
 
 ## lon lipu+tenpo
 
@@ -29,7 +34,7 @@ mi jan+pali sitelen lon kulupu pi+[lipu+tenpo](https://liputenpo.org/). mi pana 
 
 - sina ken toki e ni tawa mi:  ["sina kepeken toki INLI sama jan+nasa tan seme"](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_LANGCODE)
 
-{% include ante-pini_LANGCODE.md date="2021-01-10" %}
+{% include ante-pini_LANGCODE.md date="2021-07-07" %}
 
 {% include likebtn.md pagename_lang="README_LANGCODE" %}
 

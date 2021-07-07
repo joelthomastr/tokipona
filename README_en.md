@@ -6,6 +6,8 @@
 
 # <span class="en">What is new?</span>
 
+
+- <span class="en">2021-07-07: [The Different Power of Toki Pona](https://joelthomastr.github.io/tokipona/jan-ekite-ala_en)</span>
 - <span class="en">2021-06-16: [The Different Power of Toki Pona](https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_en)</span>
 
 # <span class="en">My inside thinking</span>
@@ -13,12 +15,17 @@
 - <span class="en">[A person can give all knowledge with Toki Pona](https://joelthomastr.github.io/tokipona/pana-sona-ale_en)</span>
 - <span class="en">[Good Way of Toki Pona](https://joelthomastr.github.io/tokipona/nasin-pona-pi-toki-pona_en)</span>
 
+## <span class="en">Knowledge giving</span>
+
+- <span class="en">[The Way of Earth Writing Not of Euclid](https://joelthomastr.github.io/tokipona/jan-ekite-ala_en)</span>
+
+
 ## <span class="en">In lipu tenpo</span>
 
 <span class="en">I am a writer at [lipu tenpo](https://liputenpo.org/). I give small documents to it. When my small document is in a new lipu tenpo I give my small document to this group of documents.</span>
 
 - <span class="en">[Toki Pona is not like Chinese writing](https://joelthomastr.github.io/tokipona/sitelen-sonko_en)</span>
-- <span class="en">2021-06-16: [The Different Power of Toki Pona](https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_en)</span>
+- <span class="en">[The Different Power of Toki Pona](https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_en)</span>
 
 
 - <span class="en">[The Land of Good Words](https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona-1_en)</span>
@@ -29,7 +36,7 @@
 
 - <span class="en">You can say this to me: ["You use English like a crazy person because of what?"](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_en)</span>
 
-{% include ante-pini_en.md date="2021-01-10" %}
+{% include ante-pini_en.md date="2021-07-07" %}
 
 {% include likebtn.md pagename_lang="README_en" %}
 

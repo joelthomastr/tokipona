@@ -6,12 +6,17 @@
 
 # <span class="se"><i class='twa twa-question-mark'></i><i class='twa twa-play-button'></i><i class='twa twa-wrapped-gift'></i>?</span>
 
+- <span class="se"><span class="sedef">2021-07-07</span>: [<span style="background-color:#574500;"><i class='twa twa-motorway'></i><i class='twa twa-stop-button'></i><i class='twa twa-framed-picture'></i><i class='twa twa-desert-island'></i><i class='twa twa-stop-button'></i><i class='twa twa-bust-in-silhouette'></i><i class='twa twa-input-symbols'></i><i class='twa twa-fast-forward-button'></i><i class='twa twa-flexed-biceps'></i><i class='twa twa-gear'></i><i class='twa twa-left-arrow-curving-right'></i><i class='twa twa-fast-forward-button'></i><i class='twa twa-input-symbols'></i><i class='twa twa-cross-mark'></i></span>](https://joelthomastr.github.io/tokipona/jan-ekite-ala_se)</span>
 - <span class="se"><span class="sedef">2021-06-16</span>: [<span style="background-color:#574500;"><i class='twa twa-high-voltage'></i><i class='twa twa-shuffle-tracks-button'></i><i class='twa twa-stop-button'></i><i class='twa twa-speaking-head'></i><i class='twa twa-thumbs-up'></i></span>](https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_se)</span>
 
 # <span class="se"><i class='twa twa-speaking-head'></i><i class='twa twa-record-button'></i><i class='twa twa-backhand-index-pointing-left'></i></span>
 
 - <span class="se">[<span style="background-color:#574500;"><i class='twa twa-bust-in-silhouette'></i><i class='twa twa-play-button'></i><i class='twa twa-flexed-biceps'></i><i class='twa twa-outbox-tray'></i><i class='twa twa-fast-forward-button'></i><i class='twa twa-brain'></i><i class='twa twa-infinity'></i><i class='twa twa-wrench'></i><i class='twa twa-speaking-head'></i><i class='twa twa-thumbs-up'></i></span>](https://joelthomastr.github.io/tokipona/pana-sona-ale_se)</span>
 - <span class="se">[<span style="background-color:#574500;"><i class='twa twa-motorway'></i><i class='twa twa-thumbs-up'></i><i class='twa twa-stop-button'></i><i class='twa twa-speaking-head'></i><i class='twa twa-thumbs-up'></i></span>](https://joelthomastr.github.io/tokipona/nasin-pona-pi-toki-pona_se)</span>
+
+## <span class="se"><i class='twa twa-outbox-tray'></i><i class='twa twa-brain'></i></span>
+
+- <span class="se">[<span style="background-color:#574500;"><i class='twa twa-motorway'></i><i class='twa twa-stop-button'></i><i class='twa twa-framed-picture'></i><i class='twa twa-desert-island'></i><i class='twa twa-stop-button'></i><i class='twa twa-bust-in-silhouette'></i><i class='twa twa-input-symbols'></i><i class='twa twa-fast-forward-button'></i><i class='twa twa-flexed-biceps'></i><i class='twa twa-gear'></i><i class='twa twa-left-arrow-curving-right'></i><i class='twa twa-fast-forward-button'></i><i class='twa twa-input-symbols'></i><i class='twa twa-cross-mark'></i></span>](https://joelthomastr.github.io/tokipona/jan-ekite-ala_se)</span>
 
 ## <span class="se"><i class='twa twa-round-pushpin'></i><i class='twa twa-page-facing-up'></i><i class='twa twa-alarm-clock'></i></span>
 
@@ -29,7 +34,7 @@
 
 - <span class="se"><i class='twa twa-backhand-index-pointing-right'></i><i class='twa twa-flexed-biceps'></i><i class='twa twa-speaking-head'></i><i class='twa twa-fast-forward-button'></i><i class='twa twa-backhand-index-pointing-down'></i><i class='twa twa-left-arrow-curving-right'></i><i class='twa twa-backhand-index-pointing-left'></i><i class="twa twa-division-sign"></i>  [<span style="background-color:#574500;">"<i class='twa twa-backhand-index-pointing-right'></i><i class='twa twa-wrench'></i><i class='twa twa-speaking-head'></i><i class='twa twa-input-symbols'></i><i class='twa twa-gear'></i><i class='twa twa-motorway'></i><i class='twa twa-play-button'></i><i class='twa twa-gear'></i><i class='twa twa-input-symbols'></i><i class='twa twa-balance-scale'></i><i class='twa twa-bust-in-silhouette'></i><i class='twa twa-cyclone'></i><i class='twa twa-right-arrow-curving-left'></i><i class='twa twa-question-mark'></i>"</span>](https://joelthomastr.github.io/tokipona/kepeken-pi-toki-inli_se)</span>
 
-{% include ante-pini_se.md date="2021-01-10" %}
+{% include ante-pini_se.md date="2021-07-07" %}
 
 {% include likebtn.md pagename_lang="README_se" %}
 
