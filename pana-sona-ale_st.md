@@ -32,7 +32,7 @@
 
 <span class='st'>toki mama la ni li ken lon tan seme? jan li kepeken toki mama la ona li kepeken nimi mute. tenpo mute la nimi tu li jo e kon sama. taso jan li sona ala eni. insa pi lawa ona la ona li toki eni : "nimi mute li lon. ni la ijo mute li lon." taso lon la ijo wan li lon.</span>
 
-<span class='st'>toki mama li jo enimi mute tawa kon sama. ni li ike tan seme? ni li ike tan ijo mute. mi pana e ijo tu tan ijo muteni.</span>
+<span class='st'>toki mama li jo e nimi mute tawa kon sama. ni li ike tan seme? ni li ike tan ijo mute. mi pana e ijo tu tan ijo muteni.</span>
 
 <span class='st'>ijo nanpa wan li ni:</span>
 
