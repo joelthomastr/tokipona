@@ -2,7 +2,7 @@
 
 <span class="lp">
 
-[tomo](https://joelthomastr.github.io/tokipona/README_LANGCODE)&nbsp;&nbsp;>&nbsp;&nbsp;lipu ni
+[tomo](https://joelthomastr.github.io/tokipona/README_en)&nbsp;&nbsp;>&nbsp;&nbsp;lipu ni
 
 # My Speeches on the Day of Toki Pona
 
@@ -20,18 +20,18 @@ In this speech I say this: Toki Pona is very entertaining, but Toki Pona is not 
 
 Knowledge persons see this: Ways of speech are many in all the world. All ways of speech are different and can make the head of a person crazy. Because of this, a small group of knowledge persons made a looking method. By this method of looking a person can see all the little information inside people's speech. But this looking method can be bad (complex) because of this: A person must write much speech. This looking method is not a way of speech. A person cannot speak using this looking method.
 
-I say this: Toki Pona is very good because of this: Toki Pona is like the  looking method of the little group of knowledge people. Using Toki Pona a person can see all the little information inside people's speech. But at the same time a person speak using Toki Pona! A way of speech uses all the territories of the head of a person. So Toki Pona is a tool of much power.
+I say this: Toki Pona is very good because of this: Toki Pona is like the  looking method of the little group of knowledge people. Using Toki Pona a person can see all the little information inside people's speech. But at the same time a person can speak using Toki Pona! A way of speech uses all the territories of the head of a person. So Toki Pona is a tool of much power.
 
 ## Speech Number Two: The Good Method of Speech Change
 
  {% include Jutu-suno-pi-toki-pona-2.md %}
 
-In this speech I give knowlege of speech change. This knowledge is in the speech object of this page of mine of past time: [The method of giving big knowledge using Toki Pona](https://joelthomastr.github.io/tokipona/pana-sona-ale_LANGCODE#ijo4).
+In this speech I give knowlege of speech change. This knowledge is in the speech object of this page of mine of past time: [The method of giving big knowledge using Toki Pona](https://joelthomastr.github.io/tokipona/pana-sona-ale_en#ijo4).
 
 But in this speech I do not give only knowledge. At the same time I give a look. When you listen to my speech you come to know this: When a person uses this method this is looking like what? You can use the same method using which way?
 
 I want this: When you look at thess moving pictures you come to know good knowledge or you are entertained.
 
-{% include ante-pini_LANGCODE.md date="2021-10-10" %}
+{% include ante-pini_en.md date="2021-10-10" %}
 
-{% include likebtn.md pagename_lang="suno-pi-toki-pona_LANGCODE" %}
+{% include likebtn.md pagename_lang="suno-pi-toki-pona_en" %}
