@@ -6,8 +6,8 @@
 
 # <span class="en">What is new?</span>
 
-
-- <span class="en">2021-07-07: [The Different Power of Toki Pona](https://joelthomastr.github.io/tokipona/jan-ekite-ala_en)</span>
+- <span class="en">2021-10-10: [My Speeches on the Day of Toki Pona](https://joelthomastr.github.io/tokipona/suno-pi-toki-pona_en)</span>
+- <span class="en">2021-07-07: [The Way of Earth Writing Not of Euclid](https://joelthomastr.github.io/tokipona/jan-ekite-ala_en)</span>
 - <span class="en">2021-06-16: [The Different Power of Toki Pona](https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_en)</span>
 
 # <span class="en">My inside thinking</span>

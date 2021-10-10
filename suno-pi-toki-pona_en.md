@@ -4,7 +4,7 @@
 
 [tomo](https://joelthomastr.github.io/tokipona/README_LANGCODE)&nbsp;&nbsp;>&nbsp;&nbsp;lipu ni
 
-# My Speech on the Day of Toki Pona
+# My Speeches on the Day of Toki Pona
 
 In moon time number eight of this circling of the sun the community of Toki Pona did this: The Day of Toki Pona. This day was important because of this: On the same day of 20 circlings of the sun ago, Sonja Lang gave the first page of Toki Pona to all the world. So the community of Toki Pona said this: On the same day of this circling of the sun let us all do a recreational time. You can see [all of the moving pictures on YouTube](https://youtube.com/playlist?list=PLjOmpMyMxd8Ru7RzbKS0ZZ1E_S2J_pA2X).
 
@@ -26,7 +26,7 @@ I say this: Toki Pona is very good because of this: Toki Pona is like the  looki
 
  {% include Jutu-suno-pi-toki-pona-2.md %}
 
-In this pseech I give knowlege of speech change. This knowledge is in the speech object of this page of mine of past time: [The method of giving big knowledge using Toki Pona](https://joelthomastr.github.io/tokipona/pana-sona-ale_LANGCODE#ijo4).
+In this speech I give knowlege of speech change. This knowledge is in the speech object of this page of mine of past time: [The method of giving big knowledge using Toki Pona](https://joelthomastr.github.io/tokipona/pana-sona-ale_LANGCODE#ijo4).
 
 But in this speech I do not give only knowledge. At the same time I give a look. When you listen to my speech you come to know this: When a person uses this method this is looking like what? You can use the same method using which way?
 

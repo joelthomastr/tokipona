@@ -6,6 +6,7 @@
 
 # <span class="lp">seme li sin</span>
 
+- <span class="lp"><span class="lpdef">2021-10-10: [toki mi lon suno pi+toki-pona](https://joelthomastr.github.io/tokipona/suno-pi-toki-pona_lp)</span></span>
 - <span class="lp"><span class="lpdef">2021-07-07</span>: [nasin pi+sitelen+ma pi+jan [_e_ken_ilo_tawa_e] ala](https://joelthomastr.github.io/tokipona/jan-ekite-ala_lp)</span>
 - <span class="lp"><span class="lpdef">2021-06-16</span>: [wawa+ante pi+toki-pona](https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_lp)</span>
 

@@ -6,6 +6,7 @@
 
 # <span class="spp">seme li sin?</span>
 
+- <span class="spp"><span class="sppdef">2021-10-10: [toki mi lon suno pi toki pona](https://joelthomastr.github.io/tokipona/suno-pi-toki-pona_spp)</span></span>
 - <span class="spp"><span class="sppdef">2021-07-07</span>: [nasin pi sitelen ma pi jan EKITE ala](https://joelthomastr.github.io/tokipona/jan-ekite-ala_spp)</span>
 - <span class="spp"><span class="sppdef">2021-06-16</span>: [wawa ante pi toki pona](https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_spp)</span>
 

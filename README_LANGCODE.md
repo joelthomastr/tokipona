@@ -6,6 +6,7 @@ o pona! ni li kulupu lipu mi tawa ni: mi sitelen e ijo kepeken toki+pona. mi wil
 
 # seme li sin?
 
+- <span class="lpdef">2021-10-10: [toki mi lon suno pi+toki+pona](https://joelthomastr.github.io/tokipona/suno-pi-toki-pona_LANGCODE)</span>
 - <span class="lpdef">2021-07-07</span>: [nasin pi+sitelen+ma pi+jan EKITE ala](https://joelthomastr.github.io/tokipona/jan-ekite-ala_LANGCODE)
 - <span class="lpdef">2021-06-16</span>: [wawa+ante pi+toki+pona](https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_LANGCODE)
 

@@ -6,6 +6,7 @@
 
 # <span class="st">seme li sin?</span>
 
+- <span class="st"><span class="stdef">2021-10-10: [toki mi lon suno pi tokipona](https://joelthomastr.github.io/tokipona/suno-pi-toki-pona_st)</span></span>
 - <span class="st"><span class="stdef">2021-07-07</span>: [nasin pi sitelen ma pi jan EKITE ala](https://joelthomastr.github.io/tokipona/jan-ekite-ala_st)</span>
 - <span class="st"><span class="stdef">2021-06-16</span>: [wawa ante pi tokipona](https://joelthomastr.github.io/tokipona/wawa-pi-toki-pona_st)</span>
 
