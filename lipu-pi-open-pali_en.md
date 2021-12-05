@@ -1,5 +1,7 @@
 {% include header.md pagename="lipu-pi-open-pali" %}
 
+{% include toki-inli-nasa_en.md %}
+
 <span class="en">
 
 [home](https://joelthomastr.github.io/tokipona/README_en)&nbsp;&nbsp;>&nbsp;&nbsp;this page

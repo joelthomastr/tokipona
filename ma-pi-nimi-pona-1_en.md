@@ -1,6 +1,6 @@
 {% include header.md pagename="ma-pi-nimi-pona-1" %}
 
-
+{% include toki-inli-nasa_en.md %}
 
 <span class="en">[home](https://joelthomastr.github.io/tokipona/README_en)&nbsp;&nbsp;>&nbsp;&nbsp;this page</span>
 

@@ -1,6 +1,6 @@
 {% include header.md pagename="sitelen-sonko" %}
 
-
+{% include toki-inli-nasa_en.md %}
 
 <span class="en">[tomo](https://joelthomastr.github.io/tokipona/README_en)&nbsp;&nbsp;>&nbsp;&nbsp;lipu ni</span>
 

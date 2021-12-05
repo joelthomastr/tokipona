@@ -1,5 +1,7 @@
 {% include header.md pagename="suno-pi-toki-pona" %}
 
+{% include toki-inli-nasa_en.md %}
+
 <span class="lp">
 
 [tomo](https://joelthomastr.github.io/tokipona/README_en)&nbsp;&nbsp;>&nbsp;&nbsp;lipu ni

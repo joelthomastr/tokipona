@@ -1,5 +1,7 @@
 {% include header.md pagename="nasin-pona-pi-toki-pona" %}
 
+{% include toki-inli-nasa_en.md %}
+
 <a name="lawalipu"></a>
 [home](https://joelthomastr.github.io/tokipona/README_si)&nbsp;> this page
 

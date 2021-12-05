@@ -1,5 +1,7 @@
 {% include header.md pagename="sitelen-pona-pona-luka" %}
 
+{% include toki-inli-nasa_en.md %}
+
 [Home](https://joelthomastr.github.io/tokipona/README_en) > This Page
 
 # Sitelen Pona Pona Luka

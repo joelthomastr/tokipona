@@ -1,5 +1,7 @@
 {% include header.md pagename="pana-sona-ale" %}
 
+{% include toki-inli-nasa_en.md %}
+
 <a name="lawa"></a>
 [Home](https://joelthomastr.github.io/tokipona/README_en)&nbsp;> This Page
 
@@ -36,7 +38,7 @@ Parent languages have many words for the same essence. That is bad because of wh
 
 The first thing is this:
 
-When a person knows little about the essence of words they can mess up. A person must know this: What exists? What does not exist? But when a person knows little about the essence of words they cannot do good toward himself or other persons.
+When a person knows little about the essence of words they can mess up. A person must know this: What exists? What does not exist? But when a person knows little about the essence of words they cannot do good toward themselves or other persons.
 
 The second thing is this:
 
