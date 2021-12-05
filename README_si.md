@@ -9,7 +9,7 @@
 - <span class="si"><span class="sidef">2021-12-05:</span> [toki pi kon pona](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_si)</span>
 - <span class="si"><span class="sidef">2021-12-05:</span> [toki lili lon ma kasi](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_si)</span>
 
-# <span class="si">sitelen tawa en kalama enmusi</span>
+# <span class="si">sitelen tawa en kalama en musi</span>
 
 - <span class="si">[nasin pi sitelen ma pi jan Ekite ala](https://joelthomastr.github.io/tokipona/jan-ekite-ala_si)</span>
 - <span class="si">[toki lili lon ma kasi](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_si)</span>

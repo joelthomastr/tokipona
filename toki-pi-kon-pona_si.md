@@ -46,11 +46,11 @@
 
 <span class="si">tenpo pini la jan sona mute li toki e ni: lon. kama sona pi nasin toki tan lipu li wile e wawa lawa mute. taso sina kama sona pona la tenpo mute la sina kama pilin e toki. sina kama pilin la sina ken toki kepeken ala wawa mute kepeken ala tenpo mute.</span>
 
-<span class="si">taso kulupu ante pi jan sona li lon. jan wan tan kulupu ni li jan KASEN. (nimi ona lon toki Inli li ni: "<span class="sidef">Stephen Krashen</span>"). jan KASEN en jan sona sama ona li toki e ni: nasin toki la nasin ni pi kama sona li ike. jan li ken ala kama pilin tan kama sona.</span>
+<span class="si">taso kulupu ante pi jan sona li lon. jan wan tan kulupu ni li jan Kasen. (nimi ona lon toki Inli li ni: "<span class="sidef">Stephen Krashen</span>"). jan Kasen en jan sona sama ona li toki e ni: nasin toki la nasin ni pi kama sona li ike. jan li ken ala kama pilin tan kama sona.</span>
 
 ## <span class="si">jan li kama sona e nasin toki tan toki pi kon pona</span>
 
-<span class="si">ni li nasin ike pi kama sona la nasin pona li seme? jan KASEN li toki e ijo tu.</span>
+<span class="si">ni li nasin ike pi kama sona la nasin pona li seme? jan Kasen li toki e ijo tu.</span>
 
 <span class="si">nanpa wan li ni: kama sona en kama pilin li ante. jan li kama sona e nasin toki la ona li pilin ala e nasin toki ni. jan sama ni li ken toki e ijo mute pi nasin toki. taso ken la jan li ken ala kepeken nasin toki ni. ante la jan li ken kama pilin e nasin toki kepeken ala sona.</span>
 
@@ -58,7 +58,7 @@
 
 <span class="si">toki Inli la kama sona li "<span class="sidef">language learning</span>", kama pilin li "<span class="sidef">language acquisition</span>."</span>
 
-<span class="si">jan KASEN li toki e ijo tu. ijo nanpa tu li ni: jan li kama sona e nasin toki sin kepeken nasin wan: toki pi kon pona.</span>
+<span class="si">jan Kasen li toki e ijo tu. ijo nanpa tu li ni: jan li kama sona e nasin toki sin kepeken nasin wan: toki pi kon pona.</span>
 
 <span class="si">toki pi kon pona li seme? toki pi kon pona la sina sona pona e kon, taso sina sona ala e nimi ale.</span>
 
@@ -66,7 +66,7 @@
 
 <span class="si">ante la sina ken sona e kon tan ijo pi toki ala. insa pi  lawa sina la o lukin e ni: jan li kama tawa sina. ona li toki tawa sina lon nasin toki ante. sina sona ala e toki ona. taso sina lukin e ni: kon li seli. jan ni li pilin ike. ona li open e uta ona. sina kute e kon lon uta ona. palisa luka ona li tawa uta ona. ona li wile e ni: sina lukin e uta ona. uta ona la telo li lon ala. ni la sina pilin e kon pi toki pi jan ni. kon li ni: "o pana e telo tawa mi." sina pilin e kon pi toki pi jan ni.</span>
 
-<span class="si">ni li toki pi kon pona. toki pi kon pona la sina sona ala e nimi ale, taso sina sona e kon tan nimi ante anu sona ante. jan KASEN li toki e ni: jan li kute e toki pi kon pona la jan li kama pilin e nasin toki. ante la jan KASEN li toki e ni: nasin ante li lon ala. jan li ken kama sona pona e nasin toki, taso ni li kama pilin ala. jan li kama pilin e nasin toki sin kepeken toki pi kon pona taso.</span>
+<span class="si">ni li toki pi kon pona. toki pi kon pona la sina sona ala e nimi ale, taso sina sona e kon tan nimi ante anu sona ante. jan Kasen li toki e ni: jan li kute e toki pi kon pona la jan li kama pilin e nasin toki. ante la jan Kasen li toki e ni: nasin ante li lon ala. jan li ken kama sona pona e nasin toki, taso ni li kama pilin ala. jan li kama pilin e nasin toki sin kepeken toki pi kon pona taso.</span>
 
 <span class="si">nimi pi toki pi kon pona lon toki Inli li ni: "<span class="sidef">comprehensible input</span>."</span>
 

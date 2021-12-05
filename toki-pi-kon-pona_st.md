@@ -24,7 +24,7 @@
 
 ## <span class="st">sitelen tawami li kepeken nasin seme?</span>
 
-<span class="st">sina ken lukin e kulupu pi sitelen tawami lon ma Jutu. nimi kulupu li "toki lili lon ma kasi". sitelen tawa lili mute li lon kulupu ni. sina ken lukin e sitelen ale ni lon tenpo lili. ilo tenpo la sina kepeken tenpo lili pi mute ni: mute luka luka anu ijo sama ni. ni li tenpo lili a! tenpo lili ni la sina ken lukin e sitelen tawa ale pi kulupu ni.</span>
+<span class="st">sina ken lukin e kulupu pi sitelen tawami lon ma JUTU. nimi kulupu li "toki lili lon ma kasi". sitelen tawa lili mute li lon kulupu ni. sina ken lukin e sitelen ale ni lon tenpo lili. ilo tenpo la sina kepeken tenpo lili pi mute ni: mute luka luka anu ijo sama ni. ni li tenpo lili a! tenpo lili ni la sina ken lukin e sitelen tawa ale pi kulupu ni.</span>
 
 <span class="st">sitelen tawa ni la mi pana e lukin ni tawa sina: seme li lon ma kasi? sina lukin e kasi suli e telo suli. mi pali e sitelen tawa ni lon tenpo pini. tenpo ni la kule pi lipu kasi li ante li kama jelo li kama loje. ale li pona lukin a. sitelen tawa la mi toki e ale ni kepeken tokipona.</span>
 

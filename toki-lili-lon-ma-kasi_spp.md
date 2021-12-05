@@ -8,7 +8,7 @@
 
 {% include Jutu-toki-lili-lon-ma-kasi.md %}
 
-<span class="spp">mun pini nanpa wan pi mun ni la mi pana e kulupu pi sitelen tawa sin tawa ma JUTU. o lukin! sitelen tawa ale ni li lili li pona lukin li suwi lukin. suli la kulupu ni pi sitelen tawa li pona mute tawa jan sin pi toki pona. </span>
+<span class="spp">mun pini nanpa wan pi mun ni la mi pana e kulupu pi sitelen tawa sin tawa ma JUTU. o lukin! sitelen tawa ale ni li lili li pona lukin li suwi lukin. suli la kulupu ni pi sitelen tawa li [pona mute tawa jan sin pi toki pona](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_spp). </span>
 
 {% include ante-pini_spp.md date="2021-12-05" %}
 

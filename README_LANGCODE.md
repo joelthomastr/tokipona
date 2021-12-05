@@ -9,7 +9,7 @@ o pona! ni li kulupu lipu mi tawa ni: mi sitelen e ijo kepeken toki+pona. mi wil
 - <span class="lpdef">2021-12-05:</span> [toki pi+kon+pona](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_LANGCODE)
 - <span class="lpdef">2021-12-05:</span> [toki+lili lon ma+kasi](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_LANGCODE)
 
-# sitelen+tawa en kalama enmusi
+# sitelen+tawa en kalama en musi
 
 - [nasin pi+sitelen+ma pi+jan EKITE ala](https://joelthomastr.github.io/tokipona/jan-ekite-ala_LANGCODE)
 - [toki+lili lon ma+kasi](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_LANGCODE)

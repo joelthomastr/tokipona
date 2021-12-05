@@ -24,7 +24,7 @@
 
 ## <span class="lp">sitelen+tawa mi li kepeken nasin seme</span>
 
-<span class="lp">sina ken lukin e kulupu pi sitelen+tawa mi lon ma Jutu. nimi kulupu li "toki+lili lon ma+kasi". sitelen+tawa lili mute li lon kulupu ni. sina ken lukin e sitelen ale ni lon tenpo+lili. ilo+tenpo la sina kepeken tenpo+lili pi mute ni: mute luka luka anu ijo sama ni. ni li tenpo+lili a! tenpo+lili ni la sina ken lukin e sitelen+tawa ale pi++kulupu ni.</span>
+<span class="lp">sina ken lukin e kulupu pi sitelen+tawa mi lon ma [_jan_utala_telo_uta]. nimi kulupu li "toki+lili lon ma+kasi". sitelen+tawa lili mute li lon kulupu ni. sina ken lukin e sitelen ale ni lon tenpo+lili. ilo+tenpo la sina kepeken tenpo+lili pi mute ni: mute luka luka anu ijo sama ni. ni li tenpo+lili a! tenpo+lili ni la sina ken lukin e sitelen+tawa ale pi++kulupu ni.</span>
 
 <span class="lp">sitelen+tawa ni la mi pana e lukin ni tawa sina: seme li lon ma+kasi. sina lukin e kasi+suli e telo+suli. mi pali e sitelen+tawa ni lon tenpo pini. tenpo ni la kule pi+lipu+kasi li ante li kama jelo li kama loje. ale li pona+lukin a. sitelen+tawa la mi toki e ale ni kepeken toki-pona.</span>
 
@@ -46,11 +46,11 @@
 
 <span class="lp">tenpo+pini la jan+sona mute li toki e ni: lon. kama+sona pi++nasin toki tan lipu li wile e wawa lawa mute. taso sina kama sona pona la tenpo+mute la sina kama pilin e toki. sina kama pilin la sina ken toki kepeken ala wawa mute kepeken ala tenpo+mute.</span>
 
-<span class="lp">taso kulupu ante pi jan+sona li lon. jan wan tan kulupu ni li jan KASEN. (nimi ona lon toki [_ilo_nasin_li_ilo] li ni: "<span class="lpdef">Stephen Krashen</span>"). jan KASEN en jan+sona sama ona li toki e ni: nasin toki la nasin ni pi+kama+sona li ike. jan li ken ala kama pilin tan kama+sona.</span>
+<span class="lp">taso kulupu ante pi jan+sona li lon. jan wan tan kulupu ni li jan [_kute_ale_sona_en_nasin]. (nimi ona lon toki [_ilo_nasin_li_ilo] li ni: "<span class="lpdef">Stephen Krashen</span>"). jan [_kute_ale_sona_en_nasin] en jan+sona sama ona li toki e ni: nasin toki la nasin ni pi+kama+sona li ike. jan li ken ala kama pilin tan kama+sona.</span>
 
 ## <span class="lp">jan li kama sona e nasin toki tan toki pi+kon+pona</span>
 
-<span class="lp">ni li nasin ike pi+kama+sona la nasin pona li seme. jan KASEN li toki e ijo tu.</span>
+<span class="lp">ni li nasin ike pi+kama+sona la nasin pona li seme. jan [_kute_ale_sona_en_nasin] li toki e ijo tu.</span>
 
 <span class="lp">nanpa wan li ni: kama+sona en kama+pilin li ante. jan li kama sona e nasin toki la ona li pilin ala e nasin toki ni. jan sama ni li ken toki e ijo+mute pi nasin toki. taso ken la jan li ken ala kepeken nasin toki ni. ante la jan li ken kama pilin e nasin toki kepeken ala sona.</span>
 
@@ -58,7 +58,7 @@
 
 <span class="lp">toki [_ilo_nasin_li_ilo] la kama+sona li "<span class="lpdef">language learning</span>", kama+pilin li "<span class="lpdef">language acquisition</span>."</span>
 
-<span class="lp">jan KASEN li toki e ijo tu. ijo nanpa tu li ni: jan li kama sona e nasin toki sin kepeken nasin wan: toki pi+kon+pona.</span>
+<span class="lp">jan [_kute_ale_sona_en_nasin] li toki e ijo tu. ijo nanpa tu li ni: jan li kama sona e nasin toki sin kepeken nasin wan: toki pi+kon+pona.</span>
 
 <span class="lp">toki pi+kon+pona li seme. toki pi+kon+pona la sina sona pona e kon, taso sina sona ala e nimi ale.</span>
 
@@ -66,7 +66,7 @@
 
 <span class="lp">ante la sina ken sona e kon tan ijo pi+toki+ala. insa pi++ lawa sina la o lukin e ni: jan li kama tawa sina. ona li toki tawa sina lon nasin toki ante. sina sona ala e toki ona. taso sina lukin e ni: kon li seli. jan ni li pilin ike. ona li open e uta ona. sina kute e kon lon uta ona. palisa luka ona li tawa uta ona. ona li wile e ni: sina lukin e uta ona. uta ona la telo li lon ala. ni la sina pilin e kon pi+toki pi++jan ni. kon li ni: "o pana e telo tawa mi." sina pilin e kon pi+toki pi++jan ni.</span>
 
-<span class="lp">ni li toki pi+kon+pona. toki pi+kon+pona la sina sona ala e nimi ale, taso sina sona e kon tan nimi+ante anu sona+ante. jan KASEN li toki e ni: jan li kute e toki pi+kon+pona la jan li kama pilin e nasin toki. ante la jan KASEN li toki e ni: nasin ante li lon ala. jan li ken kama sona pona e nasin toki, taso ni li kama+pilin ala. jan li kama pilin e nasin toki sin kepeken toki pi+kon+pona taso.</span>
+<span class="lp">ni li toki pi+kon+pona. toki pi+kon+pona la sina sona ala e nimi ale, taso sina sona e kon tan nimi+ante anu sona+ante. jan [_kute_ale_sona_en_nasin] li toki e ni: jan li kute e toki pi+kon+pona la jan li kama pilin e nasin toki. ante la jan [_kute_ale_sona_en_nasin] li toki e ni: nasin ante li lon ala. jan li ken kama sona pona e nasin toki, taso ni li kama+pilin ala. jan li kama pilin e nasin toki sin kepeken toki pi+kon+pona taso.</span>
 
 <span class="lp">nimi pi toki pi+kon+pona lon toki Inli li ni: "<span class="lpdef">comprehensible input</span>."</span>
 

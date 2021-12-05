@@ -8,7 +8,7 @@
 
 {% include Jutu-toki-lili-lon-ma-kasi.md %}
 
-mun pini nanpa wan pi++mun ni la mi pana e kulupu pi+sitelen+tawa sin tawa ma JUTU. o lukin! sitelen+tawa ale ni li lili li pona+lukin li suwi lukin. suli la kulupu ni pi+sitelen+tawa li pona mute tawa jan+sin pi+toki+pona. 
+mun pini nanpa wan pi++mun ni la mi pana e kulupu pi+sitelen+tawa sin tawa ma JUTU. o lukin! sitelen+tawa ale ni li lili li pona+lukin li suwi lukin. suli la kulupu ni pi+sitelen+tawa li [pona mute tawa jan+sin pi+toki+pona](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_LANGCODE). 
 
 {% include ante-pini_LANGCODE.md date="2021-12-05" %}
 
