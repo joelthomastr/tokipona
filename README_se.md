@@ -7,7 +7,7 @@
 # <span class="se"><i class='twa twa-question-mark'></i><i class='twa twa-play-button'></i><i class='twa twa-wrapped-gift'></i>?</span>
 
 - <span class="se"><span class="sedef">2021-12-05:</span> [<span style="background-color:#574500;"><i class='twa twa-speaking-head'></i><i class='twa twa-stop-button'></i><i class='twa twa-dashing-away'></i><i class='twa twa-thumbs-up'></i></span>](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_se)</span>
-- <span class="se"><span class="sedef">2021-12-05:</span> [<span style="background-color:#574500;"><i class='twa twa-speaking-head'></i><i class='twa twa-mouse-face'></i><i class='twa twa-round-pushpin'></i><i class='twa twa-desert-island'></i><i class='twa twa-palm-tree'></i></span>](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_se)</span>
+- <span class="se"><span class="sedef">2021-12-05:</span> [<span style="background-color:#574500;"><i class='twa twa-speaking-head'></i><i class='twa twa-mouse-face'></i><i class='twa twa-round-pushpin'></i><i class='twa twa-desert-island'></i><i class='twa twa-palm-tree'></i></span>](https://joelthomastr.github.io/tokipona/toki-lili-lon-ma-kasi_se)</span>
 
 # <span class="se"><i class='twa twa-framed-picture'></i><i class='twa twa-left-arrow-curving-right'></i><i class='twa twa-plus-sign'></i><i class='twa twa-speaker-low-volume'></i><i class='twa twa-plus-sign'></i><i class='twa twa-grinning-face-with-big-eyes'></i></span>
 

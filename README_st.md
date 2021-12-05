@@ -7,7 +7,7 @@
 # <span class="st">seme li sin?</span>
 
 - <span class="st"><span class="stdef">2021-12-05:</span> [toki pi kon pona](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_st)</span>
-- <span class="st"><span class="stdef">2021-12-05:</span> [toki lili lon ma kasi](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_st)</span>
+- <span class="st"><span class="stdef">2021-12-05:</span> [toki lili lon ma kasi](https://joelthomastr.github.io/tokipona/toki-lili-lon-ma-kasi_st)</span>
 
 # <span class="st">sitelen tawa en kalama en musi</span>
 

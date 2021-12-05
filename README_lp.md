@@ -7,7 +7,7 @@
 # <span class="lp">seme li sin</span>
 
 - <span class="lp"><span class="lpdef">2021-12-05:</span> [toki pi+kon+pona](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_lp)</span>
-- <span class="lp"><span class="lpdef">2021-12-05:</span> [toki+lili lon ma+kasi](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_lp)</span>
+- <span class="lp"><span class="lpdef">2021-12-05:</span> [toki+lili lon ma+kasi](https://joelthomastr.github.io/tokipona/toki-lili-lon-ma-kasi_lp)</span>
 
 # <span class="lp">sitelen+tawa en kalama en musi</span>
 
