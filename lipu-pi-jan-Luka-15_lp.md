@@ -1,6 +1,6 @@
 {% include header.md pagename="lipu-pi-jan-Luka-15" %}
 
-
+ 
 
 <span class="lp">[tomo](https://joelthomastr.github.io/tokipona/README_lp)&nbsp;&nbsp;>&nbsp;&nbsp;lipu ni</span>
 
