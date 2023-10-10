@@ -19,9 +19,9 @@
 
 #### <span class="lp">toki+lili pi++pana sona tan jan pi++ante toki</span>
 
-<span class="lp">[^1]: jan pi kulupu mani li kulupu e mani wile tan jan+ma li pana e mani ni tawa kulupu lawa.</span>
-<span class="lp">[^2]: kulupu PELISE la pali wile mute li lon tawa nasin pi+lipu+sewi. kulupu ni li pilin e ni: "jan ante li ike, mi pona a lon nasin sewi."</span>
-<span class="lp">[^3]: soweli ni li soweli moku li jo e nena+sike pi++loje walo lon sinpin ona li pana ala e telo+walo moku tawa jan li moku e jaki. kulupu mama pi+jan JESU la lipu+sewi li toki e ni: soweli ni li jaki, o moku anu luka ala e soweli ni.</span>
+[^1]: <span class="lp">jan pi kulupu mani li kulupu e mani wile tan jan+ma li pana e mani ni tawa kulupu lawa.</span>
+[^2]: <span class="lp">kulupu PELISE la pali wile mute li lon tawa nasin pi+lipu+sewi. kulupu ni li pilin e ni: "jan ante li ike, mi pona a lon nasin sewi."</span>
+[^3]: <span class="lp">soweli ni li soweli moku li jo e nena+sike pi++loje walo lon sinpin ona li pana ala e telo+walo moku tawa jan li moku e jaki. kulupu mama pi+jan JESU la lipu+sewi li toki e ni: soweli ni li jaki, o moku anu luka ala e soweli ni.</span>
 
 {% include lipu-pi-jan-Luka-15_lp.md date="2023-10-10" %}
 
