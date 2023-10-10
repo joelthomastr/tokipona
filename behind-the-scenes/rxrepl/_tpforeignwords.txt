@@ -3,6 +3,7 @@ E-mail,esun mute esun li,EMAIL
 Inli,ilo nasin li ilo,INLI
 Kapu,kule ale pona uta,KAPU
 Lasina,luka awen sitelen insa ni awen,LASINA
+Linsi,lukin insa ni seme ilo,LINSI
 Peman,pi en ma ante ni,PEMAN
 Sonko,sona o ni kon o,SONKO
 Sonja,sona open nasin jan ale,SONJA

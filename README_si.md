@@ -4,6 +4,8 @@
 
 <span class="si">o pona! ni li kulupu lipu mi tawa ni: mi sitelen e ijo kepeken toki pona. mi wile kama sona e toki pona li musi li pana e musi e sona tawa ale!</span>
 
+> <span class="si">[o lukin e ijo ante mi lon ilo Linsi](https://linktr.ee/jantelakoman) &nbsp; <a href="https://linktr.ee/jantelakoman"><img src="https://joelthomastr.github.io/tokipona/Linktree_logo.svg.png" style="height: 1em;"></a></span>
+
 # <span class="si">seme li sin?</span>
 
 - <span class="si"><span class="sidef">2021-12-05:</span> [toki pi kon pona](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_si)</span>
