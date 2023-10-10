@@ -6,6 +6,7 @@ Kapu,kule ale pona uta,KAPU
 Lasina,luka awen sitelen insa ni awen,LASINA
 Linsi,lukin insa ni seme ilo,LINSI
 Luka,lipu uta kili a,LUKA
+Pelise,pana e li insa sama e,PELISE
 Peman,pi en ma ante ni,PEMAN
 Sonko,sona o ni kon o,SONKO
 Sonja,sona open nasin jan ale,SONJA
