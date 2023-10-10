@@ -24,6 +24,6 @@
 [^2]: kulupu PELISE la pali wile mute li lon tawa nasin pi+lipu+sewi. kulupu ni li pilin e ni: "jan ante li ike, mi pona a lon nasin sewi."
 [^3]: soweli ni li soweli moku li jo e nena+sike pi++loje walo lon sinpin ona li pana ala e telo+walo moku tawa jan li moku e jaki. kulupu mama pi+jan JESU la lipu+sewi li toki e ni: soweli ni li jaki, o moku anu luka ala e soweli ni.
 
-{% include lipu-pi-jan-Luka-15_LANGCODE.md date="2023-10-10" %}
+{% include ante-pini_lp.md date="2023-10-10" %}
 
 {% include likebtn.md pagename_lang="lipu-pi-jan-Luka-15_LANGCODE" %}
