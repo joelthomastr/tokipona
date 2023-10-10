@@ -4,6 +4,8 @@
 
 <span class="en">Be well! This is my group of documents for this: I write something using Toki Pona. I want to become knowing Toki Pona, be playful, give entertainment and knowledge to all!</span>
 
+> [look at my other things on the tool](https://linktr.ee/jantelakoman) <a href="https://linktr.ee/jantelakoman"><img src="https://joelthomastr.github.io/tokipona/Linktree_logo.svg.png" style="height: 1em;"></a>
+
 # <span class="en">What is new?</span>
 
 - <span class="en">2021-12-05: [Speech of Good Essence](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_en)</span>
