@@ -17,12 +17,10 @@
 
 <span class="lp"><sup>_25_</sup> taso tenpo ni la jan+sin nanpa wan li lon ma+pan. jan ni li kama la ona li kama lon weka lili tawa tomo la ona li kute e kalama musi e tawa+sijelo musi. <sup>_26_</sup> ni la jan+sin nanpa wan li kama e jan+pali wan tan tomo tawa poka ona li toki e ni: "ni ale li seme?" <sup>_27_</sup> jan pali li toki e ni: "jan sina pi+mama+sama li kama. mama sina li moli e mani pi+sijelo+pona tan ni: jan+sin ona li kama sin tawa ona la sijelo pi+jan+sin li pakala ala." <sup>_28_</sup> taso jan+sin nanpa wan li pilin+ike wawa li wile ala tawa insa tomo. ni la mama ona li kama tan tomo tawa poka ona li open e toki-pona tawa ni: jan+sin li kama tawa insa tomo. <sup>_29_</sup> ni la jan+sin li toki e ni tawa mama: 'o lukin! tenpo+sike suno mute a la mi pali e pali sina. sina toki e pali tawa mi la mi pali e ni. tenpo ala la mi pali ala e pali pi++toki sina. taso tenpo ala la sina pana e soweli lili pi++telo moku tawa mi tawa ni: mi en jan+pona ale mi li musi. <sup>_30_</sup> taso jan sina ni li moku e ijo ale sina kepeken meli+unpa esun. ona li kama la sina pali e ni tawa ona: sina moli e soweli mani pi+sijelo+pona!' <sup>_31_</sup> ni la mama li toki e ni tawa ona: 'jan mi o, tenpo ale la sina lon poka mi, ijo ale mi li ijo sina. <sup>_32_</sup> taso ni li wile: mi ale li musi li pilin+pona. ni li tan ni: jan sina pi+mama+sama li moli, taso tenpo ni la ona li lon sin. ona li weka tan lukin, tan sona. taso tenpo ni la mi lukin e ona.'"</span>
 
-#### <span class="lp">toki+lili pi++pana sona tan jan pi++ante toki</span>
-
 [^1]: <span class="lp">jan pi kulupu mani li kulupu e mani wile tan jan+ma li pana e mani ni tawa kulupu lawa.</span>
 [^2]: <span class="lp">kulupu PELISE la pali wile mute li lon tawa nasin pi+lipu+sewi. kulupu ni li pilin e ni: "jan ante li ike, mi pona a lon nasin sewi."</span>
 [^3]: <span class="lp">soweli ni li soweli moku li jo e nena+sike pi++loje walo lon sinpin ona li pana ala e telo+walo moku tawa jan li moku e jaki. kulupu mama pi+jan JESU la lipu+sewi li toki e ni: soweli ni li jaki, o moku anu luka ala e soweli ni.</span>
 
-{% include lipu-pi-jan-Luka-15_lp.md date="2023-10-10" %}
+{% include ante-pini_lp.md date="2023-10-10" %}
 
 {% include likebtn.md pagename_lang="lipu-pi-jan-Luka-15_lp" %}
