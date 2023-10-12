@@ -1,16 +1,27 @@
+Antowi,a ni toki o jo ijo,ANTOWI
 Atom,anu taso ona mute,ATOM
+Ekite,e ken ilo tawa e,EKITE
 E-mail,esun mute esun li,EMAIL
 Inli,ilo nasin li ilo,INLI
-Jesu,jan en sewi uta,JESU
+Isaje,insa sama a jo e,ISAJE
+Jesu,jan e sewi uta,JESU
+Kanata,kasi alasa nasin awen telo a,KANATA
+Kolisu,kama o li ijo sama uta,KOLISU
 Kapu,kule ale pona uta,KAPU
+Kasen,kute ale sona en nasin,KASEN
+Kasi,kasi,KASI
+Kili,kili,KILI
 Lasina,luka awen sitelen insa ni awen,LASINA
-Linsi,lukin insa ni seme ilo,LINSI
-Luka,lipu uta kili a,LUKA
-Pelise,pana e li insa sama e,PELISE
+Linsi,lukin ilo ni sitelen ilo,LINSI
+Luka,linja uta kepeken a,LUKA
+Pelise,pana e li ijo sama e,PELISE
 Peman,pi en ma ante ni,PEMAN
 Sonko,sona o ni kon o,SONKO
 Sonja,sona open nasin jan ale,SONJA
 Telakoman,toki en lipu alasa kon olin mama anpa nasin,TELAKOMAN
 Lope,lawa open pana e,LOPE
+Losi,lawa open suli ilo,LOSI
 Siko,sitelen ilo kon o,SIKO
 Wesi,wile e sona ijo,WESI
+Ko,ko,KO
+Jutu,jan utala telo uta,JUTU

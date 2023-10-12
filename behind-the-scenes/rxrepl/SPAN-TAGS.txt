@@ -11,5 +11,6 @@
 -s~ENDTAGHERE \| ~ -r~ENDTAGHERE | STARTTAGHERE~
 -s~STARTTAGHEREALSOADDEND(.*?)(\r\n)~ -r~STARTTAGHERE\1ENDTAGHERE\2~
 -s~STARTTAGHERE<span class="lp">ENDTAGHERE~ -r~~
+-s~(STARTTAGHERE)(\[\^.?\]:)~ -r~\2 \1~
 -s~STARTTAGHERE~ -r~<span class="lp">~
 -s~ENDTAGHERE~ -r~</span>~
