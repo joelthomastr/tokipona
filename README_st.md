@@ -8,8 +8,7 @@
 
 # <span class="st">seme li sin?</span>
 
-- <span class="st"><span class="stdef">2021-12-05:</span> [toki pi kon pona](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_st)</span>
-- <span class="st"><span class="stdef">2021-12-05:</span> [toki lili lon ma kasi](https://joelthomastr.github.io/tokipona/toki-lili-lon-ma-kasi_st)</span>
+- <span class="st"><span class="stdef">2023-10-14:</span> [toki suli nanpa luka luka luka pi lipu sewi pi jan LUKA](https://joelthomastr.github.io/tokipona/lipu-pi-jan-Luka-15_st)</span>
 
 # <span class="st">sitelen tawa en kalama en musi</span>
 
@@ -35,7 +34,7 @@
 
 - <span class="st">mi pali e [sitelen pona pona luka](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_st). kepeken ona la sina ken sitelen e sitelen pona pona kepeken palisa sitelen kepeken tenpo lili.</span>
 
-{% include ante-pini_st.md date="2021-12-05" %}
+{% include ante-pini_st.md date="2023-10-14" %}
 
 {% include likebtn.md pagename_lang="README_st" %}
 

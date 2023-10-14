@@ -8,8 +8,7 @@
 
 # <span class="en">What is new?</span>
 
-- <span class="en">2021-12-05: [Speech of Good Essence](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_en)</span>
-- <span class="en">2021-12-05: [Little Speeches in a Land of Plants](https://joelthomastr.github.io/tokipona/toki-lili-lon-ma-kasi_en)</span>
+- <span class="en">2023-10-14: [Big Speech Number Fifteen of the Divine Book of Luke](https://joelthomastr.github.io/tokipona/lipu-pi-jan-Luka-15_LANGCODE)</span>
 
 # <span class="en">Moving pictures, sound, entertainment</span>
 

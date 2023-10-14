@@ -8,8 +8,7 @@
 
 # <span class="se"><i class='twa twa-question-mark'></i><i class='twa twa-play-button'></i><i class='twa twa-wrapped-gift'></i>?</span>
 
-- <span class="se"><span class="sedef">2021-12-05:</span> [<span style="background-color:#574500;"><i class='twa twa-speaking-head'></i><i class='twa twa-stop-button'></i><i class='twa twa-dashing-away'></i><i class='twa twa-thumbs-up'></i></span>](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_se)</span>
-- <span class="se"><span class="sedef">2021-12-05:</span> [<span style="background-color:#574500;"><i class='twa twa-speaking-head'></i><i class='twa twa-mouse-face'></i><i class='twa twa-round-pushpin'></i><i class='twa twa-desert-island'></i><i class='twa twa-palm-tree'></i></span>](https://joelthomastr.github.io/tokipona/toki-lili-lon-ma-kasi_se)</span>
+- <span class="se"><span class="sedef">2023-10-14:</span> [<span style="background-color:#574500;"><i class='twa twa-speaking-head'></i><i class='twa twa-elephant'></i><i class='twa twa-keycap'></i><i class='twa twa-raised-hand'></i><i class='twa twa-raised-hand'></i><i class='twa twa-raised-hand'></i><i class='twa twa-stop-button'></i><i class='twa twa-page-facing-up'></i><i class='twa twa-up-arrow'></i><i class='twa twa-stop-button'></i><i class='twa twa-bust-in-silhouette'></i><i class='twa twa-input-symbols'></i><i class='twa twa-play-button'></i><i class='twa twa-mouth'></i><i class='twa twa-flexed-biceps'></i><i class='twa twa-exclamation-mark'></i><i class='twa twa-input-symbols'></i></span>](https://joelthomastr.github.io/tokipona/lipu-pi-jan-Luka-15_se)</span>
 
 # <span class="se"><i class='twa twa-framed-picture'></i><i class='twa twa-left-arrow-curving-right'></i><i class='twa twa-plus-sign'></i><i class='twa twa-speaker-low-volume'></i><i class='twa twa-plus-sign'></i><i class='twa twa-grinning-face-with-big-eyes'></i></span>
 
@@ -35,7 +34,7 @@
 
 - <span class="se"><i class='twa twa-backhand-index-pointing-left'></i><i class='twa twa-raised-fist'></i><i class='twa twa-fast-forward-button'></i> [<span style="background-color:#574500;"><i class='twa twa-framed-picture'></i><i class='twa twa-thumbs-up'></i><i class='twa twa-thumbs-up'></i><i class='twa twa-raised-hand'></i></span>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_se). <i class='twa twa-wrench'></i><i class='twa twa-backhand-index-pointing-up'></i><i class='twa twa-upwards-button'></i><i class='twa twa-backhand-index-pointing-right'></i><i class='twa twa-flexed-biceps'></i><i class='twa twa-framed-picture'></i><i class='twa twa-fast-forward-button'></i><i class='twa twa-framed-picture'></i><i class='twa twa-thumbs-up'></i><i class='twa twa-thumbs-up'></i><i class='twa twa-wrench'></i><i class='twa twa-straight-ruler'></i><i class='twa twa-framed-picture'></i><i class='twa twa-wrench'></i><i class='twa twa-alarm-clock'></i><i class='twa twa-mouse-face'></i>.</span>
 
-{% include ante-pini_se.md date="2021-12-05" %}
+{% include ante-pini_se.md date="2023-10-14" %}
 
 {% include likebtn.md pagename_lang="README_se" %}
 
