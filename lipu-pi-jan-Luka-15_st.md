@@ -2,7 +2,7 @@
 
 
 
-<span class="st">[tomo](https://joelthomastr.github.io/tokipona/README_st)&nbsp;&nbsp;>&nbsp;&nbsp;lipu ni</span>
+<span class="st"><a name="lawa"></a>[tomo](https://joelthomastr.github.io/tokipona/README_st)&nbsp;&nbsp;>&nbsp;&nbsp;lipu ni</span>
 
 # <span class="st">toki suli nanpa luka luka luka pi lipu sewi pi jan LUKA</span>
 
@@ -27,11 +27,14 @@
 
 <span class="st"><sup>_nanpa mute luka_</sup> "taso tenpo ni la jan sin nanpa wan li lon ma pan. jan ni li kama la ona li kama lon weka lili tawa tomo la ona li kute e kalama musi e tawa sijelo musi. &nbsp;<sup>_nanpa mute luka wan_</sup> ni la jan sin nanpa wan li kama e jan pali wan tan tomo tawa poka ona li toki eni : 'ni ale li seme?' &nbsp;<sup>_nanpa mute luka tu_</sup> jan pali li toki eni : 'jan sina pi mama sama li kama. mama sina li moli e mani pi sijelo pona tan ni: jan sin ona li kama sin tawa ona la sijelo pi jan sin li pakala ala.' &nbsp;<sup>_nanpa mute luka tu wan_</sup> taso jan sin nanpa wan li pilin ike wawa li wile ala tawa insa tomo. ni la mama ona li kama tan tomo tawa poka ona li open e tokipona tawa ni: jan sin li kama tawa insa tomo. &nbsp;<sup>_nanpa mute luka tu tu_</sup> ni la jan sin li toki eni tawa mama: 'o lukin! tenpo sike suno mute a la mi pali e pali sina. sina toki e pali tawami la mi pali eni. tenpo ala la mi pali ala e pali pi toki sina. taso tenpo ala la sina pana e soweli walo lili tawami tawa ni: mi en jan pona ale mi li musi. &nbsp;<sup>_nanpa mute luka luka_</sup> taso jan sina ni li moku e ijo ale sina kepeken meli unpa esun. ona li kama la sina pali eni tawa ona: sina moli e mani pi sijelo pona!' &nbsp;<sup>_nanpa mute luka luka wan_</sup> ni la mama li toki eni tawa ona: 'jan mi o, tenpo ale la sina lon poka mi, ijo ale mi li ijo sina. &nbsp;<sup>_nanpa mute luka luka tu_</sup> taso ni li wile: mi ale li musi li pilin pona. ni li tan ni: jan sina pi mama sama li moli, taso tenpo ni la ona li lon sin. ona li weka tan lukin, tan sona. taso tenpo ni la mi lukin e ona.'"</span>
 
+<span class="st">[lawa pi lipu ni](#lawa)</span>
+
+
 [^1]: <span class="st"> jan pi kulupu mani li kulupu e mani wile tan jan ma li pana e mani ni tawa kulupu lawa.</span>
 [^2]: <span class="st"> kulupu PELISE la pali wile mute li lon tawa nasin pi lipu sewi. kulupu ni li pilin eni : "jan ante li ike, mi pona a lon nasin sewi."</span>
-[^3]: <span class="st"> soweli walo li pana e telo moku walo tawa jan. nasin wan pi soweli walo la jan li kama jo e linja mute tan selo sijelo ona li pali e len kepeken linja ni. </span>
+[^3]: <span class="st"> soweli walo li pana e telo moku walo tawa jan. nasin wan pi soweli walo la jan li kama jo e linja mute tan selo sijelo ona li pali e len kepeken linja ni.</span>
 [^4]: <span class="st"> soweli ni li soweli moku li jo e nena sike pi loje walo lon sinpin ona li pana ala e telo walo moku tawa jan li moku e jaki. kulupu mama pi jan JESU la lipu sewi li toki eni : soweli ni li jaki, o moku anu luka ala e soweli ni.</span>
 
-{% include ante-pini_st.md date="2023-10-12" %}
+{% include ante-pini_st.md date="2023-10-14" %}
 
 {% include likebtn.md pagename_lang="lipu-pi-jan-Luka-15_st" %}
