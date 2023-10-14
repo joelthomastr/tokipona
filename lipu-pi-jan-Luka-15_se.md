@@ -2,7 +2,7 @@
 
 
 
-<span class="se"><<i class='twa twa-exclamation-mark'></i> name="<i class='twa twa-face-without-mouth'></i>"></<i class='twa twa-exclamation-mark'></i>>[<span style="background-color:#574500;"><i class='twa twa-house'></i></span>](https://joelthomastr.github.io/tokipona/README_se)&nbsp;&nbsp;>&nbsp;&nbsp;<i class='twa twa-page-facing-up'></i><i class='twa twa-backhand-index-pointing-down'></i></span>
+<span class="se"><a name="<i class='twa twa-face-without-mouth'></i>"></a>[<span style="background-color:#574500;"><i class='twa twa-house'></i></span>](https://joelthomastr.github.io/tokipona/README_se)&nbsp;&nbsp;>&nbsp;&nbsp;<i class='twa twa-page-facing-up'></i><i class='twa twa-backhand-index-pointing-down'></i></span>
 
 # <span class="se"><i class='twa twa-speaking-head'></i><i class='twa twa-elephant'></i><i class='twa twa-keycap'></i><i class='twa twa-raised-hand'></i><i class='twa twa-raised-hand'></i><i class='twa twa-raised-hand'></i><i class='twa twa-stop-button'></i><i class='twa twa-page-facing-up'></i><i class='twa twa-up-arrow'></i><i class='twa twa-stop-button'></i><i class='twa twa-bust-in-silhouette'></i><i class='twa twa-input-symbols'></i><i class='twa twa-play-button'></i><i class='twa twa-mouth'></i><i class='twa twa-flexed-biceps'></i><i class='twa twa-exclamation-mark'></i><i class='twa twa-input-symbols'></i></span>
 
