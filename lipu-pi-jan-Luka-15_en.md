@@ -2,7 +2,7 @@
 
 
 
-<a name="lawa"></a><span class="en">[tomo](https://joelthomastr.github.io/tokipona/README_en)&nbsp;&nbsp;>&nbsp;&nbsp;lipu ni</span>
+<a name="lawa"></a><span class="en">[Home](https://joelthomastr.github.io/tokipona/README_en)&nbsp;&nbsp;>&nbsp;&nbsp;This Page</span>
 
 # <span class="en">Big Speech Number Fifteen of the Divine Book of Luke</span>
 
