@@ -13,7 +13,7 @@
 # <span class="se"><i class='twa twa-framed-picture'></i><i class='twa twa-left-arrow-curving-right'></i><i class='twa twa-plus-sign'></i><i class='twa twa-speaker-low-volume'></i><i class='twa twa-plus-sign'></i><i class='twa twa-grinning-face-with-big-eyes'></i></span>
 
 - <span class="se">[<span style="background-color:#574500;"><i class='twa twa-motorway'></i><i class='twa twa-stop-button'></i><i class='twa twa-framed-picture'></i><i class='twa twa-desert-island'></i><i class='twa twa-stop-button'></i><i class='twa twa-bust-in-silhouette'></i><i class='twa twa-input-symbols'></i><i class='twa twa-fast-forward-button'></i><i class='twa twa-flexed-biceps'></i><i class='twa twa-gear'></i><i class='twa twa-left-arrow-curving-right'></i><i class='twa twa-fast-forward-button'></i><i class='twa twa-input-symbols'></i><i class='twa twa-cross-mark'></i></span>](https://joelthomastr.github.io/tokipona/jan-ekite-ala_se)</span>
-- <span class="se">[<span style="background-color:#574500;"><i class='twa twa-speaking-head'></i><i class='twa twa-mouse-face'></i><i class='twa twa-round-pushpin'></i><i class='twa twa-desert-island'></i><i class='twa twa-palm-tree'></i></span>](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_se)</span>
+- <span class="se">[<span style="background-color:#574500;"><i class='twa twa-speaking-head'></i><i class='twa twa-mouse-face'></i><i class='twa twa-round-pushpin'></i><i class='twa twa-desert-island'></i><i class='twa twa-palm-tree'></i></span>](https://joelthomastr.github.io/tokipona/toki-lili-lon-ma-kasi_se)</span>
 - <span class="se">[<span style="background-color:#574500;"><i class='twa twa-desert-island'></i><i class='twa twa-stop-button'></i><i class='twa twa-speech-balloon'></i><i class='twa twa-thumbs-up'></i></span>](https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona-1_se)</span>
 
 
@@ -34,7 +34,7 @@
 
 - <span class="se"><i class='twa twa-backhand-index-pointing-left'></i><i class='twa twa-raised-fist'></i><i class='twa twa-fast-forward-button'></i> [<span style="background-color:#574500;"><i class='twa twa-framed-picture'></i><i class='twa twa-thumbs-up'></i><i class='twa twa-thumbs-up'></i><i class='twa twa-raised-hand'></i></span>](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_se). <i class='twa twa-wrench'></i><i class='twa twa-backhand-index-pointing-up'></i><i class='twa twa-upwards-button'></i><i class='twa twa-backhand-index-pointing-right'></i><i class='twa twa-flexed-biceps'></i><i class='twa twa-framed-picture'></i><i class='twa twa-fast-forward-button'></i><i class='twa twa-framed-picture'></i><i class='twa twa-thumbs-up'></i><i class='twa twa-thumbs-up'></i><i class='twa twa-wrench'></i><i class='twa twa-straight-ruler'></i><i class='twa twa-framed-picture'></i><i class='twa twa-wrench'></i><i class='twa twa-alarm-clock'></i><i class='twa twa-mouse-face'></i>.</span>
 
-{% include ante-pini_se.md date="2023-10-14" %}
+{% include ante-pini_se.md date="2023-10-20" %}
 
 {% include likebtn.md pagename_lang="README_se" %}
 

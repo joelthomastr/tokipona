@@ -13,7 +13,7 @@
 # <span class="en">Moving pictures, sound, entertainment</span>
 
 - <span class="en">[The Way of Earth Writing Not of Euclid](https://joelthomastr.github.io/tokipona/jan-ekite-ala_en)</span>
-- <span class="en">[Little Speeches in a Land of Plants](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_en)</span>
+- <span class="en">[Little Speeches in a Land of Plants](https://joelthomastr.github.io/tokipona/toki-lili-lon-ma-kasi_en)</span>
 - <span class="en">[The Land of Good Words](https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona-1_en)</span>
 
 # <span class="en">My inside thinking</span>
@@ -33,7 +33,7 @@
 
 - <span class="en">I made [Sitelen Pona Pona Luka](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_en). Using it you can write Sitelen Pona Pona using a writing stick using little time.</span>
 
-{% include ante-pini_en.md date="2021-12-05" %}
+{% include ante-pini_en.md date="2023-10-20" %}
 
 {% include likebtn.md pagename_lang="README_en" %}
 

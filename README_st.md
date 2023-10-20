@@ -13,7 +13,7 @@
 # <span class="st">sitelen tawa en kalama en musi</span>
 
 - <span class="st">[nasin pi sitelen ma pi jan EKITE ala](https://joelthomastr.github.io/tokipona/jan-ekite-ala_st)</span>
-- <span class="st">[toki lili lon ma kasi](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_st)</span>
+- <span class="st">[toki lili lon ma kasi](https://joelthomastr.github.io/tokipona/toki-lili-lon-ma-kasi_st)</span>
 - <span class="st">[ma pi nimi pona](https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona-1_st)</span>
 
 
@@ -34,7 +34,7 @@
 
 - <span class="st">mi pali e [sitelen pona pona luka](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_st). kepeken ona la sina ken sitelen e sitelen pona pona kepeken palisa sitelen kepeken tenpo lili.</span>
 
-{% include ante-pini_st.md date="2023-10-14" %}
+{% include ante-pini_st.md date="2023-10-20" %}
 
 {% include likebtn.md pagename_lang="README_st" %}
 

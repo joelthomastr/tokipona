@@ -13,7 +13,7 @@ o pona! ni li kulupu lipu mi tawa ni: mi sitelen e ijo kepeken toki+pona. mi wil
 # sitelen+tawa en kalama en musi
 
 - [nasin pi+sitelen+ma pi+jan EKITE ala](https://joelthomastr.github.io/tokipona/jan-ekite-ala_LANGCODE)
-- [toki+lili lon ma+kasi](https://joelthomastr.github.io/tokipona/toki-pi-kon-pona_LANGCODE)
+- [toki+lili lon ma+kasi](https://joelthomastr.github.io/tokipona/toki-lili-lon-ma-kasi_LANGCODE)
 - [ma pi+nimi+pona](https://joelthomastr.github.io/tokipona/ma-pi-nimi-pona-1_LANGCODE)
 
 
@@ -34,7 +34,7 @@ o pona! ni li kulupu lipu mi tawa ni: mi sitelen e ijo kepeken toki+pona. mi wil
 
 - mi pali e [sitelen+pona+pona luka](https://joelthomastr.github.io/tokipona/sitelen-pona-pona-luka_LANGCODE). kepeken ona la sina ken sitelen e sitelen+pona+pona kepeken palisa+sitelen kepeken tenpo+lili.
 
-{% include ante-pini_LANGCODE.md date="2023-10-14" %}
+{% include ante-pini_LANGCODE.md date="2023-10-20" %}
 
 {% include likebtn.md pagename_lang="README_LANGCODE" %}
 
